@@ -1,0 +1,1261 @@
+Group,Code,Name,Year,Disease,Disease_description,Denominator,Incidence_rate
+COUNTRIES,IND,India,2010,MEASLES,Measles,"per 1,000,000 population",9.7
+COUNTRIES,IND,India,2010,POLIO,Poliomyelitis,"per 1,000,000 population",12.92
+COUNTRIES,IND,India,2010,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",21.03
+COUNTRIES,IND,India,2010,DIPHTHERIA,Diphtheria,"per 100,000 population",4.62
+COUNTRIES,IND,India,2010,TB,Tuberculosis,"per 1,000 live births",2.98
+COUNTRIES,IND,India,2010,HEPB,Hepatitis B,"per 100,000 population",6.52
+COUNTRIES,IND,India,2011,MEASLES,Measles,"per 1,000 live births",13.62
+COUNTRIES,IND,India,2011,POLIO,Poliomyelitis,"per 1,000 live births",13.9
+COUNTRIES,IND,India,2011,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",14.04
+COUNTRIES,IND,India,2011,DIPHTHERIA,Diphtheria,"per 100,000 population",18.24
+COUNTRIES,IND,India,2011,TB,Tuberculosis,"per 1,000 live births",20.17
+COUNTRIES,IND,India,2011,HEPB,Hepatitis B,"per 100,000 population",14.58
+COUNTRIES,IND,India,2012,MEASLES,Measles,"per 1,000 live births",4.89
+COUNTRIES,IND,India,2012,POLIO,Poliomyelitis,"per 1,000 live births",3.04
+COUNTRIES,IND,India,2012,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",19.09
+COUNTRIES,IND,India,2012,DIPHTHERIA,Diphtheria,"per 1,000 live births",11.02
+COUNTRIES,IND,India,2012,TB,Tuberculosis,"per 1,000,000 population",27.32
+COUNTRIES,IND,India,2012,HEPB,Hepatitis B,"per 100,000 population",20.49
+COUNTRIES,IND,India,2013,MEASLES,Measles,"per 1,000 live births",29.37
+COUNTRIES,IND,India,2013,POLIO,Poliomyelitis,"per 100,000 population",21.72
+COUNTRIES,IND,India,2013,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",7.12
+COUNTRIES,IND,India,2013,DIPHTHERIA,Diphtheria,"per 1,000,000 population",1.78
+COUNTRIES,IND,India,2013,TB,Tuberculosis,"per 100,000 population",0.0
+COUNTRIES,IND,India,2013,HEPB,Hepatitis B,"per 1,000 live births",11.77
+COUNTRIES,IND,India,2014,MEASLES,Measles,"per 100,000 population",3.52
+COUNTRIES,IND,India,2014,POLIO,Poliomyelitis,"per 1,000 live births",13.24
+COUNTRIES,IND,India,2014,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",30.46
+COUNTRIES,IND,India,2014,DIPHTHERIA,Diphtheria,"per 1,000,000 population",5.66
+COUNTRIES,IND,India,2014,TB,Tuberculosis,"per 1,000,000 population",9.48
+COUNTRIES,IND,India,2014,HEPB,Hepatitis B,"per 1,000 live births",6.06
+COUNTRIES,IND,India,2015,MEASLES,Measles,"per 1,000 live births",25.69
+COUNTRIES,IND,India,2015,POLIO,Poliomyelitis,"per 100,000 population",18.99
+COUNTRIES,IND,India,2015,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",20.52
+COUNTRIES,IND,India,2015,DIPHTHERIA,Diphtheria,"per 1,000,000 population",14.56
+COUNTRIES,IND,India,2015,TB,Tuberculosis,"per 1,000 live births",17.95
+COUNTRIES,IND,India,2015,HEPB,Hepatitis B,"per 100,000 population",17.77
+COUNTRIES,IND,India,2016,MEASLES,Measles,"per 1,000 live births",11.98
+COUNTRIES,IND,India,2016,POLIO,Poliomyelitis,"per 100,000 population",13.46
+COUNTRIES,IND,India,2016,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",23.35
+COUNTRIES,IND,India,2016,DIPHTHERIA,Diphtheria,"per 1,000 live births",12.95
+COUNTRIES,IND,India,2016,TB,Tuberculosis,"per 1,000 live births",9.96
+COUNTRIES,IND,India,2016,HEPB,Hepatitis B,"per 1,000 live births",15.8
+COUNTRIES,IND,India,2017,MEASLES,Measles,"per 1,000 live births",9.53
+COUNTRIES,IND,India,2017,POLIO,Poliomyelitis,"per 100,000 population",27.53
+COUNTRIES,IND,India,2017,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",22.53
+COUNTRIES,IND,India,2017,DIPHTHERIA,Diphtheria,"per 1,000,000 population",16.11
+COUNTRIES,IND,India,2017,TB,Tuberculosis,"per 1,000 live births",23.85
+COUNTRIES,IND,India,2017,HEPB,Hepatitis B,"per 1,000 live births",8.97
+COUNTRIES,IND,India,2018,MEASLES,Measles,"per 1,000,000 population",21.98
+COUNTRIES,IND,India,2018,POLIO,Poliomyelitis,"per 1,000,000 population",4.46
+COUNTRIES,IND,India,2018,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",13.26
+COUNTRIES,IND,India,2018,DIPHTHERIA,Diphtheria,"per 1,000,000 population",9.41
+COUNTRIES,IND,India,2018,TB,Tuberculosis,"per 1,000,000 population",12.21
+COUNTRIES,IND,India,2018,HEPB,Hepatitis B,"per 1,000,000 population",8.8
+COUNTRIES,IND,India,2019,MEASLES,Measles,"per 100,000 population",8.98
+COUNTRIES,IND,India,2019,POLIO,Poliomyelitis,"per 100,000 population",33.17
+COUNTRIES,IND,India,2019,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",7.24
+COUNTRIES,IND,India,2019,DIPHTHERIA,Diphtheria,"per 1,000,000 population",1.36
+COUNTRIES,IND,India,2019,TB,Tuberculosis,"per 1,000,000 population",13.91
+COUNTRIES,IND,India,2019,HEPB,Hepatitis B,"per 1,000,000 population",10.03
+COUNTRIES,IND,India,2020,MEASLES,Measles,"per 1,000 live births",6.61
+COUNTRIES,IND,India,2020,POLIO,Poliomyelitis,"per 100,000 population",
+COUNTRIES,IND,India,2020,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",
+COUNTRIES,IND,India,2020,DIPHTHERIA,Diphtheria,"per 1,000,000 population",0.0
+COUNTRIES,IND,India,2020,TB,Tuberculosis,"per 1,000 live births",0.4
+COUNTRIES,IND,India,2020,HEPB,Hepatitis B,"per 100,000 population",14.92
+COUNTRIES,IND,India,2021,MEASLES,Measles,"per 1,000,000 population",23.49
+COUNTRIES,IND,India,2021,POLIO,Poliomyelitis,"per 1,000,000 population",0.0
+COUNTRIES,IND,India,2021,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",7.06
+COUNTRIES,IND,India,2021,DIPHTHERIA,Diphtheria,"per 1,000,000 population",18.57
+COUNTRIES,IND,India,2021,TB,Tuberculosis,"per 1,000,000 population",12.73
+COUNTRIES,IND,India,2021,HEPB,Hepatitis B,"per 1,000,000 population",13.44
+COUNTRIES,IND,India,2022,MEASLES,Measles,"per 1,000,000 population",
+COUNTRIES,IND,India,2022,POLIO,Poliomyelitis,"per 1,000 live births",8.17
+COUNTRIES,IND,India,2022,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",11.44
+COUNTRIES,IND,India,2022,DIPHTHERIA,Diphtheria,"per 1,000,000 population",10.24
+COUNTRIES,IND,India,2022,TB,Tuberculosis,"per 1,000,000 population",
+COUNTRIES,IND,India,2022,HEPB,Hepatitis B,"per 100,000 population",0.0
+COUNTRIES,IND,India,2023,MEASLES,Measles,"per 1,000,000 population",17.93
+COUNTRIES,IND,India,2023,POLIO,Poliomyelitis,"per 1,000 live births",16.18
+COUNTRIES,IND,India,2023,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",13.57
+COUNTRIES,IND,India,2023,DIPHTHERIA,Diphtheria,"per 100,000 population",4.06
+COUNTRIES,IND,India,2023,TB,Tuberculosis,"per 100,000 population",21.3
+COUNTRIES,IND,India,2023,HEPB,Hepatitis B,"per 1,000 live births",1.49
+COUNTRIES,USA,United States of America,2010,MEASLES,Measles,"per 1,000,000 population",34.62
+COUNTRIES,USA,United States of America,2010,POLIO,Poliomyelitis,"per 1,000 live births",33.68
+COUNTRIES,USA,United States of America,2010,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",35.34
+COUNTRIES,USA,United States of America,2010,DIPHTHERIA,Diphtheria,"per 1,000 live births",35.94
+COUNTRIES,USA,United States of America,2010,TB,Tuberculosis,"per 1,000,000 population",31.85
+COUNTRIES,USA,United States of America,2010,HEPB,Hepatitis B,"per 1,000,000 population",29.8
+COUNTRIES,USA,United States of America,2011,MEASLES,Measles,"per 1,000,000 population",35.18
+COUNTRIES,USA,United States of America,2011,POLIO,Poliomyelitis,"per 1,000,000 population",22.32
+COUNTRIES,USA,United States of America,2011,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",20.67
+COUNTRIES,USA,United States of America,2011,DIPHTHERIA,Diphtheria,"per 100,000 population",38.53
+COUNTRIES,USA,United States of America,2011,TB,Tuberculosis,"per 1,000 live births",33.9
+COUNTRIES,USA,United States of America,2011,HEPB,Hepatitis B,"per 100,000 population",62.45
+COUNTRIES,USA,United States of America,2012,MEASLES,Measles,"per 1,000 live births",30.98
+COUNTRIES,USA,United States of America,2012,POLIO,Poliomyelitis,"per 1,000,000 population",28.47
+COUNTRIES,USA,United States of America,2012,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",30.05
+COUNTRIES,USA,United States of America,2012,DIPHTHERIA,Diphtheria,"per 1,000,000 population",28.91
+COUNTRIES,USA,United States of America,2012,TB,Tuberculosis,"per 1,000,000 population",40.88
+COUNTRIES,USA,United States of America,2012,HEPB,Hepatitis B,"per 1,000,000 population",35.88
+COUNTRIES,USA,United States of America,2013,MEASLES,Measles,"per 100,000 population",10.35
+COUNTRIES,USA,United States of America,2013,POLIO,Poliomyelitis,"per 1,000,000 population",35.63
+COUNTRIES,USA,United States of America,2013,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",23.1
+COUNTRIES,USA,United States of America,2013,DIPHTHERIA,Diphtheria,"per 1,000 live births",34.09
+COUNTRIES,USA,United States of America,2013,TB,Tuberculosis,"per 1,000 live births",18.93
+COUNTRIES,USA,United States of America,2013,HEPB,Hepatitis B,"per 1,000,000 population",37.13
+COUNTRIES,USA,United States of America,2014,MEASLES,Measles,"per 100,000 population",22.35
+COUNTRIES,USA,United States of America,2014,POLIO,Poliomyelitis,"per 1,000,000 population",38.72
+COUNTRIES,USA,United States of America,2014,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",35.59
+COUNTRIES,USA,United States of America,2014,DIPHTHERIA,Diphtheria,"per 100,000 population",27.03
+COUNTRIES,USA,United States of America,2014,TB,Tuberculosis,"per 100,000 population",21.01
+COUNTRIES,USA,United States of America,2014,HEPB,Hepatitis B,"per 100,000 population",20.31
+COUNTRIES,USA,United States of America,2015,MEASLES,Measles,"per 1,000,000 population",33.64
+COUNTRIES,USA,United States of America,2015,POLIO,Poliomyelitis,"per 1,000 live births",38.48
+COUNTRIES,USA,United States of America,2015,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",37.85
+COUNTRIES,USA,United States of America,2015,DIPHTHERIA,Diphtheria,"per 100,000 population",29.7
+COUNTRIES,USA,United States of America,2015,TB,Tuberculosis,"per 1,000 live births",33.56
+COUNTRIES,USA,United States of America,2015,HEPB,Hepatitis B,"per 1,000,000 population",28.59
+COUNTRIES,USA,United States of America,2016,MEASLES,Measles,"per 1,000,000 population",37.27
+COUNTRIES,USA,United States of America,2016,POLIO,Poliomyelitis,"per 1,000 live births",26.95
+COUNTRIES,USA,United States of America,2016,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",28.78
+COUNTRIES,USA,United States of America,2016,DIPHTHERIA,Diphtheria,"per 1,000,000 population",41.17
+COUNTRIES,USA,United States of America,2016,TB,Tuberculosis,"per 1,000,000 population",34.15
+COUNTRIES,USA,United States of America,2016,HEPB,Hepatitis B,"per 1,000,000 population",28.24
+COUNTRIES,USA,United States of America,2017,MEASLES,Measles,"per 100,000 population",16.81
+COUNTRIES,USA,United States of America,2017,POLIO,Poliomyelitis,"per 1,000 live births",21.95
+COUNTRIES,USA,United States of America,2017,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",26.88
+COUNTRIES,USA,United States of America,2017,DIPHTHERIA,Diphtheria,"per 100,000 population",22.24
+COUNTRIES,USA,United States of America,2017,TB,Tuberculosis,"per 1,000,000 population",26.14
+COUNTRIES,USA,United States of America,2017,HEPB,Hepatitis B,"per 100,000 population",14.79
+COUNTRIES,USA,United States of America,2018,MEASLES,Measles,"per 1,000 live births",32.75
+COUNTRIES,USA,United States of America,2018,POLIO,Poliomyelitis,"per 100,000 population",42.45
+COUNTRIES,USA,United States of America,2018,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",33.67
+COUNTRIES,USA,United States of America,2018,DIPHTHERIA,Diphtheria,"per 100,000 population",42.04
+COUNTRIES,USA,United States of America,2018,TB,Tuberculosis,"per 1,000 live births",23.91
+COUNTRIES,USA,United States of America,2018,HEPB,Hepatitis B,"per 1,000 live births",29.69
+COUNTRIES,USA,United States of America,2019,MEASLES,Measles,"per 1,000 live births",18.37
+COUNTRIES,USA,United States of America,2019,POLIO,Poliomyelitis,"per 1,000 live births",13.02
+COUNTRIES,USA,United States of America,2019,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",20.08
+COUNTRIES,USA,United States of America,2019,DIPHTHERIA,Diphtheria,"per 100,000 population",17.65
+COUNTRIES,USA,United States of America,2019,TB,Tuberculosis,"per 100,000 population",19.31
+COUNTRIES,USA,United States of America,2019,HEPB,Hepatitis B,"per 100,000 population",25.42
+COUNTRIES,USA,United States of America,2020,MEASLES,Measles,"per 1,000 live births",21.3
+COUNTRIES,USA,United States of America,2020,POLIO,Poliomyelitis,"per 1,000 live births",20.55
+COUNTRIES,USA,United States of America,2020,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",36.04
+COUNTRIES,USA,United States of America,2020,DIPHTHERIA,Diphtheria,"per 100,000 population",24.39
+COUNTRIES,USA,United States of America,2020,TB,Tuberculosis,"per 1,000,000 population",43.55
+COUNTRIES,USA,United States of America,2020,HEPB,Hepatitis B,"per 1,000 live births",33.95
+COUNTRIES,USA,United States of America,2021,MEASLES,Measles,"per 1,000,000 population",61.25
+COUNTRIES,USA,United States of America,2021,POLIO,Poliomyelitis,"per 1,000 live births",27.28
+COUNTRIES,USA,United States of America,2021,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",23.99
+COUNTRIES,USA,United States of America,2021,DIPHTHERIA,Diphtheria,"per 1,000 live births",27.15
+COUNTRIES,USA,United States of America,2021,TB,Tuberculosis,"per 1,000,000 population",26.89
+COUNTRIES,USA,United States of America,2021,HEPB,Hepatitis B,"per 100,000 population",28.49
+COUNTRIES,USA,United States of America,2022,MEASLES,Measles,"per 100,000 population",29.1
+COUNTRIES,USA,United States of America,2022,POLIO,Poliomyelitis,"per 1,000 live births",18.79
+COUNTRIES,USA,United States of America,2022,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",29.37
+COUNTRIES,USA,United States of America,2022,DIPHTHERIA,Diphtheria,"per 1,000 live births",23.67
+COUNTRIES,USA,United States of America,2022,TB,Tuberculosis,"per 100,000 population",26.26
+COUNTRIES,USA,United States of America,2022,HEPB,Hepatitis B,"per 1,000,000 population",21.96
+COUNTRIES,USA,United States of America,2023,MEASLES,Measles,"per 1,000 live births",27.36
+COUNTRIES,USA,United States of America,2023,POLIO,Poliomyelitis,"per 100,000 population",24.8
+COUNTRIES,USA,United States of America,2023,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",25.45
+COUNTRIES,USA,United States of America,2023,DIPHTHERIA,Diphtheria,"per 1,000,000 population",15.73
+COUNTRIES,USA,United States of America,2023,TB,Tuberculosis,"per 1,000 live births",30.5
+COUNTRIES,USA,United States of America,2023,HEPB,Hepatitis B,"per 100,000 population",47.2
+COUNTRIES,NGA,Nigeria,2010,MEASLES,Measles,"per 100,000 population",18.81
+COUNTRIES,NGA,Nigeria,2010,POLIO,Poliomyelitis,"per 1,000,000 population",7.25
+COUNTRIES,NGA,Nigeria,2010,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",
+COUNTRIES,NGA,Nigeria,2010,DIPHTHERIA,Diphtheria,"per 1,000 live births",6.77
+COUNTRIES,NGA,Nigeria,2010,TB,Tuberculosis,"per 1,000,000 population",15.56
+COUNTRIES,NGA,Nigeria,2010,HEPB,Hepatitis B,"per 100,000 population",15.86
+COUNTRIES,NGA,Nigeria,2011,MEASLES,Measles,"per 1,000,000 population",13.02
+COUNTRIES,NGA,Nigeria,2011,POLIO,Poliomyelitis,"per 1,000,000 population",5.93
+COUNTRIES,NGA,Nigeria,2011,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",14.13
+COUNTRIES,NGA,Nigeria,2011,DIPHTHERIA,Diphtheria,"per 1,000 live births",7.14
+COUNTRIES,NGA,Nigeria,2011,TB,Tuberculosis,"per 100,000 population",5.76
+COUNTRIES,NGA,Nigeria,2011,HEPB,Hepatitis B,"per 1,000 live births",13.8
+COUNTRIES,NGA,Nigeria,2012,MEASLES,Measles,"per 1,000,000 population",0.0
+COUNTRIES,NGA,Nigeria,2012,POLIO,Poliomyelitis,"per 1,000 live births",12.84
+COUNTRIES,NGA,Nigeria,2012,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",7.88
+COUNTRIES,NGA,Nigeria,2012,DIPHTHERIA,Diphtheria,"per 1,000 live births",15.23
+COUNTRIES,NGA,Nigeria,2012,TB,Tuberculosis,"per 1,000 live births",2.95
+COUNTRIES,NGA,Nigeria,2012,HEPB,Hepatitis B,"per 100,000 population",0.0
+COUNTRIES,NGA,Nigeria,2013,MEASLES,Measles,"per 100,000 population",13.08
+COUNTRIES,NGA,Nigeria,2013,POLIO,Poliomyelitis,"per 1,000 live births",0.0
+COUNTRIES,NGA,Nigeria,2013,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",4.33
+COUNTRIES,NGA,Nigeria,2013,DIPHTHERIA,Diphtheria,"per 1,000,000 population",7.11
+COUNTRIES,NGA,Nigeria,2013,TB,Tuberculosis,"per 100,000 population",
+COUNTRIES,NGA,Nigeria,2013,HEPB,Hepatitis B,"per 100,000 population",26.82
+COUNTRIES,NGA,Nigeria,2014,MEASLES,Measles,"per 1,000,000 population",23.63
+COUNTRIES,NGA,Nigeria,2014,POLIO,Poliomyelitis,"per 100,000 population",78.46
+COUNTRIES,NGA,Nigeria,2014,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",22.6
+COUNTRIES,NGA,Nigeria,2014,DIPHTHERIA,Diphtheria,"per 1,000 live births",0.77
+COUNTRIES,NGA,Nigeria,2014,TB,Tuberculosis,"per 1,000 live births",0.0
+COUNTRIES,NGA,Nigeria,2014,HEPB,Hepatitis B,"per 1,000 live births",12.87
+COUNTRIES,NGA,Nigeria,2015,MEASLES,Measles,"per 1,000 live births",0.0
+COUNTRIES,NGA,Nigeria,2015,POLIO,Poliomyelitis,"per 1,000,000 population",14.85
+COUNTRIES,NGA,Nigeria,2015,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",2.09
+COUNTRIES,NGA,Nigeria,2015,DIPHTHERIA,Diphtheria,"per 1,000,000 population",0.0
+COUNTRIES,NGA,Nigeria,2015,TB,Tuberculosis,"per 100,000 population",24.82
+COUNTRIES,NGA,Nigeria,2015,HEPB,Hepatitis B,"per 1,000 live births",5.76
+COUNTRIES,NGA,Nigeria,2016,MEASLES,Measles,"per 1,000 live births",2.67
+COUNTRIES,NGA,Nigeria,2016,POLIO,Poliomyelitis,"per 1,000 live births",2.24
+COUNTRIES,NGA,Nigeria,2016,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",9.13
+COUNTRIES,NGA,Nigeria,2016,DIPHTHERIA,Diphtheria,"per 100,000 population",3.01
+COUNTRIES,NGA,Nigeria,2016,TB,Tuberculosis,"per 1,000 live births",17.86
+COUNTRIES,NGA,Nigeria,2016,HEPB,Hepatitis B,"per 1,000 live births",0.0
+COUNTRIES,NGA,Nigeria,2017,MEASLES,Measles,"per 1,000 live births",8.4
+COUNTRIES,NGA,Nigeria,2017,POLIO,Poliomyelitis,"per 1,000 live births",7.41
+COUNTRIES,NGA,Nigeria,2017,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",1.9
+COUNTRIES,NGA,Nigeria,2017,DIPHTHERIA,Diphtheria,"per 100,000 population",9.66
+COUNTRIES,NGA,Nigeria,2017,TB,Tuberculosis,"per 1,000 live births",11.77
+COUNTRIES,NGA,Nigeria,2017,HEPB,Hepatitis B,"per 100,000 population",2.26
+COUNTRIES,NGA,Nigeria,2018,MEASLES,Measles,"per 1,000,000 population",0.0
+COUNTRIES,NGA,Nigeria,2018,POLIO,Poliomyelitis,"per 1,000,000 population",2.95
+COUNTRIES,NGA,Nigeria,2018,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",0.0
+COUNTRIES,NGA,Nigeria,2018,DIPHTHERIA,Diphtheria,"per 1,000 live births",17.59
+COUNTRIES,NGA,Nigeria,2018,TB,Tuberculosis,"per 1,000 live births",9.49
+COUNTRIES,NGA,Nigeria,2018,HEPB,Hepatitis B,"per 100,000 population",14.27
+COUNTRIES,NGA,Nigeria,2019,MEASLES,Measles,"per 100,000 population",0.0
+COUNTRIES,NGA,Nigeria,2019,POLIO,Poliomyelitis,"per 1,000,000 population",12.83
+COUNTRIES,NGA,Nigeria,2019,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",0.33
+COUNTRIES,NGA,Nigeria,2019,DIPHTHERIA,Diphtheria,"per 100,000 population",4.09
+COUNTRIES,NGA,Nigeria,2019,TB,Tuberculosis,"per 1,000,000 population",5.09
+COUNTRIES,NGA,Nigeria,2019,HEPB,Hepatitis B,"per 1,000,000 population",8.82
+COUNTRIES,NGA,Nigeria,2020,MEASLES,Measles,"per 100,000 population",7.4
+COUNTRIES,NGA,Nigeria,2020,POLIO,Poliomyelitis,"per 100,000 population",48.06
+COUNTRIES,NGA,Nigeria,2020,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",19.32
+COUNTRIES,NGA,Nigeria,2020,DIPHTHERIA,Diphtheria,"per 1,000 live births",7.25
+COUNTRIES,NGA,Nigeria,2020,TB,Tuberculosis,"per 100,000 population",
+COUNTRIES,NGA,Nigeria,2020,HEPB,Hepatitis B,"per 1,000 live births",11.53
+COUNTRIES,NGA,Nigeria,2021,MEASLES,Measles,"per 1,000,000 population",13.86
+COUNTRIES,NGA,Nigeria,2021,POLIO,Poliomyelitis,"per 1,000 live births",16.74
+COUNTRIES,NGA,Nigeria,2021,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",8.16
+COUNTRIES,NGA,Nigeria,2021,DIPHTHERIA,Diphtheria,"per 1,000 live births",17.21
+COUNTRIES,NGA,Nigeria,2021,TB,Tuberculosis,"per 1,000,000 population",0.0
+COUNTRIES,NGA,Nigeria,2021,HEPB,Hepatitis B,"per 100,000 population",1.97
+COUNTRIES,NGA,Nigeria,2022,MEASLES,Measles,"per 100,000 population",10.01
+COUNTRIES,NGA,Nigeria,2022,POLIO,Poliomyelitis,"per 1,000 live births",11.92
+COUNTRIES,NGA,Nigeria,2022,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",0.0
+COUNTRIES,NGA,Nigeria,2022,DIPHTHERIA,Diphtheria,"per 1,000 live births",7.14
+COUNTRIES,NGA,Nigeria,2022,TB,Tuberculosis,"per 1,000 live births",3.96
+COUNTRIES,NGA,Nigeria,2022,HEPB,Hepatitis B,"per 100,000 population",0.0
+COUNTRIES,NGA,Nigeria,2023,MEASLES,Measles,"per 1,000 live births",5.72
+COUNTRIES,NGA,Nigeria,2023,POLIO,Poliomyelitis,"per 100,000 population",1.49
+COUNTRIES,NGA,Nigeria,2023,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",17.61
+COUNTRIES,NGA,Nigeria,2023,DIPHTHERIA,Diphtheria,"per 1,000 live births",7.22
+COUNTRIES,NGA,Nigeria,2023,TB,Tuberculosis,"per 1,000 live births",0.0
+COUNTRIES,NGA,Nigeria,2023,HEPB,Hepatitis B,"per 1,000 live births",6.36
+COUNTRIES,BRA,Brazil,2010,MEASLES,Measles,"per 1,000,000 population",26.62
+COUNTRIES,BRA,Brazil,2010,POLIO,Poliomyelitis,"per 1,000 live births",16.56
+COUNTRIES,BRA,Brazil,2010,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",12.15
+COUNTRIES,BRA,Brazil,2010,DIPHTHERIA,Diphtheria,"per 100,000 population",33.94
+COUNTRIES,BRA,Brazil,2010,TB,Tuberculosis,"per 100,000 population",
+COUNTRIES,BRA,Brazil,2010,HEPB,Hepatitis B,"per 100,000 population",25.38
+COUNTRIES,BRA,Brazil,2011,MEASLES,Measles,"per 1,000 live births",31.5
+COUNTRIES,BRA,Brazil,2011,POLIO,Poliomyelitis,"per 1,000 live births",21.28
+COUNTRIES,BRA,Brazil,2011,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",8.01
+COUNTRIES,BRA,Brazil,2011,DIPHTHERIA,Diphtheria,"per 1,000 live births",17.26
+COUNTRIES,BRA,Brazil,2011,TB,Tuberculosis,"per 100,000 population",19.3
+COUNTRIES,BRA,Brazil,2011,HEPB,Hepatitis B,"per 1,000 live births",16.64
+COUNTRIES,BRA,Brazil,2012,MEASLES,Measles,"per 100,000 population",11.78
+COUNTRIES,BRA,Brazil,2012,POLIO,Poliomyelitis,"per 100,000 population",0.83
+COUNTRIES,BRA,Brazil,2012,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",17.49
+COUNTRIES,BRA,Brazil,2012,DIPHTHERIA,Diphtheria,"per 1,000,000 population",9.37
+COUNTRIES,BRA,Brazil,2012,TB,Tuberculosis,"per 1,000,000 population",13.18
+COUNTRIES,BRA,Brazil,2012,HEPB,Hepatitis B,"per 100,000 population",16.29
+COUNTRIES,BRA,Brazil,2013,MEASLES,Measles,"per 1,000 live births",14.26
+COUNTRIES,BRA,Brazil,2013,POLIO,Poliomyelitis,"per 1,000,000 population",21.67
+COUNTRIES,BRA,Brazil,2013,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",86.5
+COUNTRIES,BRA,Brazil,2013,DIPHTHERIA,Diphtheria,"per 1,000,000 population",32.05
+COUNTRIES,BRA,Brazil,2013,TB,Tuberculosis,"per 100,000 population",18.25
+COUNTRIES,BRA,Brazil,2013,HEPB,Hepatitis B,"per 1,000,000 population",13.74
+COUNTRIES,BRA,Brazil,2014,MEASLES,Measles,"per 1,000,000 population",28.1
+COUNTRIES,BRA,Brazil,2014,POLIO,Poliomyelitis,"per 1,000,000 population",33.66
+COUNTRIES,BRA,Brazil,2014,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",30.79
+COUNTRIES,BRA,Brazil,2014,DIPHTHERIA,Diphtheria,"per 1,000 live births",13.76
+COUNTRIES,BRA,Brazil,2014,TB,Tuberculosis,"per 100,000 population",
+COUNTRIES,BRA,Brazil,2014,HEPB,Hepatitis B,"per 1,000,000 population",23.53
+COUNTRIES,BRA,Brazil,2015,MEASLES,Measles,"per 100,000 population",12.44
+COUNTRIES,BRA,Brazil,2015,POLIO,Poliomyelitis,"per 1,000,000 population",12.79
+COUNTRIES,BRA,Brazil,2015,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",6.72
+COUNTRIES,BRA,Brazil,2015,DIPHTHERIA,Diphtheria,"per 1,000 live births",16.64
+COUNTRIES,BRA,Brazil,2015,TB,Tuberculosis,"per 1,000,000 population",10.66
+COUNTRIES,BRA,Brazil,2015,HEPB,Hepatitis B,"per 100,000 population",0.65
+COUNTRIES,BRA,Brazil,2016,MEASLES,Measles,"per 1,000,000 population",1.05
+COUNTRIES,BRA,Brazil,2016,POLIO,Poliomyelitis,"per 1,000 live births",16.21
+COUNTRIES,BRA,Brazil,2016,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",29.34
+COUNTRIES,BRA,Brazil,2016,DIPHTHERIA,Diphtheria,"per 100,000 population",8.04
+COUNTRIES,BRA,Brazil,2016,TB,Tuberculosis,"per 1,000 live births",15.04
+COUNTRIES,BRA,Brazil,2016,HEPB,Hepatitis B,"per 100,000 population",10.23
+COUNTRIES,BRA,Brazil,2017,MEASLES,Measles,"per 100,000 population",0.0
+COUNTRIES,BRA,Brazil,2017,POLIO,Poliomyelitis,"per 1,000 live births",17.14
+COUNTRIES,BRA,Brazil,2017,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",15.38
+COUNTRIES,BRA,Brazil,2017,DIPHTHERIA,Diphtheria,"per 1,000,000 population",20.84
+COUNTRIES,BRA,Brazil,2017,TB,Tuberculosis,"per 100,000 population",14.24
+COUNTRIES,BRA,Brazil,2017,HEPB,Hepatitis B,"per 100,000 population",12.07
+COUNTRIES,BRA,Brazil,2018,MEASLES,Measles,"per 1,000,000 population",24.57
+COUNTRIES,BRA,Brazil,2018,POLIO,Poliomyelitis,"per 1,000 live births",4.56
+COUNTRIES,BRA,Brazil,2018,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",7.67
+COUNTRIES,BRA,Brazil,2018,DIPHTHERIA,Diphtheria,"per 1,000 live births",11.26
+COUNTRIES,BRA,Brazil,2018,TB,Tuberculosis,"per 1,000,000 population",16.03
+COUNTRIES,BRA,Brazil,2018,HEPB,Hepatitis B,"per 1,000,000 population",0.0
+COUNTRIES,BRA,Brazil,2019,MEASLES,Measles,"per 1,000 live births",14.92
+COUNTRIES,BRA,Brazil,2019,POLIO,Poliomyelitis,"per 1,000 live births",13.27
+COUNTRIES,BRA,Brazil,2019,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",5.96
+COUNTRIES,BRA,Brazil,2019,DIPHTHERIA,Diphtheria,"per 1,000 live births",5.3
+COUNTRIES,BRA,Brazil,2019,TB,Tuberculosis,"per 100,000 population",25.98
+COUNTRIES,BRA,Brazil,2019,HEPB,Hepatitis B,"per 100,000 population",8.79
+COUNTRIES,BRA,Brazil,2020,MEASLES,Measles,"per 1,000,000 population",9.58
+COUNTRIES,BRA,Brazil,2020,POLIO,Poliomyelitis,"per 1,000 live births",20.09
+COUNTRIES,BRA,Brazil,2020,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",8.89
+COUNTRIES,BRA,Brazil,2020,DIPHTHERIA,Diphtheria,"per 100,000 population",10.13
+COUNTRIES,BRA,Brazil,2020,TB,Tuberculosis,"per 1,000 live births",18.79
+COUNTRIES,BRA,Brazil,2020,HEPB,Hepatitis B,"per 100,000 population",19.25
+COUNTRIES,BRA,Brazil,2021,MEASLES,Measles,"per 100,000 population",14.69
+COUNTRIES,BRA,Brazil,2021,POLIO,Poliomyelitis,"per 100,000 population",17.08
+COUNTRIES,BRA,Brazil,2021,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",7.28
+COUNTRIES,BRA,Brazil,2021,DIPHTHERIA,Diphtheria,"per 1,000,000 population",4.35
+COUNTRIES,BRA,Brazil,2021,TB,Tuberculosis,"per 1,000,000 population",22.32
+COUNTRIES,BRA,Brazil,2021,HEPB,Hepatitis B,"per 1,000,000 population",18.35
+COUNTRIES,BRA,Brazil,2022,MEASLES,Measles,"per 1,000 live births",20.27
+COUNTRIES,BRA,Brazil,2022,POLIO,Poliomyelitis,"per 100,000 population",13.51
+COUNTRIES,BRA,Brazil,2022,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",12.15
+COUNTRIES,BRA,Brazil,2022,DIPHTHERIA,Diphtheria,"per 100,000 population",16.08
+COUNTRIES,BRA,Brazil,2022,TB,Tuberculosis,"per 1,000,000 population",24.45
+COUNTRIES,BRA,Brazil,2022,HEPB,Hepatitis B,"per 100,000 population",0.0
+COUNTRIES,BRA,Brazil,2023,MEASLES,Measles,"per 100,000 population",3.25
+COUNTRIES,BRA,Brazil,2023,POLIO,Poliomyelitis,"per 1,000 live births",19.65
+COUNTRIES,BRA,Brazil,2023,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",13.87
+COUNTRIES,BRA,Brazil,2023,DIPHTHERIA,Diphtheria,"per 100,000 population",
+COUNTRIES,BRA,Brazil,2023,TB,Tuberculosis,"per 1,000 live births",11.1
+COUNTRIES,BRA,Brazil,2023,HEPB,Hepatitis B,"per 1,000,000 population",11.7
+COUNTRIES,PAK,Pakistan,2010,MEASLES,Measles,"per 100,000 population",44.17
+COUNTRIES,PAK,Pakistan,2010,POLIO,Poliomyelitis,"per 1,000 live births",57.09
+COUNTRIES,PAK,Pakistan,2010,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",57.37
+COUNTRIES,PAK,Pakistan,2010,DIPHTHERIA,Diphtheria,"per 1,000,000 population",38.04
+COUNTRIES,PAK,Pakistan,2010,TB,Tuberculosis,"per 100,000 population",57.37
+COUNTRIES,PAK,Pakistan,2010,HEPB,Hepatitis B,"per 1,000,000 population",46.02
+COUNTRIES,PAK,Pakistan,2011,MEASLES,Measles,"per 1,000 live births",44.83
+COUNTRIES,PAK,Pakistan,2011,POLIO,Poliomyelitis,"per 1,000,000 population",44.08
+COUNTRIES,PAK,Pakistan,2011,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",49.38
+COUNTRIES,PAK,Pakistan,2011,DIPHTHERIA,Diphtheria,"per 1,000,000 population",43.97
+COUNTRIES,PAK,Pakistan,2011,TB,Tuberculosis,"per 1,000 live births",59.88
+COUNTRIES,PAK,Pakistan,2011,HEPB,Hepatitis B,"per 1,000,000 population",66.97
+COUNTRIES,PAK,Pakistan,2012,MEASLES,Measles,"per 1,000 live births",44.0
+COUNTRIES,PAK,Pakistan,2012,POLIO,Poliomyelitis,"per 1,000 live births",57.08
+COUNTRIES,PAK,Pakistan,2012,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",49.14
+COUNTRIES,PAK,Pakistan,2012,DIPHTHERIA,Diphtheria,"per 100,000 population",46.41
+COUNTRIES,PAK,Pakistan,2012,TB,Tuberculosis,"per 1,000,000 population",45.42
+COUNTRIES,PAK,Pakistan,2012,HEPB,Hepatitis B,"per 1,000 live births",52.91
+COUNTRIES,PAK,Pakistan,2013,MEASLES,Measles,"per 1,000,000 population",41.14
+COUNTRIES,PAK,Pakistan,2013,POLIO,Poliomyelitis,"per 100,000 population",
+COUNTRIES,PAK,Pakistan,2013,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",35.18
+COUNTRIES,PAK,Pakistan,2013,DIPHTHERIA,Diphtheria,"per 1,000,000 population",56.85
+COUNTRIES,PAK,Pakistan,2013,TB,Tuberculosis,"per 1,000 live births",45.35
+COUNTRIES,PAK,Pakistan,2013,HEPB,Hepatitis B,"per 1,000 live births",45.57
+COUNTRIES,PAK,Pakistan,2014,MEASLES,Measles,"per 100,000 population",40.82
+COUNTRIES,PAK,Pakistan,2014,POLIO,Poliomyelitis,"per 100,000 population",46.85
+COUNTRIES,PAK,Pakistan,2014,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",43.64
+COUNTRIES,PAK,Pakistan,2014,DIPHTHERIA,Diphtheria,"per 1,000 live births",46.77
+COUNTRIES,PAK,Pakistan,2014,TB,Tuberculosis,"per 1,000,000 population",40.93
+COUNTRIES,PAK,Pakistan,2014,HEPB,Hepatitis B,"per 1,000,000 population",49.89
+COUNTRIES,PAK,Pakistan,2015,MEASLES,Measles,"per 100,000 population",41.66
+COUNTRIES,PAK,Pakistan,2015,POLIO,Poliomyelitis,"per 1,000,000 population",53.38
+COUNTRIES,PAK,Pakistan,2015,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",33.73
+COUNTRIES,PAK,Pakistan,2015,DIPHTHERIA,Diphtheria,"per 1,000,000 population",50.65
+COUNTRIES,PAK,Pakistan,2015,TB,Tuberculosis,"per 1,000,000 population",48.1
+COUNTRIES,PAK,Pakistan,2015,HEPB,Hepatitis B,"per 100,000 population",49.21
+COUNTRIES,PAK,Pakistan,2016,MEASLES,Measles,"per 1,000,000 population",23.76
+COUNTRIES,PAK,Pakistan,2016,POLIO,Poliomyelitis,"per 1,000,000 population",58.56
+COUNTRIES,PAK,Pakistan,2016,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",34.53
+COUNTRIES,PAK,Pakistan,2016,DIPHTHERIA,Diphtheria,"per 1,000,000 population",57.59
+COUNTRIES,PAK,Pakistan,2016,TB,Tuberculosis,"per 1,000,000 population",246.8
+COUNTRIES,PAK,Pakistan,2016,HEPB,Hepatitis B,"per 1,000,000 population",54.7
+COUNTRIES,PAK,Pakistan,2017,MEASLES,Measles,"per 100,000 population",41.39
+COUNTRIES,PAK,Pakistan,2017,POLIO,Poliomyelitis,"per 1,000,000 population",42.65
+COUNTRIES,PAK,Pakistan,2017,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",53.25
+COUNTRIES,PAK,Pakistan,2017,DIPHTHERIA,Diphtheria,"per 100,000 population",42.07
+COUNTRIES,PAK,Pakistan,2017,TB,Tuberculosis,"per 1,000 live births",48.07
+COUNTRIES,PAK,Pakistan,2017,HEPB,Hepatitis B,"per 100,000 population",47.56
+COUNTRIES,PAK,Pakistan,2018,MEASLES,Measles,"per 1,000,000 population",57.66
+COUNTRIES,PAK,Pakistan,2018,POLIO,Poliomyelitis,"per 100,000 population",33.57
+COUNTRIES,PAK,Pakistan,2018,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",31.68
+COUNTRIES,PAK,Pakistan,2018,DIPHTHERIA,Diphtheria,"per 1,000 live births",41.38
+COUNTRIES,PAK,Pakistan,2018,TB,Tuberculosis,"per 1,000,000 population",49.68
+COUNTRIES,PAK,Pakistan,2018,HEPB,Hepatitis B,"per 1,000 live births",49.19
+COUNTRIES,PAK,Pakistan,2019,MEASLES,Measles,"per 1,000,000 population",48.06
+COUNTRIES,PAK,Pakistan,2019,POLIO,Poliomyelitis,"per 100,000 population",33.27
+COUNTRIES,PAK,Pakistan,2019,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",33.32
+COUNTRIES,PAK,Pakistan,2019,DIPHTHERIA,Diphtheria,"per 1,000 live births",39.27
+COUNTRIES,PAK,Pakistan,2019,TB,Tuberculosis,"per 100,000 population",46.79
+COUNTRIES,PAK,Pakistan,2019,HEPB,Hepatitis B,"per 1,000 live births",37.98
+COUNTRIES,PAK,Pakistan,2020,MEASLES,Measles,"per 1,000 live births",56.58
+COUNTRIES,PAK,Pakistan,2020,POLIO,Poliomyelitis,"per 1,000 live births",26.79
+COUNTRIES,PAK,Pakistan,2020,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",57.98
+COUNTRIES,PAK,Pakistan,2020,DIPHTHERIA,Diphtheria,"per 1,000 live births",36.7
+COUNTRIES,PAK,Pakistan,2020,TB,Tuberculosis,"per 1,000,000 population",
+COUNTRIES,PAK,Pakistan,2020,HEPB,Hepatitis B,"per 100,000 population",
+COUNTRIES,PAK,Pakistan,2021,MEASLES,Measles,"per 1,000 live births",35.13
+COUNTRIES,PAK,Pakistan,2021,POLIO,Poliomyelitis,"per 100,000 population",
+COUNTRIES,PAK,Pakistan,2021,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",60.96
+COUNTRIES,PAK,Pakistan,2021,DIPHTHERIA,Diphtheria,"per 1,000 live births",51.73
+COUNTRIES,PAK,Pakistan,2021,TB,Tuberculosis,"per 1,000,000 population",40.48
+COUNTRIES,PAK,Pakistan,2021,HEPB,Hepatitis B,"per 1,000 live births",29.56
+COUNTRIES,PAK,Pakistan,2022,MEASLES,Measles,"per 1,000 live births",43.62
+COUNTRIES,PAK,Pakistan,2022,POLIO,Poliomyelitis,"per 1,000 live births",33.8
+COUNTRIES,PAK,Pakistan,2022,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",38.2
+COUNTRIES,PAK,Pakistan,2022,DIPHTHERIA,Diphtheria,"per 100,000 population",46.03
+COUNTRIES,PAK,Pakistan,2022,TB,Tuberculosis,"per 1,000 live births",57.18
+COUNTRIES,PAK,Pakistan,2022,HEPB,Hepatitis B,"per 1,000,000 population",43.31
+COUNTRIES,PAK,Pakistan,2023,MEASLES,Measles,"per 1,000 live births",54.45
+COUNTRIES,PAK,Pakistan,2023,POLIO,Poliomyelitis,"per 1,000,000 population",46.14
+COUNTRIES,PAK,Pakistan,2023,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",46.07
+COUNTRIES,PAK,Pakistan,2023,DIPHTHERIA,Diphtheria,"per 1,000 live births",47.5
+COUNTRIES,PAK,Pakistan,2023,TB,Tuberculosis,"per 100,000 population",39.5
+COUNTRIES,PAK,Pakistan,2023,HEPB,Hepatitis B,"per 100,000 population",28.17
+COUNTRIES,ETH,Ethiopia,2010,MEASLES,Measles,"per 1,000 live births",8.0
+COUNTRIES,ETH,Ethiopia,2010,POLIO,Poliomyelitis,"per 100,000 population",11.47
+COUNTRIES,ETH,Ethiopia,2010,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",0.0
+COUNTRIES,ETH,Ethiopia,2010,DIPHTHERIA,Diphtheria,"per 100,000 population",0.0
+COUNTRIES,ETH,Ethiopia,2010,TB,Tuberculosis,"per 1,000,000 population",7.59
+COUNTRIES,ETH,Ethiopia,2010,HEPB,Hepatitis B,"per 1,000,000 population",8.04
+COUNTRIES,ETH,Ethiopia,2011,MEASLES,Measles,"per 100,000 population",2.89
+COUNTRIES,ETH,Ethiopia,2011,POLIO,Poliomyelitis,"per 100,000 population",9.52
+COUNTRIES,ETH,Ethiopia,2011,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",7.11
+COUNTRIES,ETH,Ethiopia,2011,DIPHTHERIA,Diphtheria,"per 100,000 population",4.6
+COUNTRIES,ETH,Ethiopia,2011,TB,Tuberculosis,"per 1,000 live births",2.25
+COUNTRIES,ETH,Ethiopia,2011,HEPB,Hepatitis B,"per 100,000 population",0.0
+COUNTRIES,ETH,Ethiopia,2012,MEASLES,Measles,"per 1,000,000 population",1.69
+COUNTRIES,ETH,Ethiopia,2012,POLIO,Poliomyelitis,"per 1,000 live births",0.0
+COUNTRIES,ETH,Ethiopia,2012,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",15.11
+COUNTRIES,ETH,Ethiopia,2012,DIPHTHERIA,Diphtheria,"per 1,000 live births",3.74
+COUNTRIES,ETH,Ethiopia,2012,TB,Tuberculosis,"per 1,000 live births",17.05
+COUNTRIES,ETH,Ethiopia,2012,HEPB,Hepatitis B,"per 1,000,000 population",0.0
+COUNTRIES,ETH,Ethiopia,2013,MEASLES,Measles,"per 1,000 live births",0.0
+COUNTRIES,ETH,Ethiopia,2013,POLIO,Poliomyelitis,"per 1,000,000 population",10.19
+COUNTRIES,ETH,Ethiopia,2013,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",9.46
+COUNTRIES,ETH,Ethiopia,2013,DIPHTHERIA,Diphtheria,"per 1,000,000 population",0.0
+COUNTRIES,ETH,Ethiopia,2013,TB,Tuberculosis,"per 1,000 live births",1.12
+COUNTRIES,ETH,Ethiopia,2013,HEPB,Hepatitis B,"per 1,000 live births",5.47
+COUNTRIES,ETH,Ethiopia,2014,MEASLES,Measles,"per 100,000 population",0.0
+COUNTRIES,ETH,Ethiopia,2014,POLIO,Poliomyelitis,"per 100,000 population",1.44
+COUNTRIES,ETH,Ethiopia,2014,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",
+COUNTRIES,ETH,Ethiopia,2014,DIPHTHERIA,Diphtheria,"per 1,000 live births",0.0
+COUNTRIES,ETH,Ethiopia,2014,TB,Tuberculosis,"per 1,000 live births",0.0
+COUNTRIES,ETH,Ethiopia,2014,HEPB,Hepatitis B,"per 1,000,000 population",4.59
+COUNTRIES,ETH,Ethiopia,2015,MEASLES,Measles,"per 1,000 live births",0.0
+COUNTRIES,ETH,Ethiopia,2015,POLIO,Poliomyelitis,"per 1,000,000 population",3.29
+COUNTRIES,ETH,Ethiopia,2015,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",3.4
+COUNTRIES,ETH,Ethiopia,2015,DIPHTHERIA,Diphtheria,"per 100,000 population",0.0
+COUNTRIES,ETH,Ethiopia,2015,TB,Tuberculosis,"per 100,000 population",0.0
+COUNTRIES,ETH,Ethiopia,2015,HEPB,Hepatitis B,"per 1,000,000 population",0.0
+COUNTRIES,ETH,Ethiopia,2016,MEASLES,Measles,"per 1,000 live births",14.93
+COUNTRIES,ETH,Ethiopia,2016,POLIO,Poliomyelitis,"per 1,000,000 population",0.0
+COUNTRIES,ETH,Ethiopia,2016,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",15.02
+COUNTRIES,ETH,Ethiopia,2016,DIPHTHERIA,Diphtheria,"per 1,000,000 population",0.0
+COUNTRIES,ETH,Ethiopia,2016,TB,Tuberculosis,"per 100,000 population",13.02
+COUNTRIES,ETH,Ethiopia,2016,HEPB,Hepatitis B,"per 100,000 population",0.0
+COUNTRIES,ETH,Ethiopia,2017,MEASLES,Measles,"per 1,000,000 population",0.0
+COUNTRIES,ETH,Ethiopia,2017,POLIO,Poliomyelitis,"per 100,000 population",0.0
+COUNTRIES,ETH,Ethiopia,2017,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",13.84
+COUNTRIES,ETH,Ethiopia,2017,DIPHTHERIA,Diphtheria,"per 1,000,000 population",2.56
+COUNTRIES,ETH,Ethiopia,2017,TB,Tuberculosis,"per 1,000,000 population",0.0
+COUNTRIES,ETH,Ethiopia,2017,HEPB,Hepatitis B,"per 1,000,000 population",19.04
+COUNTRIES,ETH,Ethiopia,2018,MEASLES,Measles,"per 1,000,000 population",12.49
+COUNTRIES,ETH,Ethiopia,2018,POLIO,Poliomyelitis,"per 100,000 population",0.0
+COUNTRIES,ETH,Ethiopia,2018,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",8.79
+COUNTRIES,ETH,Ethiopia,2018,DIPHTHERIA,Diphtheria,"per 1,000,000 population",22.54
+COUNTRIES,ETH,Ethiopia,2018,TB,Tuberculosis,"per 100,000 population",12.7
+COUNTRIES,ETH,Ethiopia,2018,HEPB,Hepatitis B,"per 1,000 live births",0.0
+COUNTRIES,ETH,Ethiopia,2019,MEASLES,Measles,"per 1,000 live births",0.0
+COUNTRIES,ETH,Ethiopia,2019,POLIO,Poliomyelitis,"per 1,000,000 population",11.43
+COUNTRIES,ETH,Ethiopia,2019,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",0.0
+COUNTRIES,ETH,Ethiopia,2019,DIPHTHERIA,Diphtheria,"per 100,000 population",8.4
+COUNTRIES,ETH,Ethiopia,2019,TB,Tuberculosis,"per 1,000 live births",4.92
+COUNTRIES,ETH,Ethiopia,2019,HEPB,Hepatitis B,"per 100,000 population",0.0
+COUNTRIES,ETH,Ethiopia,2020,MEASLES,Measles,"per 1,000,000 population",6.96
+COUNTRIES,ETH,Ethiopia,2020,POLIO,Poliomyelitis,"per 1,000 live births",19.1
+COUNTRIES,ETH,Ethiopia,2020,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",2.27
+COUNTRIES,ETH,Ethiopia,2020,DIPHTHERIA,Diphtheria,"per 100,000 population",13.44
+COUNTRIES,ETH,Ethiopia,2020,TB,Tuberculosis,"per 1,000 live births",11.63
+COUNTRIES,ETH,Ethiopia,2020,HEPB,Hepatitis B,"per 1,000 live births",10.46
+COUNTRIES,ETH,Ethiopia,2021,MEASLES,Measles,"per 100,000 population",0.0
+COUNTRIES,ETH,Ethiopia,2021,POLIO,Poliomyelitis,"per 100,000 population",0.0
+COUNTRIES,ETH,Ethiopia,2021,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",11.28
+COUNTRIES,ETH,Ethiopia,2021,DIPHTHERIA,Diphtheria,"per 1,000,000 population",0.0
+COUNTRIES,ETH,Ethiopia,2021,TB,Tuberculosis,"per 1,000 live births",0.0
+COUNTRIES,ETH,Ethiopia,2021,HEPB,Hepatitis B,"per 100,000 population",0.64
+COUNTRIES,ETH,Ethiopia,2022,MEASLES,Measles,"per 100,000 population",17.6
+COUNTRIES,ETH,Ethiopia,2022,POLIO,Poliomyelitis,"per 100,000 population",0.0
+COUNTRIES,ETH,Ethiopia,2022,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",0.0
+COUNTRIES,ETH,Ethiopia,2022,DIPHTHERIA,Diphtheria,"per 1,000,000 population",4.07
+COUNTRIES,ETH,Ethiopia,2022,TB,Tuberculosis,"per 1,000 live births",0.0
+COUNTRIES,ETH,Ethiopia,2022,HEPB,Hepatitis B,"per 1,000 live births",
+COUNTRIES,ETH,Ethiopia,2023,MEASLES,Measles,"per 1,000 live births",0.0
+COUNTRIES,ETH,Ethiopia,2023,POLIO,Poliomyelitis,"per 1,000,000 population",5.43
+COUNTRIES,ETH,Ethiopia,2023,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",3.04
+COUNTRIES,ETH,Ethiopia,2023,DIPHTHERIA,Diphtheria,"per 1,000,000 population",5.89
+COUNTRIES,ETH,Ethiopia,2023,TB,Tuberculosis,"per 1,000,000 population",3.17
+COUNTRIES,ETH,Ethiopia,2023,HEPB,Hepatitis B,"per 100,000 population",8.42
+COUNTRIES,BGD,Bangladesh,2010,MEASLES,Measles,"per 1,000,000 population",11.91
+COUNTRIES,BGD,Bangladesh,2010,POLIO,Poliomyelitis,"per 1,000 live births",3.78
+COUNTRIES,BGD,Bangladesh,2010,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",17.65
+COUNTRIES,BGD,Bangladesh,2010,DIPHTHERIA,Diphtheria,"per 100,000 population",17.52
+COUNTRIES,BGD,Bangladesh,2010,TB,Tuberculosis,"per 1,000 live births",9.16
+COUNTRIES,BGD,Bangladesh,2010,HEPB,Hepatitis B,"per 100,000 population",17.61
+COUNTRIES,BGD,Bangladesh,2011,MEASLES,Measles,"per 1,000 live births",14.55
+COUNTRIES,BGD,Bangladesh,2011,POLIO,Poliomyelitis,"per 1,000 live births",15.55
+COUNTRIES,BGD,Bangladesh,2011,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",11.15
+COUNTRIES,BGD,Bangladesh,2011,DIPHTHERIA,Diphtheria,"per 1,000,000 population",13.39
+COUNTRIES,BGD,Bangladesh,2011,TB,Tuberculosis,"per 1,000,000 population",13.98
+COUNTRIES,BGD,Bangladesh,2011,HEPB,Hepatitis B,"per 1,000,000 population",18.98
+COUNTRIES,BGD,Bangladesh,2012,MEASLES,Measles,"per 1,000,000 population",0.0
+COUNTRIES,BGD,Bangladesh,2012,POLIO,Poliomyelitis,"per 1,000 live births",17.25
+COUNTRIES,BGD,Bangladesh,2012,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",4.94
+COUNTRIES,BGD,Bangladesh,2012,DIPHTHERIA,Diphtheria,"per 1,000 live births",13.25
+COUNTRIES,BGD,Bangladesh,2012,TB,Tuberculosis,"per 1,000 live births",3.83
+COUNTRIES,BGD,Bangladesh,2012,HEPB,Hepatitis B,"per 1,000,000 population",14.09
+COUNTRIES,BGD,Bangladesh,2013,MEASLES,Measles,"per 1,000,000 population",24.79
+COUNTRIES,BGD,Bangladesh,2013,POLIO,Poliomyelitis,"per 100,000 population",5.48
+COUNTRIES,BGD,Bangladesh,2013,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",21.22
+COUNTRIES,BGD,Bangladesh,2013,DIPHTHERIA,Diphtheria,"per 100,000 population",15.11
+COUNTRIES,BGD,Bangladesh,2013,TB,Tuberculosis,"per 1,000 live births",8.36
+COUNTRIES,BGD,Bangladesh,2013,HEPB,Hepatitis B,"per 1,000 live births",2.89
+COUNTRIES,BGD,Bangladesh,2014,MEASLES,Measles,"per 1,000,000 population",15.38
+COUNTRIES,BGD,Bangladesh,2014,POLIO,Poliomyelitis,"per 100,000 population",15.62
+COUNTRIES,BGD,Bangladesh,2014,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",23.28
+COUNTRIES,BGD,Bangladesh,2014,DIPHTHERIA,Diphtheria,"per 100,000 population",0.41
+COUNTRIES,BGD,Bangladesh,2014,TB,Tuberculosis,"per 100,000 population",22.15
+COUNTRIES,BGD,Bangladesh,2014,HEPB,Hepatitis B,"per 100,000 population",6.63
+COUNTRIES,BGD,Bangladesh,2015,MEASLES,Measles,"per 1,000,000 population",6.87
+COUNTRIES,BGD,Bangladesh,2015,POLIO,Poliomyelitis,"per 1,000 live births",7.5
+COUNTRIES,BGD,Bangladesh,2015,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",1.45
+COUNTRIES,BGD,Bangladesh,2015,DIPHTHERIA,Diphtheria,"per 1,000 live births",9.48
+COUNTRIES,BGD,Bangladesh,2015,TB,Tuberculosis,"per 1,000,000 population",24.97
+COUNTRIES,BGD,Bangladesh,2015,HEPB,Hepatitis B,"per 1,000 live births",3.21
+COUNTRIES,BGD,Bangladesh,2016,MEASLES,Measles,"per 1,000,000 population",13.66
+COUNTRIES,BGD,Bangladesh,2016,POLIO,Poliomyelitis,"per 1,000 live births",26.04
+COUNTRIES,BGD,Bangladesh,2016,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",9.32
+COUNTRIES,BGD,Bangladesh,2016,DIPHTHERIA,Diphtheria,"per 1,000 live births",0.0
+COUNTRIES,BGD,Bangladesh,2016,TB,Tuberculosis,"per 100,000 population",11.24
+COUNTRIES,BGD,Bangladesh,2016,HEPB,Hepatitis B,"per 100,000 population",21.23
+COUNTRIES,BGD,Bangladesh,2017,MEASLES,Measles,"per 1,000,000 population",29.4
+COUNTRIES,BGD,Bangladesh,2017,POLIO,Poliomyelitis,"per 1,000 live births",13.85
+COUNTRIES,BGD,Bangladesh,2017,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",9.38
+COUNTRIES,BGD,Bangladesh,2017,DIPHTHERIA,Diphtheria,"per 100,000 population",5.29
+COUNTRIES,BGD,Bangladesh,2017,TB,Tuberculosis,"per 1,000 live births",6.49
+COUNTRIES,BGD,Bangladesh,2017,HEPB,Hepatitis B,"per 1,000 live births",3.45
+COUNTRIES,BGD,Bangladesh,2018,MEASLES,Measles,"per 100,000 population",15.19
+COUNTRIES,BGD,Bangladesh,2018,POLIO,Poliomyelitis,"per 100,000 population",0.0
+COUNTRIES,BGD,Bangladesh,2018,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",11.78
+COUNTRIES,BGD,Bangladesh,2018,DIPHTHERIA,Diphtheria,"per 1,000 live births",10.41
+COUNTRIES,BGD,Bangladesh,2018,TB,Tuberculosis,"per 1,000,000 population",5.78
+COUNTRIES,BGD,Bangladesh,2018,HEPB,Hepatitis B,"per 1,000,000 population",17.95
+COUNTRIES,BGD,Bangladesh,2019,MEASLES,Measles,"per 1,000 live births",8.64
+COUNTRIES,BGD,Bangladesh,2019,POLIO,Poliomyelitis,"per 100,000 population",22.91
+COUNTRIES,BGD,Bangladesh,2019,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",22.29
+COUNTRIES,BGD,Bangladesh,2019,DIPHTHERIA,Diphtheria,"per 1,000,000 population",17.92
+COUNTRIES,BGD,Bangladesh,2019,TB,Tuberculosis,"per 1,000 live births",7.95
+COUNTRIES,BGD,Bangladesh,2019,HEPB,Hepatitis B,"per 1,000,000 population",6.77
+COUNTRIES,BGD,Bangladesh,2020,MEASLES,Measles,"per 1,000 live births",13.2
+COUNTRIES,BGD,Bangladesh,2020,POLIO,Poliomyelitis,"per 1,000,000 population",31.68
+COUNTRIES,BGD,Bangladesh,2020,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",0.0
+COUNTRIES,BGD,Bangladesh,2020,DIPHTHERIA,Diphtheria,"per 1,000 live births",12.55
+COUNTRIES,BGD,Bangladesh,2020,TB,Tuberculosis,"per 1,000,000 population",11.3
+COUNTRIES,BGD,Bangladesh,2020,HEPB,Hepatitis B,"per 1,000,000 population",10.33
+COUNTRIES,BGD,Bangladesh,2021,MEASLES,Measles,"per 1,000,000 population",9.83
+COUNTRIES,BGD,Bangladesh,2021,POLIO,Poliomyelitis,"per 1,000,000 population",9.89
+COUNTRIES,BGD,Bangladesh,2021,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",0.47
+COUNTRIES,BGD,Bangladesh,2021,DIPHTHERIA,Diphtheria,"per 1,000 live births",22.57
+COUNTRIES,BGD,Bangladesh,2021,TB,Tuberculosis,"per 100,000 population",10.92
+COUNTRIES,BGD,Bangladesh,2021,HEPB,Hepatitis B,"per 1,000,000 population",11.25
+COUNTRIES,BGD,Bangladesh,2022,MEASLES,Measles,"per 1,000 live births",10.65
+COUNTRIES,BGD,Bangladesh,2022,POLIO,Poliomyelitis,"per 100,000 population",0.09
+COUNTRIES,BGD,Bangladesh,2022,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",
+COUNTRIES,BGD,Bangladesh,2022,DIPHTHERIA,Diphtheria,"per 1,000 live births",13.64
+COUNTRIES,BGD,Bangladesh,2022,TB,Tuberculosis,"per 100,000 population",1.5
+COUNTRIES,BGD,Bangladesh,2022,HEPB,Hepatitis B,"per 1,000,000 population",4.01
+COUNTRIES,BGD,Bangladesh,2023,MEASLES,Measles,"per 100,000 population",7.31
+COUNTRIES,BGD,Bangladesh,2023,POLIO,Poliomyelitis,"per 1,000,000 population",0.0
+COUNTRIES,BGD,Bangladesh,2023,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",1.92
+COUNTRIES,BGD,Bangladesh,2023,DIPHTHERIA,Diphtheria,"per 100,000 population",14.22
+COUNTRIES,BGD,Bangladesh,2023,TB,Tuberculosis,"per 100,000 population",4.09
+COUNTRIES,BGD,Bangladesh,2023,HEPB,Hepatitis B,"per 100,000 population",0.0
+COUNTRIES,GBR,United Kingdom,2010,MEASLES,Measles,"per 1,000,000 population",0.0
+COUNTRIES,GBR,United Kingdom,2010,POLIO,Poliomyelitis,"per 100,000 population",29.84
+COUNTRIES,GBR,United Kingdom,2010,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",18.14
+COUNTRIES,GBR,United Kingdom,2010,DIPHTHERIA,Diphtheria,"per 100,000 population",13.74
+COUNTRIES,GBR,United Kingdom,2010,TB,Tuberculosis,"per 1,000 live births",5.95
+COUNTRIES,GBR,United Kingdom,2010,HEPB,Hepatitis B,"per 1,000 live births",19.44
+COUNTRIES,GBR,United Kingdom,2011,MEASLES,Measles,"per 100,000 population",12.99
+COUNTRIES,GBR,United Kingdom,2011,POLIO,Poliomyelitis,"per 1,000 live births",14.82
+COUNTRIES,GBR,United Kingdom,2011,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",13.7
+COUNTRIES,GBR,United Kingdom,2011,DIPHTHERIA,Diphtheria,"per 1,000 live births",8.62
+COUNTRIES,GBR,United Kingdom,2011,TB,Tuberculosis,"per 1,000,000 population",6.24
+COUNTRIES,GBR,United Kingdom,2011,HEPB,Hepatitis B,"per 1,000,000 population",7.5
+COUNTRIES,GBR,United Kingdom,2012,MEASLES,Measles,"per 1,000 live births",14.55
+COUNTRIES,GBR,United Kingdom,2012,POLIO,Poliomyelitis,"per 100,000 population",3.01
+COUNTRIES,GBR,United Kingdom,2012,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",8.67
+COUNTRIES,GBR,United Kingdom,2012,DIPHTHERIA,Diphtheria,"per 1,000,000 population",7.18
+COUNTRIES,GBR,United Kingdom,2012,TB,Tuberculosis,"per 100,000 population",6.68
+COUNTRIES,GBR,United Kingdom,2012,HEPB,Hepatitis B,"per 1,000 live births",0.0
+COUNTRIES,GBR,United Kingdom,2013,MEASLES,Measles,"per 100,000 population",16.5
+COUNTRIES,GBR,United Kingdom,2013,POLIO,Poliomyelitis,"per 1,000,000 population",20.65
+COUNTRIES,GBR,United Kingdom,2013,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",8.91
+COUNTRIES,GBR,United Kingdom,2013,DIPHTHERIA,Diphtheria,"per 1,000,000 population",17.44
+COUNTRIES,GBR,United Kingdom,2013,TB,Tuberculosis,"per 100,000 population",5.01
+COUNTRIES,GBR,United Kingdom,2013,HEPB,Hepatitis B,"per 1,000,000 population",12.43
+COUNTRIES,GBR,United Kingdom,2014,MEASLES,Measles,"per 1,000 live births",17.71
+COUNTRIES,GBR,United Kingdom,2014,POLIO,Poliomyelitis,"per 100,000 population",20.57
+COUNTRIES,GBR,United Kingdom,2014,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",15.5
+COUNTRIES,GBR,United Kingdom,2014,DIPHTHERIA,Diphtheria,"per 1,000 live births",12.85
+COUNTRIES,GBR,United Kingdom,2014,TB,Tuberculosis,"per 1,000,000 population",34.82
+COUNTRIES,GBR,United Kingdom,2014,HEPB,Hepatitis B,"per 1,000 live births",6.49
+COUNTRIES,GBR,United Kingdom,2015,MEASLES,Measles,"per 1,000,000 population",31.34
+COUNTRIES,GBR,United Kingdom,2015,POLIO,Poliomyelitis,"per 100,000 population",10.65
+COUNTRIES,GBR,United Kingdom,2015,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",17.87
+COUNTRIES,GBR,United Kingdom,2015,DIPHTHERIA,Diphtheria,"per 1,000,000 population",0.16
+COUNTRIES,GBR,United Kingdom,2015,TB,Tuberculosis,"per 1,000,000 population",8.96
+COUNTRIES,GBR,United Kingdom,2015,HEPB,Hepatitis B,"per 1,000,000 population",0.0
+COUNTRIES,GBR,United Kingdom,2016,MEASLES,Measles,"per 100,000 population",16.12
+COUNTRIES,GBR,United Kingdom,2016,POLIO,Poliomyelitis,"per 1,000,000 population",29.13
+COUNTRIES,GBR,United Kingdom,2016,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",11.24
+COUNTRIES,GBR,United Kingdom,2016,DIPHTHERIA,Diphtheria,"per 1,000,000 population",21.3
+COUNTRIES,GBR,United Kingdom,2016,TB,Tuberculosis,"per 1,000 live births",16.51
+COUNTRIES,GBR,United Kingdom,2016,HEPB,Hepatitis B,"per 100,000 population",11.0
+COUNTRIES,GBR,United Kingdom,2017,MEASLES,Measles,"per 100,000 population",0.99
+COUNTRIES,GBR,United Kingdom,2017,POLIO,Poliomyelitis,"per 1,000 live births",10.27
+COUNTRIES,GBR,United Kingdom,2017,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",0.0
+COUNTRIES,GBR,United Kingdom,2017,DIPHTHERIA,Diphtheria,"per 1,000,000 population",7.02
+COUNTRIES,GBR,United Kingdom,2017,TB,Tuberculosis,"per 1,000,000 population",0.89
+COUNTRIES,GBR,United Kingdom,2017,HEPB,Hepatitis B,"per 100,000 population",4.07
+COUNTRIES,GBR,United Kingdom,2018,MEASLES,Measles,"per 1,000 live births",6.87
+COUNTRIES,GBR,United Kingdom,2018,POLIO,Poliomyelitis,"per 1,000 live births",9.22
+COUNTRIES,GBR,United Kingdom,2018,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",0.87
+COUNTRIES,GBR,United Kingdom,2018,DIPHTHERIA,Diphtheria,"per 100,000 population",14.26
+COUNTRIES,GBR,United Kingdom,2018,TB,Tuberculosis,"per 1,000,000 population",5.5
+COUNTRIES,GBR,United Kingdom,2018,HEPB,Hepatitis B,"per 1,000 live births",13.7
+COUNTRIES,GBR,United Kingdom,2019,MEASLES,Measles,"per 1,000,000 population",27.65
+COUNTRIES,GBR,United Kingdom,2019,POLIO,Poliomyelitis,"per 100,000 population",16.38
+COUNTRIES,GBR,United Kingdom,2019,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",15.79
+COUNTRIES,GBR,United Kingdom,2019,DIPHTHERIA,Diphtheria,"per 1,000,000 population",14.24
+COUNTRIES,GBR,United Kingdom,2019,TB,Tuberculosis,"per 1,000,000 population",12.02
+COUNTRIES,GBR,United Kingdom,2019,HEPB,Hepatitis B,"per 1,000,000 population",25.71
+COUNTRIES,GBR,United Kingdom,2020,MEASLES,Measles,"per 1,000,000 population",0.08
+COUNTRIES,GBR,United Kingdom,2020,POLIO,Poliomyelitis,"per 1,000 live births",16.56
+COUNTRIES,GBR,United Kingdom,2020,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",12.68
+COUNTRIES,GBR,United Kingdom,2020,DIPHTHERIA,Diphtheria,"per 100,000 population",9.19
+COUNTRIES,GBR,United Kingdom,2020,TB,Tuberculosis,"per 1,000 live births",8.23
+COUNTRIES,GBR,United Kingdom,2020,HEPB,Hepatitis B,"per 100,000 population",9.22
+COUNTRIES,GBR,United Kingdom,2021,MEASLES,Measles,"per 1,000,000 population",9.71
+COUNTRIES,GBR,United Kingdom,2021,POLIO,Poliomyelitis,"per 1,000 live births",14.29
+COUNTRIES,GBR,United Kingdom,2021,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",2.38
+COUNTRIES,GBR,United Kingdom,2021,DIPHTHERIA,Diphtheria,"per 100,000 population",70.88
+COUNTRIES,GBR,United Kingdom,2021,TB,Tuberculosis,"per 1,000,000 population",10.92
+COUNTRIES,GBR,United Kingdom,2021,HEPB,Hepatitis B,"per 1,000 live births",8.06
+COUNTRIES,GBR,United Kingdom,2022,MEASLES,Measles,"per 1,000,000 population",17.97
+COUNTRIES,GBR,United Kingdom,2022,POLIO,Poliomyelitis,"per 100,000 population",3.36
+COUNTRIES,GBR,United Kingdom,2022,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",24.0
+COUNTRIES,GBR,United Kingdom,2022,DIPHTHERIA,Diphtheria,"per 1,000 live births",7.12
+COUNTRIES,GBR,United Kingdom,2022,TB,Tuberculosis,"per 1,000 live births",9.14
+COUNTRIES,GBR,United Kingdom,2022,HEPB,Hepatitis B,"per 1,000 live births",0.94
+COUNTRIES,GBR,United Kingdom,2023,MEASLES,Measles,"per 100,000 population",6.81
+COUNTRIES,GBR,United Kingdom,2023,POLIO,Poliomyelitis,"per 1,000 live births",14.23
+COUNTRIES,GBR,United Kingdom,2023,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",9.96
+COUNTRIES,GBR,United Kingdom,2023,DIPHTHERIA,Diphtheria,"per 1,000,000 population",6.2
+COUNTRIES,GBR,United Kingdom,2023,TB,Tuberculosis,"per 1,000 live births",14.27
+COUNTRIES,GBR,United Kingdom,2023,HEPB,Hepatitis B,"per 1,000 live births",8.52
+COUNTRIES,DEU,Germany,2010,MEASLES,Measles,"per 1,000,000 population",47.71
+COUNTRIES,DEU,Germany,2010,POLIO,Poliomyelitis,"per 1,000,000 population",
+COUNTRIES,DEU,Germany,2010,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",29.97
+COUNTRIES,DEU,Germany,2010,DIPHTHERIA,Diphtheria,"per 1,000,000 population",45.18
+COUNTRIES,DEU,Germany,2010,TB,Tuberculosis,"per 100,000 population",64.94
+COUNTRIES,DEU,Germany,2010,HEPB,Hepatitis B,"per 1,000,000 population",41.1
+COUNTRIES,DEU,Germany,2011,MEASLES,Measles,"per 1,000 live births",40.54
+COUNTRIES,DEU,Germany,2011,POLIO,Poliomyelitis,"per 1,000 live births",53.82
+COUNTRIES,DEU,Germany,2011,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",39.06
+COUNTRIES,DEU,Germany,2011,DIPHTHERIA,Diphtheria,"per 1,000 live births",54.75
+COUNTRIES,DEU,Germany,2011,TB,Tuberculosis,"per 1,000,000 population",41.88
+COUNTRIES,DEU,Germany,2011,HEPB,Hepatitis B,"per 100,000 population",40.15
+COUNTRIES,DEU,Germany,2012,MEASLES,Measles,"per 1,000,000 population",41.72
+COUNTRIES,DEU,Germany,2012,POLIO,Poliomyelitis,"per 100,000 population",43.58
+COUNTRIES,DEU,Germany,2012,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",45.08
+COUNTRIES,DEU,Germany,2012,DIPHTHERIA,Diphtheria,"per 1,000,000 population",28.31
+COUNTRIES,DEU,Germany,2012,TB,Tuberculosis,"per 1,000,000 population",50.12
+COUNTRIES,DEU,Germany,2012,HEPB,Hepatitis B,"per 1,000 live births",113.11
+COUNTRIES,DEU,Germany,2013,MEASLES,Measles,"per 100,000 population",51.22
+COUNTRIES,DEU,Germany,2013,POLIO,Poliomyelitis,"per 100,000 population",55.91
+COUNTRIES,DEU,Germany,2013,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",54.26
+COUNTRIES,DEU,Germany,2013,DIPHTHERIA,Diphtheria,"per 100,000 population",49.6
+COUNTRIES,DEU,Germany,2013,TB,Tuberculosis,"per 1,000,000 population",48.16
+COUNTRIES,DEU,Germany,2013,HEPB,Hepatitis B,"per 1,000,000 population",43.1
+COUNTRIES,DEU,Germany,2014,MEASLES,Measles,"per 100,000 population",49.81
+COUNTRIES,DEU,Germany,2014,POLIO,Poliomyelitis,"per 1,000 live births",207.96
+COUNTRIES,DEU,Germany,2014,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",45.07
+COUNTRIES,DEU,Germany,2014,DIPHTHERIA,Diphtheria,"per 1,000,000 population",
+COUNTRIES,DEU,Germany,2014,TB,Tuberculosis,"per 1,000,000 population",45.4
+COUNTRIES,DEU,Germany,2014,HEPB,Hepatitis B,"per 1,000,000 population",46.6
+COUNTRIES,DEU,Germany,2015,MEASLES,Measles,"per 1,000,000 population",48.31
+COUNTRIES,DEU,Germany,2015,POLIO,Poliomyelitis,"per 1,000,000 population",193.18
+COUNTRIES,DEU,Germany,2015,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",47.77
+COUNTRIES,DEU,Germany,2015,DIPHTHERIA,Diphtheria,"per 1,000 live births",52.71
+COUNTRIES,DEU,Germany,2015,TB,Tuberculosis,"per 1,000,000 population",47.42
+COUNTRIES,DEU,Germany,2015,HEPB,Hepatitis B,"per 1,000 live births",44.92
+COUNTRIES,DEU,Germany,2016,MEASLES,Measles,"per 100,000 population",46.12
+COUNTRIES,DEU,Germany,2016,POLIO,Poliomyelitis,"per 100,000 population",43.65
+COUNTRIES,DEU,Germany,2016,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",22.64
+COUNTRIES,DEU,Germany,2016,DIPHTHERIA,Diphtheria,"per 1,000 live births",59.39
+COUNTRIES,DEU,Germany,2016,TB,Tuberculosis,"per 100,000 population",57.91
+COUNTRIES,DEU,Germany,2016,HEPB,Hepatitis B,"per 100,000 population",48.66
+COUNTRIES,DEU,Germany,2017,MEASLES,Measles,"per 1,000 live births",37.39
+COUNTRIES,DEU,Germany,2017,POLIO,Poliomyelitis,"per 1,000,000 population",256.55
+COUNTRIES,DEU,Germany,2017,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",39.12
+COUNTRIES,DEU,Germany,2017,DIPHTHERIA,Diphtheria,"per 1,000 live births",34.61
+COUNTRIES,DEU,Germany,2017,TB,Tuberculosis,"per 1,000 live births",51.29
+COUNTRIES,DEU,Germany,2017,HEPB,Hepatitis B,"per 1,000 live births",56.59
+COUNTRIES,DEU,Germany,2018,MEASLES,Measles,"per 100,000 population",47.6
+COUNTRIES,DEU,Germany,2018,POLIO,Poliomyelitis,"per 1,000 live births",23.02
+COUNTRIES,DEU,Germany,2018,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",48.48
+COUNTRIES,DEU,Germany,2018,DIPHTHERIA,Diphtheria,"per 100,000 population",235.57
+COUNTRIES,DEU,Germany,2018,TB,Tuberculosis,"per 1,000 live births",37.51
+COUNTRIES,DEU,Germany,2018,HEPB,Hepatitis B,"per 1,000 live births",35.5
+COUNTRIES,DEU,Germany,2019,MEASLES,Measles,"per 1,000 live births",49.86
+COUNTRIES,DEU,Germany,2019,POLIO,Poliomyelitis,"per 1,000 live births",31.04
+COUNTRIES,DEU,Germany,2019,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",67.83
+COUNTRIES,DEU,Germany,2019,DIPHTHERIA,Diphtheria,"per 100,000 population",48.03
+COUNTRIES,DEU,Germany,2019,TB,Tuberculosis,"per 1,000 live births",33.69
+COUNTRIES,DEU,Germany,2019,HEPB,Hepatitis B,"per 1,000 live births",43.91
+COUNTRIES,DEU,Germany,2020,MEASLES,Measles,"per 1,000 live births",52.44
+COUNTRIES,DEU,Germany,2020,POLIO,Poliomyelitis,"per 1,000 live births",45.87
+COUNTRIES,DEU,Germany,2020,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",40.88
+COUNTRIES,DEU,Germany,2020,DIPHTHERIA,Diphtheria,"per 1,000 live births",51.63
+COUNTRIES,DEU,Germany,2020,TB,Tuberculosis,"per 1,000 live births",62.57
+COUNTRIES,DEU,Germany,2020,HEPB,Hepatitis B,"per 1,000,000 population",39.78
+COUNTRIES,DEU,Germany,2021,MEASLES,Measles,"per 1,000 live births",43.06
+COUNTRIES,DEU,Germany,2021,POLIO,Poliomyelitis,"per 1,000,000 population",54.81
+COUNTRIES,DEU,Germany,2021,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",43.3
+COUNTRIES,DEU,Germany,2021,DIPHTHERIA,Diphtheria,"per 100,000 population",46.4
+COUNTRIES,DEU,Germany,2021,TB,Tuberculosis,"per 100,000 population",37.94
+COUNTRIES,DEU,Germany,2021,HEPB,Hepatitis B,"per 1,000,000 population",50.29
+COUNTRIES,DEU,Germany,2022,MEASLES,Measles,"per 100,000 population",39.3
+COUNTRIES,DEU,Germany,2022,POLIO,Poliomyelitis,"per 1,000,000 population",26.84
+COUNTRIES,DEU,Germany,2022,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",267.53
+COUNTRIES,DEU,Germany,2022,DIPHTHERIA,Diphtheria,"per 1,000 live births",24.64
+COUNTRIES,DEU,Germany,2022,TB,Tuberculosis,"per 1,000,000 population",36.74
+COUNTRIES,DEU,Germany,2022,HEPB,Hepatitis B,"per 100,000 population",50.88
+COUNTRIES,DEU,Germany,2023,MEASLES,Measles,"per 100,000 population",60.9
+COUNTRIES,DEU,Germany,2023,POLIO,Poliomyelitis,"per 1,000 live births",98.35
+COUNTRIES,DEU,Germany,2023,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",30.29
+COUNTRIES,DEU,Germany,2023,DIPHTHERIA,Diphtheria,"per 1,000,000 population",38.25
+COUNTRIES,DEU,Germany,2023,TB,Tuberculosis,"per 100,000 population",56.72
+COUNTRIES,DEU,Germany,2023,HEPB,Hepatitis B,"per 1,000 live births",43.92
+COUNTRIES,CHN,China,2010,MEASLES,Measles,"per 1,000 live births",37.36
+COUNTRIES,CHN,China,2010,POLIO,Poliomyelitis,"per 100,000 population",30.12
+COUNTRIES,CHN,China,2010,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",28.06
+COUNTRIES,CHN,China,2010,DIPHTHERIA,Diphtheria,"per 1,000 live births",35.31
+COUNTRIES,CHN,China,2010,TB,Tuberculosis,"per 1,000 live births",43.75
+COUNTRIES,CHN,China,2010,HEPB,Hepatitis B,"per 1,000 live births",46.33
+COUNTRIES,CHN,China,2011,MEASLES,Measles,"per 1,000 live births",37.15
+COUNTRIES,CHN,China,2011,POLIO,Poliomyelitis,"per 1,000 live births",37.71
+COUNTRIES,CHN,China,2011,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",19.14
+COUNTRIES,CHN,China,2011,DIPHTHERIA,Diphtheria,"per 100,000 population",32.2
+COUNTRIES,CHN,China,2011,TB,Tuberculosis,"per 1,000 live births",37.94
+COUNTRIES,CHN,China,2011,HEPB,Hepatitis B,"per 1,000 live births",33.06
+COUNTRIES,CHN,China,2012,MEASLES,Measles,"per 100,000 population",29.22
+COUNTRIES,CHN,China,2012,POLIO,Poliomyelitis,"per 100,000 population",14.15
+COUNTRIES,CHN,China,2012,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",26.3
+COUNTRIES,CHN,China,2012,DIPHTHERIA,Diphtheria,"per 100,000 population",22.08
+COUNTRIES,CHN,China,2012,TB,Tuberculosis,"per 100,000 population",28.56
+COUNTRIES,CHN,China,2012,HEPB,Hepatitis B,"per 1,000 live births",35.3
+COUNTRIES,CHN,China,2013,MEASLES,Measles,"per 100,000 population",34.23
+COUNTRIES,CHN,China,2013,POLIO,Poliomyelitis,"per 100,000 population",16.4
+COUNTRIES,CHN,China,2013,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",29.11
+COUNTRIES,CHN,China,2013,DIPHTHERIA,Diphtheria,"per 1,000,000 population",35.35
+COUNTRIES,CHN,China,2013,TB,Tuberculosis,"per 1,000,000 population",30.61
+COUNTRIES,CHN,China,2013,HEPB,Hepatitis B,"per 1,000,000 population",15.67
+COUNTRIES,CHN,China,2014,MEASLES,Measles,"per 100,000 population",17.17
+COUNTRIES,CHN,China,2014,POLIO,Poliomyelitis,"per 100,000 population",30.74
+COUNTRIES,CHN,China,2014,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",16.91
+COUNTRIES,CHN,China,2014,DIPHTHERIA,Diphtheria,"per 1,000,000 population",33.4
+COUNTRIES,CHN,China,2014,TB,Tuberculosis,"per 1,000 live births",103.58
+COUNTRIES,CHN,China,2014,HEPB,Hepatitis B,"per 100,000 population",25.4
+COUNTRIES,CHN,China,2015,MEASLES,Measles,"per 1,000,000 population",81.91
+COUNTRIES,CHN,China,2015,POLIO,Poliomyelitis,"per 1,000,000 population",15.66
+COUNTRIES,CHN,China,2015,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",15.04
+COUNTRIES,CHN,China,2015,DIPHTHERIA,Diphtheria,"per 1,000 live births",33.19
+COUNTRIES,CHN,China,2015,TB,Tuberculosis,"per 100,000 population",24.9
+COUNTRIES,CHN,China,2015,HEPB,Hepatitis B,"per 100,000 population",21.21
+COUNTRIES,CHN,China,2016,MEASLES,Measles,"per 100,000 population",28.36
+COUNTRIES,CHN,China,2016,POLIO,Poliomyelitis,"per 1,000 live births",25.76
+COUNTRIES,CHN,China,2016,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",32.09
+COUNTRIES,CHN,China,2016,DIPHTHERIA,Diphtheria,"per 100,000 population",38.31
+COUNTRIES,CHN,China,2016,TB,Tuberculosis,"per 1,000,000 population",19.59
+COUNTRIES,CHN,China,2016,HEPB,Hepatitis B,"per 100,000 population",25.25
+COUNTRIES,CHN,China,2017,MEASLES,Measles,"per 1,000,000 population",31.09
+COUNTRIES,CHN,China,2017,POLIO,Poliomyelitis,"per 1,000,000 population",13.35
+COUNTRIES,CHN,China,2017,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",20.44
+COUNTRIES,CHN,China,2017,DIPHTHERIA,Diphtheria,"per 1,000 live births",11.47
+COUNTRIES,CHN,China,2017,TB,Tuberculosis,"per 1,000 live births",30.7
+COUNTRIES,CHN,China,2017,HEPB,Hepatitis B,"per 1,000,000 population",
+COUNTRIES,CHN,China,2018,MEASLES,Measles,"per 100,000 population",30.41
+COUNTRIES,CHN,China,2018,POLIO,Poliomyelitis,"per 1,000,000 population",28.97
+COUNTRIES,CHN,China,2018,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",23.22
+COUNTRIES,CHN,China,2018,DIPHTHERIA,Diphtheria,"per 1,000 live births",18.78
+COUNTRIES,CHN,China,2018,TB,Tuberculosis,"per 1,000,000 population",19.94
+COUNTRIES,CHN,China,2018,HEPB,Hepatitis B,"per 1,000 live births",29.0
+COUNTRIES,CHN,China,2019,MEASLES,Measles,"per 1,000,000 population",26.57
+COUNTRIES,CHN,China,2019,POLIO,Poliomyelitis,"per 100,000 population",23.76
+COUNTRIES,CHN,China,2019,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",19.97
+COUNTRIES,CHN,China,2019,DIPHTHERIA,Diphtheria,"per 100,000 population",30.6
+COUNTRIES,CHN,China,2019,TB,Tuberculosis,"per 100,000 population",28.95
+COUNTRIES,CHN,China,2019,HEPB,Hepatitis B,"per 1,000,000 population",27.33
+COUNTRIES,CHN,China,2020,MEASLES,Measles,"per 100,000 population",39.97
+COUNTRIES,CHN,China,2020,POLIO,Poliomyelitis,"per 1,000 live births",29.76
+COUNTRIES,CHN,China,2020,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",30.64
+COUNTRIES,CHN,China,2020,DIPHTHERIA,Diphtheria,"per 1,000,000 population",88.53
+COUNTRIES,CHN,China,2020,TB,Tuberculosis,"per 1,000 live births",17.88
+COUNTRIES,CHN,China,2020,HEPB,Hepatitis B,"per 1,000,000 population",70.25
+COUNTRIES,CHN,China,2021,MEASLES,Measles,"per 1,000 live births",28.32
+COUNTRIES,CHN,China,2021,POLIO,Poliomyelitis,"per 100,000 population",26.96
+COUNTRIES,CHN,China,2021,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",39.57
+COUNTRIES,CHN,China,2021,DIPHTHERIA,Diphtheria,"per 100,000 population",17.34
+COUNTRIES,CHN,China,2021,TB,Tuberculosis,"per 1,000 live births",31.83
+COUNTRIES,CHN,China,2021,HEPB,Hepatitis B,"per 100,000 population",35.09
+COUNTRIES,CHN,China,2022,MEASLES,Measles,"per 100,000 population",27.79
+COUNTRIES,CHN,China,2022,POLIO,Poliomyelitis,"per 1,000,000 population",24.68
+COUNTRIES,CHN,China,2022,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",28.64
+COUNTRIES,CHN,China,2022,DIPHTHERIA,Diphtheria,"per 1,000 live births",33.06
+COUNTRIES,CHN,China,2022,TB,Tuberculosis,"per 1,000 live births",15.12
+COUNTRIES,CHN,China,2022,HEPB,Hepatitis B,"per 1,000,000 population",16.17
+COUNTRIES,CHN,China,2023,MEASLES,Measles,"per 1,000,000 population",28.16
+COUNTRIES,CHN,China,2023,POLIO,Poliomyelitis,"per 1,000 live births",22.83
+COUNTRIES,CHN,China,2023,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",22.28
+COUNTRIES,CHN,China,2023,DIPHTHERIA,Diphtheria,"per 1,000,000 population",32.26
+COUNTRIES,CHN,China,2023,TB,Tuberculosis,"per 100,000 population",3.71
+COUNTRIES,CHN,China,2023,HEPB,Hepatitis B,"per 100,000 population",45.59
+COUNTRIES,ZAF,South Africa,2010,MEASLES,Measles,"per 1,000,000 population",124.24
+COUNTRIES,ZAF,South Africa,2010,POLIO,Poliomyelitis,"per 1,000 live births",44.27
+COUNTRIES,ZAF,South Africa,2010,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",33.74
+COUNTRIES,ZAF,South Africa,2010,DIPHTHERIA,Diphtheria,"per 1,000,000 population",32.95
+COUNTRIES,ZAF,South Africa,2010,TB,Tuberculosis,"per 1,000,000 population",45.74
+COUNTRIES,ZAF,South Africa,2010,HEPB,Hepatitis B,"per 100,000 population",18.55
+COUNTRIES,ZAF,South Africa,2011,MEASLES,Measles,"per 1,000 live births",115.64
+COUNTRIES,ZAF,South Africa,2011,POLIO,Poliomyelitis,"per 1,000,000 population",24.95
+COUNTRIES,ZAF,South Africa,2011,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",43.04
+COUNTRIES,ZAF,South Africa,2011,DIPHTHERIA,Diphtheria,"per 1,000 live births",40.9
+COUNTRIES,ZAF,South Africa,2011,TB,Tuberculosis,"per 100,000 population",39.62
+COUNTRIES,ZAF,South Africa,2011,HEPB,Hepatitis B,"per 1,000 live births",44.24
+COUNTRIES,ZAF,South Africa,2012,MEASLES,Measles,"per 1,000 live births",17.2
+COUNTRIES,ZAF,South Africa,2012,POLIO,Poliomyelitis,"per 1,000 live births",
+COUNTRIES,ZAF,South Africa,2012,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",31.39
+COUNTRIES,ZAF,South Africa,2012,DIPHTHERIA,Diphtheria,"per 1,000 live births",30.43
+COUNTRIES,ZAF,South Africa,2012,TB,Tuberculosis,"per 1,000 live births",39.09
+COUNTRIES,ZAF,South Africa,2012,HEPB,Hepatitis B,"per 1,000,000 population",142.8
+COUNTRIES,ZAF,South Africa,2013,MEASLES,Measles,"per 1,000 live births",20.04
+COUNTRIES,ZAF,South Africa,2013,POLIO,Poliomyelitis,"per 1,000 live births",39.58
+COUNTRIES,ZAF,South Africa,2013,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",35.85
+COUNTRIES,ZAF,South Africa,2013,DIPHTHERIA,Diphtheria,"per 100,000 population",27.0
+COUNTRIES,ZAF,South Africa,2013,TB,Tuberculosis,"per 1,000,000 population",39.88
+COUNTRIES,ZAF,South Africa,2013,HEPB,Hepatitis B,"per 100,000 population",30.7
+COUNTRIES,ZAF,South Africa,2014,MEASLES,Measles,"per 100,000 population",33.38
+COUNTRIES,ZAF,South Africa,2014,POLIO,Poliomyelitis,"per 1,000 live births",29.13
+COUNTRIES,ZAF,South Africa,2014,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",20.71
+COUNTRIES,ZAF,South Africa,2014,DIPHTHERIA,Diphtheria,"per 1,000,000 population",36.01
+COUNTRIES,ZAF,South Africa,2014,TB,Tuberculosis,"per 1,000 live births",37.85
+COUNTRIES,ZAF,South Africa,2014,HEPB,Hepatitis B,"per 1,000,000 population",20.49
+COUNTRIES,ZAF,South Africa,2015,MEASLES,Measles,"per 1,000,000 population",26.02
+COUNTRIES,ZAF,South Africa,2015,POLIO,Poliomyelitis,"per 100,000 population",41.67
+COUNTRIES,ZAF,South Africa,2015,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",35.68
+COUNTRIES,ZAF,South Africa,2015,DIPHTHERIA,Diphtheria,"per 1,000 live births",18.59
+COUNTRIES,ZAF,South Africa,2015,TB,Tuberculosis,"per 1,000,000 population",16.94
+COUNTRIES,ZAF,South Africa,2015,HEPB,Hepatitis B,"per 100,000 population",30.83
+COUNTRIES,ZAF,South Africa,2016,MEASLES,Measles,"per 100,000 population",21.33
+COUNTRIES,ZAF,South Africa,2016,POLIO,Poliomyelitis,"per 100,000 population",30.93
+COUNTRIES,ZAF,South Africa,2016,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",20.79
+COUNTRIES,ZAF,South Africa,2016,DIPHTHERIA,Diphtheria,"per 1,000 live births",33.52
+COUNTRIES,ZAF,South Africa,2016,TB,Tuberculosis,"per 1,000 live births",13.09
+COUNTRIES,ZAF,South Africa,2016,HEPB,Hepatitis B,"per 100,000 population",23.59
+COUNTRIES,ZAF,South Africa,2017,MEASLES,Measles,"per 1,000 live births",24.67
+COUNTRIES,ZAF,South Africa,2017,POLIO,Poliomyelitis,"per 100,000 population",49.58
+COUNTRIES,ZAF,South Africa,2017,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",31.81
+COUNTRIES,ZAF,South Africa,2017,DIPHTHERIA,Diphtheria,"per 1,000 live births",21.74
+COUNTRIES,ZAF,South Africa,2017,TB,Tuberculosis,"per 1,000 live births",44.56
+COUNTRIES,ZAF,South Africa,2017,HEPB,Hepatitis B,"per 1,000 live births",31.8
+COUNTRIES,ZAF,South Africa,2018,MEASLES,Measles,"per 1,000 live births",28.52
+COUNTRIES,ZAF,South Africa,2018,POLIO,Poliomyelitis,"per 1,000,000 population",25.76
+COUNTRIES,ZAF,South Africa,2018,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",153.19
+COUNTRIES,ZAF,South Africa,2018,DIPHTHERIA,Diphtheria,"per 1,000 live births",20.05
+COUNTRIES,ZAF,South Africa,2018,TB,Tuberculosis,"per 100,000 population",31.93
+COUNTRIES,ZAF,South Africa,2018,HEPB,Hepatitis B,"per 1,000,000 population",30.9
+COUNTRIES,ZAF,South Africa,2019,MEASLES,Measles,"per 1,000 live births",26.99
+COUNTRIES,ZAF,South Africa,2019,POLIO,Poliomyelitis,"per 1,000,000 population",22.62
+COUNTRIES,ZAF,South Africa,2019,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",28.16
+COUNTRIES,ZAF,South Africa,2019,DIPHTHERIA,Diphtheria,"per 1,000,000 population",14.61
+COUNTRIES,ZAF,South Africa,2019,TB,Tuberculosis,"per 100,000 population",
+COUNTRIES,ZAF,South Africa,2019,HEPB,Hepatitis B,"per 100,000 population",48.28
+COUNTRIES,ZAF,South Africa,2020,MEASLES,Measles,"per 1,000 live births",28.64
+COUNTRIES,ZAF,South Africa,2020,POLIO,Poliomyelitis,"per 100,000 population",24.12
+COUNTRIES,ZAF,South Africa,2020,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",25.94
+COUNTRIES,ZAF,South Africa,2020,DIPHTHERIA,Diphtheria,"per 100,000 population",21.76
+COUNTRIES,ZAF,South Africa,2020,TB,Tuberculosis,"per 1,000 live births",38.07
+COUNTRIES,ZAF,South Africa,2020,HEPB,Hepatitis B,"per 1,000,000 population",36.24
+COUNTRIES,ZAF,South Africa,2021,MEASLES,Measles,"per 100,000 population",19.32
+COUNTRIES,ZAF,South Africa,2021,POLIO,Poliomyelitis,"per 1,000 live births",39.91
+COUNTRIES,ZAF,South Africa,2021,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",114.3
+COUNTRIES,ZAF,South Africa,2021,DIPHTHERIA,Diphtheria,"per 100,000 population",15.29
+COUNTRIES,ZAF,South Africa,2021,TB,Tuberculosis,"per 100,000 population",22.0
+COUNTRIES,ZAF,South Africa,2021,HEPB,Hepatitis B,"per 1,000,000 population",32.03
+COUNTRIES,ZAF,South Africa,2022,MEASLES,Measles,"per 1,000 live births",35.98
+COUNTRIES,ZAF,South Africa,2022,POLIO,Poliomyelitis,"per 1,000,000 population",30.18
+COUNTRIES,ZAF,South Africa,2022,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",27.75
+COUNTRIES,ZAF,South Africa,2022,DIPHTHERIA,Diphtheria,"per 1,000,000 population",32.92
+COUNTRIES,ZAF,South Africa,2022,TB,Tuberculosis,"per 100,000 population",37.48
+COUNTRIES,ZAF,South Africa,2022,HEPB,Hepatitis B,"per 1,000 live births",31.04
+COUNTRIES,ZAF,South Africa,2023,MEASLES,Measles,"per 1,000 live births",39.77
+COUNTRIES,ZAF,South Africa,2023,POLIO,Poliomyelitis,"per 1,000 live births",36.75
+COUNTRIES,ZAF,South Africa,2023,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",23.85
+COUNTRIES,ZAF,South Africa,2023,DIPHTHERIA,Diphtheria,"per 1,000,000 population",36.21
+COUNTRIES,ZAF,South Africa,2023,TB,Tuberculosis,"per 1,000 live births",25.62
+COUNTRIES,ZAF,South Africa,2023,HEPB,Hepatitis B,"per 1,000,000 population",27.89
+COUNTRIES,MEX,Mexico,2010,MEASLES,Measles,"per 1,000 live births",2.61
+COUNTRIES,MEX,Mexico,2010,POLIO,Poliomyelitis,"per 1,000,000 population",1.79
+COUNTRIES,MEX,Mexico,2010,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",14.02
+COUNTRIES,MEX,Mexico,2010,DIPHTHERIA,Diphtheria,"per 1,000,000 population",1.61
+COUNTRIES,MEX,Mexico,2010,TB,Tuberculosis,"per 100,000 population",0.0
+COUNTRIES,MEX,Mexico,2010,HEPB,Hepatitis B,"per 1,000 live births",13.92
+COUNTRIES,MEX,Mexico,2011,MEASLES,Measles,"per 100,000 population",0.0
+COUNTRIES,MEX,Mexico,2011,POLIO,Poliomyelitis,"per 1,000 live births",0.0
+COUNTRIES,MEX,Mexico,2011,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",2.38
+COUNTRIES,MEX,Mexico,2011,DIPHTHERIA,Diphtheria,"per 1,000,000 population",9.06
+COUNTRIES,MEX,Mexico,2011,TB,Tuberculosis,"per 100,000 population",9.69
+COUNTRIES,MEX,Mexico,2011,HEPB,Hepatitis B,"per 100,000 population",5.03
+COUNTRIES,MEX,Mexico,2012,MEASLES,Measles,"per 100,000 population",0.0
+COUNTRIES,MEX,Mexico,2012,POLIO,Poliomyelitis,"per 1,000,000 population",0.0
+COUNTRIES,MEX,Mexico,2012,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",0.0
+COUNTRIES,MEX,Mexico,2012,DIPHTHERIA,Diphtheria,"per 1,000 live births",4.0
+COUNTRIES,MEX,Mexico,2012,TB,Tuberculosis,"per 1,000 live births",0.0
+COUNTRIES,MEX,Mexico,2012,HEPB,Hepatitis B,"per 1,000 live births",8.03
+COUNTRIES,MEX,Mexico,2013,MEASLES,Measles,"per 1,000,000 population",2.51
+COUNTRIES,MEX,Mexico,2013,POLIO,Poliomyelitis,"per 1,000,000 population",51.35
+COUNTRIES,MEX,Mexico,2013,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",6.42
+COUNTRIES,MEX,Mexico,2013,DIPHTHERIA,Diphtheria,"per 100,000 population",3.74
+COUNTRIES,MEX,Mexico,2013,TB,Tuberculosis,"per 1,000 live births",6.57
+COUNTRIES,MEX,Mexico,2013,HEPB,Hepatitis B,"per 1,000 live births",8.46
+COUNTRIES,MEX,Mexico,2014,MEASLES,Measles,"per 1,000 live births",5.43
+COUNTRIES,MEX,Mexico,2014,POLIO,Poliomyelitis,"per 1,000 live births",6.93
+COUNTRIES,MEX,Mexico,2014,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",6.36
+COUNTRIES,MEX,Mexico,2014,DIPHTHERIA,Diphtheria,"per 100,000 population",10.78
+COUNTRIES,MEX,Mexico,2014,TB,Tuberculosis,"per 100,000 population",3.18
+COUNTRIES,MEX,Mexico,2014,HEPB,Hepatitis B,"per 100,000 population",14.14
+COUNTRIES,MEX,Mexico,2015,MEASLES,Measles,"per 100,000 population",5.07
+COUNTRIES,MEX,Mexico,2015,POLIO,Poliomyelitis,"per 1,000,000 population",10.2
+COUNTRIES,MEX,Mexico,2015,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",1.97
+COUNTRIES,MEX,Mexico,2015,DIPHTHERIA,Diphtheria,"per 100,000 population",9.42
+COUNTRIES,MEX,Mexico,2015,TB,Tuberculosis,"per 1,000 live births",3.51
+COUNTRIES,MEX,Mexico,2015,HEPB,Hepatitis B,"per 1,000,000 population",0.0
+COUNTRIES,MEX,Mexico,2016,MEASLES,Measles,"per 100,000 population",9.98
+COUNTRIES,MEX,Mexico,2016,POLIO,Poliomyelitis,"per 1,000 live births",47.43
+COUNTRIES,MEX,Mexico,2016,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",8.98
+COUNTRIES,MEX,Mexico,2016,DIPHTHERIA,Diphtheria,"per 100,000 population",1.46
+COUNTRIES,MEX,Mexico,2016,TB,Tuberculosis,"per 100,000 population",1.19
+COUNTRIES,MEX,Mexico,2016,HEPB,Hepatitis B,"per 1,000 live births",16.42
+COUNTRIES,MEX,Mexico,2017,MEASLES,Measles,"per 1,000 live births",0.0
+COUNTRIES,MEX,Mexico,2017,POLIO,Poliomyelitis,"per 100,000 population",11.72
+COUNTRIES,MEX,Mexico,2017,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",0.0
+COUNTRIES,MEX,Mexico,2017,DIPHTHERIA,Diphtheria,"per 1,000,000 population",13.74
+COUNTRIES,MEX,Mexico,2017,TB,Tuberculosis,"per 1,000 live births",13.64
+COUNTRIES,MEX,Mexico,2017,HEPB,Hepatitis B,"per 1,000,000 population",0.24
+COUNTRIES,MEX,Mexico,2018,MEASLES,Measles,"per 1,000 live births",9.23
+COUNTRIES,MEX,Mexico,2018,POLIO,Poliomyelitis,"per 100,000 population",4.07
+COUNTRIES,MEX,Mexico,2018,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",0.0
+COUNTRIES,MEX,Mexico,2018,DIPHTHERIA,Diphtheria,"per 1,000,000 population",0.74
+COUNTRIES,MEX,Mexico,2018,TB,Tuberculosis,"per 100,000 population",12.74
+COUNTRIES,MEX,Mexico,2018,HEPB,Hepatitis B,"per 100,000 population",0.0
+COUNTRIES,MEX,Mexico,2019,MEASLES,Measles,"per 1,000 live births",0.0
+COUNTRIES,MEX,Mexico,2019,POLIO,Poliomyelitis,"per 100,000 population",7.5
+COUNTRIES,MEX,Mexico,2019,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",0.0
+COUNTRIES,MEX,Mexico,2019,DIPHTHERIA,Diphtheria,"per 1,000 live births",
+COUNTRIES,MEX,Mexico,2019,TB,Tuberculosis,"per 100,000 population",13.65
+COUNTRIES,MEX,Mexico,2019,HEPB,Hepatitis B,"per 100,000 population",6.85
+COUNTRIES,MEX,Mexico,2020,MEASLES,Measles,"per 1,000,000 population",0.0
+COUNTRIES,MEX,Mexico,2020,POLIO,Poliomyelitis,"per 1,000,000 population",10.2
+COUNTRIES,MEX,Mexico,2020,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",11.97
+COUNTRIES,MEX,Mexico,2020,DIPHTHERIA,Diphtheria,"per 1,000 live births",0.17
+COUNTRIES,MEX,Mexico,2020,TB,Tuberculosis,"per 1,000 live births",5.85
+COUNTRIES,MEX,Mexico,2020,HEPB,Hepatitis B,"per 1,000 live births",2.65
+COUNTRIES,MEX,Mexico,2021,MEASLES,Measles,"per 1,000 live births",0.0
+COUNTRIES,MEX,Mexico,2021,POLIO,Poliomyelitis,"per 1,000 live births",0.0
+COUNTRIES,MEX,Mexico,2021,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",0.0
+COUNTRIES,MEX,Mexico,2021,DIPHTHERIA,Diphtheria,"per 100,000 population",1.88
+COUNTRIES,MEX,Mexico,2021,TB,Tuberculosis,"per 1,000,000 population",0.0
+COUNTRIES,MEX,Mexico,2021,HEPB,Hepatitis B,"per 1,000 live births",4.47
+COUNTRIES,MEX,Mexico,2022,MEASLES,Measles,"per 1,000 live births",0.0
+COUNTRIES,MEX,Mexico,2022,POLIO,Poliomyelitis,"per 100,000 population",0.0
+COUNTRIES,MEX,Mexico,2022,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",0.0
+COUNTRIES,MEX,Mexico,2022,DIPHTHERIA,Diphtheria,"per 100,000 population",0.75
+COUNTRIES,MEX,Mexico,2022,TB,Tuberculosis,"per 1,000,000 population",17.06
+COUNTRIES,MEX,Mexico,2022,HEPB,Hepatitis B,"per 1,000,000 population",0.0
+COUNTRIES,MEX,Mexico,2023,MEASLES,Measles,"per 1,000,000 population",0.0
+COUNTRIES,MEX,Mexico,2023,POLIO,Poliomyelitis,"per 100,000 population",2.44
+COUNTRIES,MEX,Mexico,2023,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",3.3
+COUNTRIES,MEX,Mexico,2023,DIPHTHERIA,Diphtheria,"per 100,000 population",0.0
+COUNTRIES,MEX,Mexico,2023,TB,Tuberculosis,"per 1,000,000 population",20.92
+COUNTRIES,MEX,Mexico,2023,HEPB,Hepatitis B,"per 1,000 live births",0.0
+COUNTRIES,IDN,Indonesia,2010,MEASLES,Measles,"per 1,000,000 population",8.6
+COUNTRIES,IDN,Indonesia,2010,POLIO,Poliomyelitis,"per 1,000,000 population",35.09
+COUNTRIES,IDN,Indonesia,2010,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",15.85
+COUNTRIES,IDN,Indonesia,2010,DIPHTHERIA,Diphtheria,"per 1,000,000 population",20.08
+COUNTRIES,IDN,Indonesia,2010,TB,Tuberculosis,"per 1,000,000 population",25.77
+COUNTRIES,IDN,Indonesia,2010,HEPB,Hepatitis B,"per 100,000 population",23.9
+COUNTRIES,IDN,Indonesia,2011,MEASLES,Measles,"per 1,000,000 population",24.79
+COUNTRIES,IDN,Indonesia,2011,POLIO,Poliomyelitis,"per 1,000,000 population",23.52
+COUNTRIES,IDN,Indonesia,2011,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",26.85
+COUNTRIES,IDN,Indonesia,2011,DIPHTHERIA,Diphtheria,"per 1,000 live births",18.33
+COUNTRIES,IDN,Indonesia,2011,TB,Tuberculosis,"per 1,000,000 population",17.24
+COUNTRIES,IDN,Indonesia,2011,HEPB,Hepatitis B,"per 100,000 population",21.63
+COUNTRIES,IDN,Indonesia,2012,MEASLES,Measles,"per 1,000,000 population",21.34
+COUNTRIES,IDN,Indonesia,2012,POLIO,Poliomyelitis,"per 100,000 population",24.76
+COUNTRIES,IDN,Indonesia,2012,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",17.87
+COUNTRIES,IDN,Indonesia,2012,DIPHTHERIA,Diphtheria,"per 1,000 live births",16.31
+COUNTRIES,IDN,Indonesia,2012,TB,Tuberculosis,"per 1,000,000 population",33.28
+COUNTRIES,IDN,Indonesia,2012,HEPB,Hepatitis B,"per 1,000,000 population",10.05
+COUNTRIES,IDN,Indonesia,2013,MEASLES,Measles,"per 100,000 population",9.35
+COUNTRIES,IDN,Indonesia,2013,POLIO,Poliomyelitis,"per 1,000,000 population",19.18
+COUNTRIES,IDN,Indonesia,2013,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",27.8
+COUNTRIES,IDN,Indonesia,2013,DIPHTHERIA,Diphtheria,"per 100,000 population",26.43
+COUNTRIES,IDN,Indonesia,2013,TB,Tuberculosis,"per 1,000,000 population",3.7
+COUNTRIES,IDN,Indonesia,2013,HEPB,Hepatitis B,"per 1,000 live births",13.21
+COUNTRIES,IDN,Indonesia,2014,MEASLES,Measles,"per 1,000,000 population",16.01
+COUNTRIES,IDN,Indonesia,2014,POLIO,Poliomyelitis,"per 1,000,000 population",5.9
+COUNTRIES,IDN,Indonesia,2014,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",13.37
+COUNTRIES,IDN,Indonesia,2014,DIPHTHERIA,Diphtheria,"per 100,000 population",13.91
+COUNTRIES,IDN,Indonesia,2014,TB,Tuberculosis,"per 1,000,000 population",27.35
+COUNTRIES,IDN,Indonesia,2014,HEPB,Hepatitis B,"per 100,000 population",21.87
+COUNTRIES,IDN,Indonesia,2015,MEASLES,Measles,"per 1,000,000 population",16.72
+COUNTRIES,IDN,Indonesia,2015,POLIO,Poliomyelitis,"per 1,000,000 population",20.65
+COUNTRIES,IDN,Indonesia,2015,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",29.34
+COUNTRIES,IDN,Indonesia,2015,DIPHTHERIA,Diphtheria,"per 1,000 live births",26.98
+COUNTRIES,IDN,Indonesia,2015,TB,Tuberculosis,"per 1,000,000 population",39.48
+COUNTRIES,IDN,Indonesia,2015,HEPB,Hepatitis B,"per 1,000 live births",20.98
+COUNTRIES,IDN,Indonesia,2016,MEASLES,Measles,"per 1,000 live births",76.13
+COUNTRIES,IDN,Indonesia,2016,POLIO,Poliomyelitis,"per 100,000 population",20.77
+COUNTRIES,IDN,Indonesia,2016,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",15.68
+COUNTRIES,IDN,Indonesia,2016,DIPHTHERIA,Diphtheria,"per 1,000 live births",13.97
+COUNTRIES,IDN,Indonesia,2016,TB,Tuberculosis,"per 1,000,000 population",20.51
+COUNTRIES,IDN,Indonesia,2016,HEPB,Hepatitis B,"per 1,000 live births",11.99
+COUNTRIES,IDN,Indonesia,2017,MEASLES,Measles,"per 1,000 live births",31.79
+COUNTRIES,IDN,Indonesia,2017,POLIO,Poliomyelitis,"per 1,000 live births",29.04
+COUNTRIES,IDN,Indonesia,2017,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",21.35
+COUNTRIES,IDN,Indonesia,2017,DIPHTHERIA,Diphtheria,"per 1,000 live births",16.48
+COUNTRIES,IDN,Indonesia,2017,TB,Tuberculosis,"per 1,000,000 population",13.97
+COUNTRIES,IDN,Indonesia,2017,HEPB,Hepatitis B,"per 1,000,000 population",34.85
+COUNTRIES,IDN,Indonesia,2018,MEASLES,Measles,"per 1,000 live births",19.96
+COUNTRIES,IDN,Indonesia,2018,POLIO,Poliomyelitis,"per 100,000 population",13.73
+COUNTRIES,IDN,Indonesia,2018,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",21.75
+COUNTRIES,IDN,Indonesia,2018,DIPHTHERIA,Diphtheria,"per 1,000 live births",26.1
+COUNTRIES,IDN,Indonesia,2018,TB,Tuberculosis,"per 1,000 live births",11.58
+COUNTRIES,IDN,Indonesia,2018,HEPB,Hepatitis B,"per 1,000 live births",9.42
+COUNTRIES,IDN,Indonesia,2019,MEASLES,Measles,"per 100,000 population",0.0
+COUNTRIES,IDN,Indonesia,2019,POLIO,Poliomyelitis,"per 100,000 population",6.0
+COUNTRIES,IDN,Indonesia,2019,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",16.67
+COUNTRIES,IDN,Indonesia,2019,DIPHTHERIA,Diphtheria,"per 100,000 population",6.92
+COUNTRIES,IDN,Indonesia,2019,TB,Tuberculosis,"per 100,000 population",20.81
+COUNTRIES,IDN,Indonesia,2019,HEPB,Hepatitis B,"per 100,000 population",
+COUNTRIES,IDN,Indonesia,2020,MEASLES,Measles,"per 1,000 live births",25.1
+COUNTRIES,IDN,Indonesia,2020,POLIO,Poliomyelitis,"per 1,000,000 population",0.0
+COUNTRIES,IDN,Indonesia,2020,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",27.57
+COUNTRIES,IDN,Indonesia,2020,DIPHTHERIA,Diphtheria,"per 100,000 population",12.91
+COUNTRIES,IDN,Indonesia,2020,TB,Tuberculosis,"per 100,000 population",18.09
+COUNTRIES,IDN,Indonesia,2020,HEPB,Hepatitis B,"per 1,000,000 population",20.26
+COUNTRIES,IDN,Indonesia,2021,MEASLES,Measles,"per 1,000 live births",8.55
+COUNTRIES,IDN,Indonesia,2021,POLIO,Poliomyelitis,"per 100,000 population",8.22
+COUNTRIES,IDN,Indonesia,2021,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",8.94
+COUNTRIES,IDN,Indonesia,2021,DIPHTHERIA,Diphtheria,"per 100,000 population",20.92
+COUNTRIES,IDN,Indonesia,2021,TB,Tuberculosis,"per 1,000 live births",22.87
+COUNTRIES,IDN,Indonesia,2021,HEPB,Hepatitis B,"per 1,000 live births",23.9
+COUNTRIES,IDN,Indonesia,2022,MEASLES,Measles,"per 100,000 population",15.71
+COUNTRIES,IDN,Indonesia,2022,POLIO,Poliomyelitis,"per 1,000,000 population",22.29
+COUNTRIES,IDN,Indonesia,2022,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",20.73
+COUNTRIES,IDN,Indonesia,2022,DIPHTHERIA,Diphtheria,"per 100,000 population",12.84
+COUNTRIES,IDN,Indonesia,2022,TB,Tuberculosis,"per 1,000,000 population",4.86
+COUNTRIES,IDN,Indonesia,2022,HEPB,Hepatitis B,"per 100,000 population",8.44
+COUNTRIES,IDN,Indonesia,2023,MEASLES,Measles,"per 100,000 population",18.01
+COUNTRIES,IDN,Indonesia,2023,POLIO,Poliomyelitis,"per 100,000 population",27.09
+COUNTRIES,IDN,Indonesia,2023,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",15.63
+COUNTRIES,IDN,Indonesia,2023,DIPHTHERIA,Diphtheria,"per 100,000 population",23.06
+COUNTRIES,IDN,Indonesia,2023,TB,Tuberculosis,"per 100,000 population",29.16
+COUNTRIES,IDN,Indonesia,2023,HEPB,Hepatitis B,"per 100,000 population",10.14
+COUNTRIES,EGY,Egypt,2010,MEASLES,Measles,"per 1,000,000 population",8.78
+COUNTRIES,EGY,Egypt,2010,POLIO,Poliomyelitis,"per 100,000 population",15.35
+COUNTRIES,EGY,Egypt,2010,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",16.01
+COUNTRIES,EGY,Egypt,2010,DIPHTHERIA,Diphtheria,"per 1,000 live births",13.8
+COUNTRIES,EGY,Egypt,2010,TB,Tuberculosis,"per 100,000 population",14.94
+COUNTRIES,EGY,Egypt,2010,HEPB,Hepatitis B,"per 100,000 population",2.34
+COUNTRIES,EGY,Egypt,2011,MEASLES,Measles,"per 1,000 live births",9.74
+COUNTRIES,EGY,Egypt,2011,POLIO,Poliomyelitis,"per 100,000 population",20.44
+COUNTRIES,EGY,Egypt,2011,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",16.05
+COUNTRIES,EGY,Egypt,2011,DIPHTHERIA,Diphtheria,"per 1,000,000 population",0.0
+COUNTRIES,EGY,Egypt,2011,TB,Tuberculosis,"per 100,000 population",10.07
+COUNTRIES,EGY,Egypt,2011,HEPB,Hepatitis B,"per 100,000 population",2.69
+COUNTRIES,EGY,Egypt,2012,MEASLES,Measles,"per 100,000 population",22.2
+COUNTRIES,EGY,Egypt,2012,POLIO,Poliomyelitis,"per 1,000 live births",8.81
+COUNTRIES,EGY,Egypt,2012,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",17.29
+COUNTRIES,EGY,Egypt,2012,DIPHTHERIA,Diphtheria,"per 1,000,000 population",17.55
+COUNTRIES,EGY,Egypt,2012,TB,Tuberculosis,"per 1,000 live births",0.29
+COUNTRIES,EGY,Egypt,2012,HEPB,Hepatitis B,"per 1,000,000 population",18.25
+COUNTRIES,EGY,Egypt,2013,MEASLES,Measles,"per 1,000,000 population",0.0
+COUNTRIES,EGY,Egypt,2013,POLIO,Poliomyelitis,"per 1,000,000 population",10.55
+COUNTRIES,EGY,Egypt,2013,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",2.35
+COUNTRIES,EGY,Egypt,2013,DIPHTHERIA,Diphtheria,"per 1,000,000 population",21.68
+COUNTRIES,EGY,Egypt,2013,TB,Tuberculosis,"per 1,000,000 population",20.45
+COUNTRIES,EGY,Egypt,2013,HEPB,Hepatitis B,"per 100,000 population",12.71
+COUNTRIES,EGY,Egypt,2014,MEASLES,Measles,"per 1,000,000 population",13.17
+COUNTRIES,EGY,Egypt,2014,POLIO,Poliomyelitis,"per 1,000,000 population",0.0
+COUNTRIES,EGY,Egypt,2014,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",17.27
+COUNTRIES,EGY,Egypt,2014,DIPHTHERIA,Diphtheria,"per 1,000 live births",17.26
+COUNTRIES,EGY,Egypt,2014,TB,Tuberculosis,"per 100,000 population",14.89
+COUNTRIES,EGY,Egypt,2014,HEPB,Hepatitis B,"per 100,000 population",13.03
+COUNTRIES,EGY,Egypt,2015,MEASLES,Measles,"per 1,000 live births",0.0
+COUNTRIES,EGY,Egypt,2015,POLIO,Poliomyelitis,"per 1,000 live births",21.26
+COUNTRIES,EGY,Egypt,2015,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",5.72
+COUNTRIES,EGY,Egypt,2015,DIPHTHERIA,Diphtheria,"per 1,000 live births",3.84
+COUNTRIES,EGY,Egypt,2015,TB,Tuberculosis,"per 1,000 live births",0.0
+COUNTRIES,EGY,Egypt,2015,HEPB,Hepatitis B,"per 100,000 population",0.0
+COUNTRIES,EGY,Egypt,2016,MEASLES,Measles,"per 1,000,000 population",12.05
+COUNTRIES,EGY,Egypt,2016,POLIO,Poliomyelitis,"per 100,000 population",5.55
+COUNTRIES,EGY,Egypt,2016,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",5.49
+COUNTRIES,EGY,Egypt,2016,DIPHTHERIA,Diphtheria,"per 1,000,000 population",14.29
+COUNTRIES,EGY,Egypt,2016,TB,Tuberculosis,"per 1,000 live births",14.05
+COUNTRIES,EGY,Egypt,2016,HEPB,Hepatitis B,"per 1,000 live births",0.0
+COUNTRIES,EGY,Egypt,2017,MEASLES,Measles,"per 1,000 live births",19.15
+COUNTRIES,EGY,Egypt,2017,POLIO,Poliomyelitis,"per 1,000 live births",21.29
+COUNTRIES,EGY,Egypt,2017,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",17.1
+COUNTRIES,EGY,Egypt,2017,DIPHTHERIA,Diphtheria,"per 1,000 live births",15.15
+COUNTRIES,EGY,Egypt,2017,TB,Tuberculosis,"per 1,000,000 population",4.05
+COUNTRIES,EGY,Egypt,2017,HEPB,Hepatitis B,"per 100,000 population",17.1
+COUNTRIES,EGY,Egypt,2018,MEASLES,Measles,"per 1,000 live births",3.79
+COUNTRIES,EGY,Egypt,2018,POLIO,Poliomyelitis,"per 100,000 population",12.47
+COUNTRIES,EGY,Egypt,2018,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",9.53
+COUNTRIES,EGY,Egypt,2018,DIPHTHERIA,Diphtheria,"per 1,000,000 population",10.84
+COUNTRIES,EGY,Egypt,2018,TB,Tuberculosis,"per 1,000 live births",9.36
+COUNTRIES,EGY,Egypt,2018,HEPB,Hepatitis B,"per 1,000,000 population",0.67
+COUNTRIES,EGY,Egypt,2019,MEASLES,Measles,"per 1,000 live births",14.05
+COUNTRIES,EGY,Egypt,2019,POLIO,Poliomyelitis,"per 1,000 live births",0.0
+COUNTRIES,EGY,Egypt,2019,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",4.24
+COUNTRIES,EGY,Egypt,2019,DIPHTHERIA,Diphtheria,"per 1,000,000 population",0.0
+COUNTRIES,EGY,Egypt,2019,TB,Tuberculosis,"per 100,000 population",0.0
+COUNTRIES,EGY,Egypt,2019,HEPB,Hepatitis B,"per 100,000 population",6.67
+COUNTRIES,EGY,Egypt,2020,MEASLES,Measles,"per 100,000 population",23.1
+COUNTRIES,EGY,Egypt,2020,POLIO,Poliomyelitis,"per 1,000 live births",0.0
+COUNTRIES,EGY,Egypt,2020,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",0.0
+COUNTRIES,EGY,Egypt,2020,DIPHTHERIA,Diphtheria,"per 100,000 population",10.75
+COUNTRIES,EGY,Egypt,2020,TB,Tuberculosis,"per 1,000 live births",6.04
+COUNTRIES,EGY,Egypt,2020,HEPB,Hepatitis B,"per 100,000 population",0.0
+COUNTRIES,EGY,Egypt,2021,MEASLES,Measles,"per 1,000,000 population",13.86
+COUNTRIES,EGY,Egypt,2021,POLIO,Poliomyelitis,"per 1,000,000 population",8.17
+COUNTRIES,EGY,Egypt,2021,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",21.95
+COUNTRIES,EGY,Egypt,2021,DIPHTHERIA,Diphtheria,"per 1,000,000 population",17.38
+COUNTRIES,EGY,Egypt,2021,TB,Tuberculosis,"per 100,000 population",9.28
+COUNTRIES,EGY,Egypt,2021,HEPB,Hepatitis B,"per 100,000 population",11.56
+COUNTRIES,EGY,Egypt,2022,MEASLES,Measles,"per 100,000 population",10.34
+COUNTRIES,EGY,Egypt,2022,POLIO,Poliomyelitis,"per 1,000,000 population",13.27
+COUNTRIES,EGY,Egypt,2022,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",8.7
+COUNTRIES,EGY,Egypt,2022,DIPHTHERIA,Diphtheria,"per 1,000 live births",17.87
+COUNTRIES,EGY,Egypt,2022,TB,Tuberculosis,"per 1,000 live births",7.22
+COUNTRIES,EGY,Egypt,2022,HEPB,Hepatitis B,"per 1,000,000 population",0.0
+COUNTRIES,EGY,Egypt,2023,MEASLES,Measles,"per 1,000 live births",6.4
+COUNTRIES,EGY,Egypt,2023,POLIO,Poliomyelitis,"per 100,000 population",19.49
+COUNTRIES,EGY,Egypt,2023,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",16.22
+COUNTRIES,EGY,Egypt,2023,DIPHTHERIA,Diphtheria,"per 100,000 population",22.77
+COUNTRIES,EGY,Egypt,2023,TB,Tuberculosis,"per 100,000 population",8.76
+COUNTRIES,EGY,Egypt,2023,HEPB,Hepatitis B,"per 100,000 population",8.62
+COUNTRIES,AUS,Australia,2010,MEASLES,Measles,"per 1,000 live births",44.19
+COUNTRIES,AUS,Australia,2010,POLIO,Poliomyelitis,"per 1,000 live births",21.86
+COUNTRIES,AUS,Australia,2010,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",38.31
+COUNTRIES,AUS,Australia,2010,DIPHTHERIA,Diphtheria,"per 1,000 live births",25.15
+COUNTRIES,AUS,Australia,2010,TB,Tuberculosis,"per 1,000,000 population",25.5
+COUNTRIES,AUS,Australia,2010,HEPB,Hepatitis B,"per 1,000 live births",26.42
+COUNTRIES,AUS,Australia,2011,MEASLES,Measles,"per 100,000 population",29.42
+COUNTRIES,AUS,Australia,2011,POLIO,Poliomyelitis,"per 100,000 population",27.03
+COUNTRIES,AUS,Australia,2011,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",45.15
+COUNTRIES,AUS,Australia,2011,DIPHTHERIA,Diphtheria,"per 1,000 live births",19.71
+COUNTRIES,AUS,Australia,2011,TB,Tuberculosis,"per 100,000 population",25.0
+COUNTRIES,AUS,Australia,2011,HEPB,Hepatitis B,"per 100,000 population",28.1
+COUNTRIES,AUS,Australia,2012,MEASLES,Measles,"per 100,000 population",32.49
+COUNTRIES,AUS,Australia,2012,POLIO,Poliomyelitis,"per 1,000 live births",21.53
+COUNTRIES,AUS,Australia,2012,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",23.63
+COUNTRIES,AUS,Australia,2012,DIPHTHERIA,Diphtheria,"per 1,000 live births",20.94
+COUNTRIES,AUS,Australia,2012,TB,Tuberculosis,"per 1,000,000 population",8.88
+COUNTRIES,AUS,Australia,2012,HEPB,Hepatitis B,"per 1,000,000 population",33.58
+COUNTRIES,AUS,Australia,2013,MEASLES,Measles,"per 1,000 live births",33.2
+COUNTRIES,AUS,Australia,2013,POLIO,Poliomyelitis,"per 1,000 live births",27.94
+COUNTRIES,AUS,Australia,2013,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",23.24
+COUNTRIES,AUS,Australia,2013,DIPHTHERIA,Diphtheria,"per 1,000,000 population",17.96
+COUNTRIES,AUS,Australia,2013,TB,Tuberculosis,"per 1,000 live births",31.44
+COUNTRIES,AUS,Australia,2013,HEPB,Hepatitis B,"per 1,000,000 population",49.0
+COUNTRIES,AUS,Australia,2014,MEASLES,Measles,"per 1,000 live births",24.58
+COUNTRIES,AUS,Australia,2014,POLIO,Poliomyelitis,"per 1,000,000 population",27.61
+COUNTRIES,AUS,Australia,2014,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",28.62
+COUNTRIES,AUS,Australia,2014,DIPHTHERIA,Diphtheria,"per 100,000 population",28.31
+COUNTRIES,AUS,Australia,2014,TB,Tuberculosis,"per 1,000 live births",21.2
+COUNTRIES,AUS,Australia,2014,HEPB,Hepatitis B,"per 1,000,000 population",
+COUNTRIES,AUS,Australia,2015,MEASLES,Measles,"per 100,000 population",6.63
+COUNTRIES,AUS,Australia,2015,POLIO,Poliomyelitis,"per 100,000 population",25.45
+COUNTRIES,AUS,Australia,2015,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",27.93
+COUNTRIES,AUS,Australia,2015,DIPHTHERIA,Diphtheria,"per 100,000 population",26.78
+COUNTRIES,AUS,Australia,2015,TB,Tuberculosis,"per 1,000,000 population",42.3
+COUNTRIES,AUS,Australia,2015,HEPB,Hepatitis B,"per 1,000 live births",25.88
+COUNTRIES,AUS,Australia,2016,MEASLES,Measles,"per 1,000 live births",33.6
+COUNTRIES,AUS,Australia,2016,POLIO,Poliomyelitis,"per 100,000 population",26.0
+COUNTRIES,AUS,Australia,2016,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",14.2
+COUNTRIES,AUS,Australia,2016,DIPHTHERIA,Diphtheria,"per 100,000 population",24.84
+COUNTRIES,AUS,Australia,2016,TB,Tuberculosis,"per 100,000 population",29.01
+COUNTRIES,AUS,Australia,2016,HEPB,Hepatitis B,"per 1,000,000 population",36.64
+COUNTRIES,AUS,Australia,2017,MEASLES,Measles,"per 1,000,000 population",24.89
+COUNTRIES,AUS,Australia,2017,POLIO,Poliomyelitis,"per 1,000 live births",25.34
+COUNTRIES,AUS,Australia,2017,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",20.56
+COUNTRIES,AUS,Australia,2017,DIPHTHERIA,Diphtheria,"per 1,000,000 population",20.37
+COUNTRIES,AUS,Australia,2017,TB,Tuberculosis,"per 1,000,000 population",27.55
+COUNTRIES,AUS,Australia,2017,HEPB,Hepatitis B,"per 100,000 population",23.98
+COUNTRIES,AUS,Australia,2018,MEASLES,Measles,"per 1,000,000 population",42.01
+COUNTRIES,AUS,Australia,2018,POLIO,Poliomyelitis,"per 1,000,000 population",18.38
+COUNTRIES,AUS,Australia,2018,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",37.82
+COUNTRIES,AUS,Australia,2018,DIPHTHERIA,Diphtheria,"per 100,000 population",33.92
+COUNTRIES,AUS,Australia,2018,TB,Tuberculosis,"per 1,000,000 population",25.42
+COUNTRIES,AUS,Australia,2018,HEPB,Hepatitis B,"per 100,000 population",33.1
+COUNTRIES,AUS,Australia,2019,MEASLES,Measles,"per 1,000,000 population",22.84
+COUNTRIES,AUS,Australia,2019,POLIO,Poliomyelitis,"per 1,000 live births",37.2
+COUNTRIES,AUS,Australia,2019,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",32.01
+COUNTRIES,AUS,Australia,2019,DIPHTHERIA,Diphtheria,"per 100,000 population",26.81
+COUNTRIES,AUS,Australia,2019,TB,Tuberculosis,"per 1,000 live births",23.55
+COUNTRIES,AUS,Australia,2019,HEPB,Hepatitis B,"per 1,000 live births",42.0
+COUNTRIES,AUS,Australia,2020,MEASLES,Measles,"per 100,000 population",45.77
+COUNTRIES,AUS,Australia,2020,POLIO,Poliomyelitis,"per 1,000,000 population",16.26
+COUNTRIES,AUS,Australia,2020,PERTUSSIS,Pertussis (Whooping cough),"per 100,000 population",27.91
+COUNTRIES,AUS,Australia,2020,DIPHTHERIA,Diphtheria,"per 1,000,000 population",28.17
+COUNTRIES,AUS,Australia,2020,TB,Tuberculosis,"per 1,000,000 population",25.69
+COUNTRIES,AUS,Australia,2020,HEPB,Hepatitis B,"per 1,000 live births",22.45
+COUNTRIES,AUS,Australia,2021,MEASLES,Measles,"per 100,000 population",27.9
+COUNTRIES,AUS,Australia,2021,POLIO,Poliomyelitis,"per 1,000 live births",28.09
+COUNTRIES,AUS,Australia,2021,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",26.05
+COUNTRIES,AUS,Australia,2021,DIPHTHERIA,Diphtheria,"per 1,000,000 population",40.23
+COUNTRIES,AUS,Australia,2021,TB,Tuberculosis,"per 1,000 live births",25.63
+COUNTRIES,AUS,Australia,2021,HEPB,Hepatitis B,"per 100,000 population",43.08
+COUNTRIES,AUS,Australia,2022,MEASLES,Measles,"per 1,000,000 population",7.57
+COUNTRIES,AUS,Australia,2022,POLIO,Poliomyelitis,"per 1,000,000 population",39.69
+COUNTRIES,AUS,Australia,2022,PERTUSSIS,Pertussis (Whooping cough),"per 1,000,000 population",36.02
+COUNTRIES,AUS,Australia,2022,DIPHTHERIA,Diphtheria,"per 1,000,000 population",26.64
+COUNTRIES,AUS,Australia,2022,TB,Tuberculosis,"per 1,000,000 population",25.33
+COUNTRIES,AUS,Australia,2022,HEPB,Hepatitis B,"per 1,000,000 population",18.4
+COUNTRIES,AUS,Australia,2023,MEASLES,Measles,"per 1,000,000 population",42.72
+COUNTRIES,AUS,Australia,2023,POLIO,Poliomyelitis,"per 1,000,000 population",19.87
+COUNTRIES,AUS,Australia,2023,PERTUSSIS,Pertussis (Whooping cough),"per 1,000 live births",41.8
+COUNTRIES,AUS,Australia,2023,DIPHTHERIA,Diphtheria,"per 1,000,000 population",32.03
+COUNTRIES,AUS,Australia,2023,TB,Tuberculosis,"per 1,000 live births",40.86
+COUNTRIES,AUS,Australia,2023,HEPB,Hepatitis B,"per 100,000 population",33.11

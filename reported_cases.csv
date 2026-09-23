@@ -1,0 +1,1261 @@
+Group,Code,Name,Year,Disease,Disease_description,Cases
+COUNTRIES,IND,India,2010,MEASLES,Measles,204
+COUNTRIES,IND,India,2010,POLIO,Poliomyelitis,603
+COUNTRIES,IND,India,2010,PERTUSSIS,Pertussis (Whooping cough),166
+COUNTRIES,IND,India,2010,DIPHTHERIA,Diphtheria,52
+COUNTRIES,IND,India,2010,TB,Tuberculosis,127
+COUNTRIES,IND,India,2010,HEPB,Hepatitis B,58
+COUNTRIES,IND,India,2011,MEASLES,Measles,386
+COUNTRIES,IND,India,2011,POLIO,Poliomyelitis,671
+COUNTRIES,IND,India,2011,PERTUSSIS,Pertussis (Whooping cough),727
+COUNTRIES,IND,India,2011,DIPHTHERIA,Diphtheria,674
+COUNTRIES,IND,India,2011,TB,Tuberculosis,525
+COUNTRIES,IND,India,2011,HEPB,Hepatitis B,814
+COUNTRIES,IND,India,2012,MEASLES,Measles,45
+COUNTRIES,IND,India,2012,POLIO,Poliomyelitis,104
+COUNTRIES,IND,India,2012,PERTUSSIS,Pertussis (Whooping cough),752
+COUNTRIES,IND,India,2012,DIPHTHERIA,Diphtheria,422
+COUNTRIES,IND,India,2012,TB,Tuberculosis,1356
+COUNTRIES,IND,India,2012,HEPB,Hepatitis B,419
+COUNTRIES,IND,India,2013,MEASLES,Measles,543
+COUNTRIES,IND,India,2013,POLIO,Poliomyelitis,173
+COUNTRIES,IND,India,2013,PERTUSSIS,Pertussis (Whooping cough),40
+COUNTRIES,IND,India,2013,DIPHTHERIA,Diphtheria,34
+COUNTRIES,IND,India,2013,TB,Tuberculosis,0
+COUNTRIES,IND,India,2013,HEPB,Hepatitis B,142
+COUNTRIES,IND,India,2014,MEASLES,Measles,177
+COUNTRIES,IND,India,2014,POLIO,Poliomyelitis,295
+COUNTRIES,IND,India,2014,PERTUSSIS,Pertussis (Whooping cough),327
+COUNTRIES,IND,India,2014,DIPHTHERIA,Diphtheria,78
+COUNTRIES,IND,India,2014,TB,Tuberculosis,224
+COUNTRIES,IND,India,2014,HEPB,Hepatitis B,259
+COUNTRIES,IND,India,2015,MEASLES,Measles,1140
+COUNTRIES,IND,India,2015,POLIO,Poliomyelitis,862
+COUNTRIES,IND,India,2015,PERTUSSIS,Pertussis (Whooping cough),150
+COUNTRIES,IND,India,2015,DIPHTHERIA,Diphtheria,78
+COUNTRIES,IND,India,2015,TB,Tuberculosis,468
+COUNTRIES,IND,India,2015,HEPB,Hepatitis B,378
+COUNTRIES,IND,India,2016,MEASLES,Measles,250
+COUNTRIES,IND,India,2016,POLIO,Poliomyelitis,388
+COUNTRIES,IND,India,2016,PERTUSSIS,Pertussis (Whooping cough),327
+COUNTRIES,IND,India,2016,DIPHTHERIA,Diphtheria,130
+COUNTRIES,IND,India,2016,TB,Tuberculosis,32
+COUNTRIES,IND,India,2016,HEPB,Hepatitis B,567
+COUNTRIES,IND,India,2017,MEASLES,Measles,125
+COUNTRIES,IND,India,2017,POLIO,Poliomyelitis,1278
+COUNTRIES,IND,India,2017,PERTUSSIS,Pertussis (Whooping cough),773
+COUNTRIES,IND,India,2017,DIPHTHERIA,Diphtheria,31
+COUNTRIES,IND,India,2017,TB,Tuberculosis,889
+COUNTRIES,IND,India,2017,HEPB,Hepatitis B,83
+COUNTRIES,IND,India,2018,MEASLES,Measles,314
+COUNTRIES,IND,India,2018,POLIO,Poliomyelitis,50
+COUNTRIES,IND,India,2018,PERTUSSIS,Pertussis (Whooping cough),733
+COUNTRIES,IND,India,2018,DIPHTHERIA,Diphtheria,199
+COUNTRIES,IND,India,2018,TB,Tuberculosis,342
+COUNTRIES,IND,India,2018,HEPB,Hepatitis B,236
+COUNTRIES,IND,India,2019,MEASLES,Measles,94
+COUNTRIES,IND,India,2019,POLIO,Poliomyelitis,1492
+COUNTRIES,IND,India,2019,PERTUSSIS,Pertussis (Whooping cough),77
+COUNTRIES,IND,India,2019,DIPHTHERIA,Diphtheria,10
+COUNTRIES,IND,India,2019,TB,Tuberculosis,160
+COUNTRIES,IND,India,2019,HEPB,Hepatitis B,397
+COUNTRIES,IND,India,2020,MEASLES,Measles,36
+COUNTRIES,IND,India,2020,POLIO,Poliomyelitis,0
+COUNTRIES,IND,India,2020,PERTUSSIS,Pertussis (Whooping cough),0
+COUNTRIES,IND,India,2020,DIPHTHERIA,Diphtheria,0
+COUNTRIES,IND,India,2020,TB,Tuberculosis,9
+COUNTRIES,IND,India,2020,HEPB,Hepatitis B,320
+COUNTRIES,IND,India,2021,MEASLES,Measles,784
+COUNTRIES,IND,India,2021,POLIO,Poliomyelitis,0
+COUNTRIES,IND,India,2021,PERTUSSIS,Pertussis (Whooping cough),220
+COUNTRIES,IND,India,2021,DIPHTHERIA,Diphtheria,156
+COUNTRIES,IND,India,2021,TB,Tuberculosis,288
+COUNTRIES,IND,India,2021,HEPB,Hepatitis B,300
+COUNTRIES,IND,India,2022,MEASLES,Measles,0
+COUNTRIES,IND,India,2022,POLIO,Poliomyelitis,398
+COUNTRIES,IND,India,2022,PERTUSSIS,Pertussis (Whooping cough),137
+COUNTRIES,IND,India,2022,DIPHTHERIA,Diphtheria,439
+COUNTRIES,IND,India,2022,TB,Tuberculosis,0
+COUNTRIES,IND,India,2022,HEPB,Hepatitis B,0
+COUNTRIES,IND,India,2023,MEASLES,Measles,281
+COUNTRIES,IND,India,2023,POLIO,Poliomyelitis,140
+COUNTRIES,IND,India,2023,PERTUSSIS,Pertussis (Whooping cough),257
+COUNTRIES,IND,India,2023,DIPHTHERIA,Diphtheria,138
+COUNTRIES,IND,India,2023,TB,Tuberculosis,73
+COUNTRIES,IND,India,2023,HEPB,Hepatitis B,12
+COUNTRIES,USA,United States of America,2010,MEASLES,Measles,106
+COUNTRIES,USA,United States of America,2010,POLIO,Poliomyelitis,1627
+COUNTRIES,USA,United States of America,2010,PERTUSSIS,Pertussis (Whooping cough),469
+COUNTRIES,USA,United States of America,2010,DIPHTHERIA,Diphtheria,1334
+COUNTRIES,USA,United States of America,2010,TB,Tuberculosis,1424
+COUNTRIES,USA,United States of America,2010,HEPB,Hepatitis B,1297
+COUNTRIES,USA,United States of America,2011,MEASLES,Measles,1716
+COUNTRIES,USA,United States of America,2011,POLIO,Poliomyelitis,113
+COUNTRIES,USA,United States of America,2011,PERTUSSIS,Pertussis (Whooping cough),890
+COUNTRIES,USA,United States of America,2011,DIPHTHERIA,Diphtheria,174
+COUNTRIES,USA,United States of America,2011,TB,Tuberculosis,1293
+COUNTRIES,USA,United States of America,2011,HEPB,Hepatitis B,576
+COUNTRIES,USA,United States of America,2012,MEASLES,Measles,756
+COUNTRIES,USA,United States of America,2012,POLIO,Poliomyelitis,216
+COUNTRIES,USA,United States of America,2012,PERTUSSIS,Pertussis (Whooping cough),241
+COUNTRIES,USA,United States of America,2012,DIPHTHERIA,Diphtheria,1233
+COUNTRIES,USA,United States of America,2012,TB,Tuberculosis,878
+COUNTRIES,USA,United States of America,2012,HEPB,Hepatitis B,672
+COUNTRIES,USA,United States of America,2013,MEASLES,Measles,422
+COUNTRIES,USA,United States of America,2013,POLIO,Poliomyelitis,1361
+COUNTRIES,USA,United States of America,2013,PERTUSSIS,Pertussis (Whooping cough),549
+COUNTRIES,USA,United States of America,2013,DIPHTHERIA,Diphtheria,435
+COUNTRIES,USA,United States of America,2013,TB,Tuberculosis,527
+COUNTRIES,USA,United States of America,2013,HEPB,Hepatitis B,67
+COUNTRIES,USA,United States of America,2014,MEASLES,Measles,500
+COUNTRIES,USA,United States of America,2014,POLIO,Poliomyelitis,1494
+COUNTRIES,USA,United States of America,2014,PERTUSSIS,Pertussis (Whooping cough),1044
+COUNTRIES,USA,United States of America,2014,DIPHTHERIA,Diphtheria,1083
+COUNTRIES,USA,United States of America,2014,TB,Tuberculosis,526
+COUNTRIES,USA,United States of America,2014,HEPB,Hepatitis B,668
+COUNTRIES,USA,United States of America,2015,MEASLES,Measles,1130
+COUNTRIES,USA,United States of America,2015,POLIO,Poliomyelitis,92
+COUNTRIES,USA,United States of America,2015,PERTUSSIS,Pertussis (Whooping cough),183
+COUNTRIES,USA,United States of America,2015,DIPHTHERIA,Diphtheria,787
+COUNTRIES,USA,United States of America,2015,TB,Tuberculosis,1195
+COUNTRIES,USA,United States of America,2015,HEPB,Hepatitis B,469
+COUNTRIES,USA,United States of America,2016,MEASLES,Measles,1546
+COUNTRIES,USA,United States of America,2016,POLIO,Poliomyelitis,667
+COUNTRIES,USA,United States of America,2016,PERTUSSIS,Pertussis (Whooping cough),441
+COUNTRIES,USA,United States of America,2016,DIPHTHERIA,Diphtheria,1465
+COUNTRIES,USA,United States of America,2016,TB,Tuberculosis,1137
+COUNTRIES,USA,United States of America,2016,HEPB,Hepatitis B,46
+COUNTRIES,USA,United States of America,2017,MEASLES,Measles,275
+COUNTRIES,USA,United States of America,2017,POLIO,Poliomyelitis,50
+COUNTRIES,USA,United States of America,2017,PERTUSSIS,Pertussis (Whooping cough),1070
+COUNTRIES,USA,United States of America,2017,DIPHTHERIA,Diphtheria,933
+COUNTRIES,USA,United States of America,2017,TB,Tuberculosis,510
+COUNTRIES,USA,United States of America,2017,HEPB,Hepatitis B,494
+COUNTRIES,USA,United States of America,2018,MEASLES,Measles,1155
+COUNTRIES,USA,United States of America,2018,POLIO,Poliomyelitis,702
+COUNTRIES,USA,United States of America,2018,PERTUSSIS,Pertussis (Whooping cough),1473
+COUNTRIES,USA,United States of America,2018,DIPHTHERIA,Diphtheria,1978
+COUNTRIES,USA,United States of America,2018,TB,Tuberculosis,852
+COUNTRIES,USA,United States of America,2018,HEPB,Hepatitis B,144
+COUNTRIES,USA,United States of America,2019,MEASLES,Measles,950
+COUNTRIES,USA,United States of America,2019,POLIO,Poliomyelitis,110
+COUNTRIES,USA,United States of America,2019,PERTUSSIS,Pertussis (Whooping cough),1175
+COUNTRIES,USA,United States of America,2019,DIPHTHERIA,Diphtheria,17
+COUNTRIES,USA,United States of America,2019,TB,Tuberculosis,428
+COUNTRIES,USA,United States of America,2019,HEPB,Hepatitis B,512
+COUNTRIES,USA,United States of America,2020,MEASLES,Measles,1090
+COUNTRIES,USA,United States of America,2020,POLIO,Poliomyelitis,569
+COUNTRIES,USA,United States of America,2020,PERTUSSIS,Pertussis (Whooping cough),430
+COUNTRIES,USA,United States of America,2020,DIPHTHERIA,Diphtheria,293
+COUNTRIES,USA,United States of America,2020,TB,Tuberculosis,1767
+COUNTRIES,USA,United States of America,2020,HEPB,Hepatitis B,1326
+COUNTRIES,USA,United States of America,2021,MEASLES,Measles,949
+COUNTRIES,USA,United States of America,2021,POLIO,Poliomyelitis,1135
+COUNTRIES,USA,United States of America,2021,PERTUSSIS,Pertussis (Whooping cough),1083
+COUNTRIES,USA,United States of America,2021,DIPHTHERIA,Diphtheria,454
+COUNTRIES,USA,United States of America,2021,TB,Tuberculosis,719
+COUNTRIES,USA,United States of America,2021,HEPB,Hepatitis B,644
+COUNTRIES,USA,United States of America,2022,MEASLES,Measles,119
+COUNTRIES,USA,United States of America,2022,POLIO,Poliomyelitis,430
+COUNTRIES,USA,United States of America,2022,PERTUSSIS,Pertussis (Whooping cough),1089
+COUNTRIES,USA,United States of America,2022,DIPHTHERIA,Diphtheria,26
+COUNTRIES,USA,United States of America,2022,TB,Tuberculosis,1201
+COUNTRIES,USA,United States of America,2022,HEPB,Hepatitis B,97
+COUNTRIES,USA,United States of America,2023,MEASLES,Measles,733
+COUNTRIES,USA,United States of America,2023,POLIO,Poliomyelitis,609
+COUNTRIES,USA,United States of America,2023,PERTUSSIS,Pertussis (Whooping cough),305
+COUNTRIES,USA,United States of America,2023,DIPHTHERIA,Diphtheria,39
+COUNTRIES,USA,United States of America,2023,TB,Tuberculosis,396
+COUNTRIES,USA,United States of America,2023,HEPB,Hepatitis B,490
+COUNTRIES,NGA,Nigeria,2010,MEASLES,Measles,675
+COUNTRIES,NGA,Nigeria,2010,POLIO,Poliomyelitis,321
+COUNTRIES,NGA,Nigeria,2010,PERTUSSIS,Pertussis (Whooping cough),0
+COUNTRIES,NGA,Nigeria,2010,DIPHTHERIA,Diphtheria,23
+COUNTRIES,NGA,Nigeria,2010,TB,Tuberculosis,536
+COUNTRIES,NGA,Nigeria,2010,HEPB,Hepatitis B,295
+COUNTRIES,NGA,Nigeria,2011,MEASLES,Measles,379
+COUNTRIES,NGA,Nigeria,2011,POLIO,Poliomyelitis,113
+COUNTRIES,NGA,Nigeria,2011,PERTUSSIS,Pertussis (Whooping cough),307
+COUNTRIES,NGA,Nigeria,2011,DIPHTHERIA,Diphtheria,51
+COUNTRIES,NGA,Nigeria,2011,TB,Tuberculosis,280
+COUNTRIES,NGA,Nigeria,2011,HEPB,Hepatitis B,80
+COUNTRIES,NGA,Nigeria,2012,MEASLES,Measles,0
+COUNTRIES,NGA,Nigeria,2012,POLIO,Poliomyelitis,139
+COUNTRIES,NGA,Nigeria,2012,PERTUSSIS,Pertussis (Whooping cough),413
+COUNTRIES,NGA,Nigeria,2012,DIPHTHERIA,Diphtheria,464
+COUNTRIES,NGA,Nigeria,2012,TB,Tuberculosis,15
+COUNTRIES,NGA,Nigeria,2012,HEPB,Hepatitis B,0
+COUNTRIES,NGA,Nigeria,2013,MEASLES,Measles,436
+COUNTRIES,NGA,Nigeria,2013,POLIO,Poliomyelitis,0
+COUNTRIES,NGA,Nigeria,2013,PERTUSSIS,Pertussis (Whooping cough),35
+COUNTRIES,NGA,Nigeria,2013,DIPHTHERIA,Diphtheria,177
+COUNTRIES,NGA,Nigeria,2013,TB,Tuberculosis,0
+COUNTRIES,NGA,Nigeria,2013,HEPB,Hepatitis B,1525
+COUNTRIES,NGA,Nigeria,2014,MEASLES,Measles,508
+COUNTRIES,NGA,Nigeria,2014,POLIO,Poliomyelitis,2930
+COUNTRIES,NGA,Nigeria,2014,PERTUSSIS,Pertussis (Whooping cough),1083
+COUNTRIES,NGA,Nigeria,2014,DIPHTHERIA,Diphtheria,8
+COUNTRIES,NGA,Nigeria,2014,TB,Tuberculosis,0
+COUNTRIES,NGA,Nigeria,2014,HEPB,Hepatitis B,300
+COUNTRIES,NGA,Nigeria,2015,MEASLES,Measles,0
+COUNTRIES,NGA,Nigeria,2015,POLIO,Poliomyelitis,335
+COUNTRIES,NGA,Nigeria,2015,PERTUSSIS,Pertussis (Whooping cough),55
+COUNTRIES,NGA,Nigeria,2015,DIPHTHERIA,Diphtheria,0
+COUNTRIES,NGA,Nigeria,2015,TB,Tuberculosis,962
+COUNTRIES,NGA,Nigeria,2015,HEPB,Hepatitis B,56
+COUNTRIES,NGA,Nigeria,2016,MEASLES,Measles,45
+COUNTRIES,NGA,Nigeria,2016,POLIO,Poliomyelitis,97
+COUNTRIES,NGA,Nigeria,2016,PERTUSSIS,Pertussis (Whooping cough),391
+COUNTRIES,NGA,Nigeria,2016,DIPHTHERIA,Diphtheria,41
+COUNTRIES,NGA,Nigeria,2016,TB,Tuberculosis,552
+COUNTRIES,NGA,Nigeria,2016,HEPB,Hepatitis B,0
+COUNTRIES,NGA,Nigeria,2017,MEASLES,Measles,372
+COUNTRIES,NGA,Nigeria,2017,POLIO,Poliomyelitis,62
+COUNTRIES,NGA,Nigeria,2017,PERTUSSIS,Pertussis (Whooping cough),51
+COUNTRIES,NGA,Nigeria,2017,DIPHTHERIA,Diphtheria,101
+COUNTRIES,NGA,Nigeria,2017,TB,Tuberculosis,39
+COUNTRIES,NGA,Nigeria,2017,HEPB,Hepatitis B,36
+COUNTRIES,NGA,Nigeria,2018,MEASLES,Measles,0
+COUNTRIES,NGA,Nigeria,2018,POLIO,Poliomyelitis,10
+COUNTRIES,NGA,Nigeria,2018,PERTUSSIS,Pertussis (Whooping cough),0
+COUNTRIES,NGA,Nigeria,2018,DIPHTHERIA,Diphtheria,588
+COUNTRIES,NGA,Nigeria,2018,TB,Tuberculosis,366
+COUNTRIES,NGA,Nigeria,2018,HEPB,Hepatitis B,221
+COUNTRIES,NGA,Nigeria,2019,MEASLES,Measles,0
+COUNTRIES,NGA,Nigeria,2019,POLIO,Poliomyelitis,144
+COUNTRIES,NGA,Nigeria,2019,PERTUSSIS,Pertussis (Whooping cough),11
+COUNTRIES,NGA,Nigeria,2019,DIPHTHERIA,Diphtheria,115
+COUNTRIES,NGA,Nigeria,2019,TB,Tuberculosis,44
+COUNTRIES,NGA,Nigeria,2019,HEPB,Hepatitis B,157
+COUNTRIES,NGA,Nigeria,2020,MEASLES,Measles,63
+COUNTRIES,NGA,Nigeria,2020,POLIO,Poliomyelitis,823
+COUNTRIES,NGA,Nigeria,2020,PERTUSSIS,Pertussis (Whooping cough),34
+COUNTRIES,NGA,Nigeria,2020,DIPHTHERIA,Diphtheria,161
+COUNTRIES,NGA,Nigeria,2020,TB,Tuberculosis,0
+COUNTRIES,NGA,Nigeria,2020,HEPB,Hepatitis B,306
+COUNTRIES,NGA,Nigeria,2021,MEASLES,Measles,306
+COUNTRIES,NGA,Nigeria,2021,POLIO,Poliomyelitis,696
+COUNTRIES,NGA,Nigeria,2021,PERTUSSIS,Pertussis (Whooping cough),128
+COUNTRIES,NGA,Nigeria,2021,DIPHTHERIA,Diphtheria,596
+COUNTRIES,NGA,Nigeria,2021,TB,Tuberculosis,0
+COUNTRIES,NGA,Nigeria,2021,HEPB,Hepatitis B,51
+COUNTRIES,NGA,Nigeria,2022,MEASLES,Measles,169
+COUNTRIES,NGA,Nigeria,2022,POLIO,Poliomyelitis,323
+COUNTRIES,NGA,Nigeria,2022,PERTUSSIS,Pertussis (Whooping cough),0
+COUNTRIES,NGA,Nigeria,2022,DIPHTHERIA,Diphtheria,295
+COUNTRIES,NGA,Nigeria,2022,TB,Tuberculosis,190
+COUNTRIES,NGA,Nigeria,2022,HEPB,Hepatitis B,0
+COUNTRIES,NGA,Nigeria,2023,MEASLES,Measles,53
+COUNTRIES,NGA,Nigeria,2023,POLIO,Poliomyelitis,47
+COUNTRIES,NGA,Nigeria,2023,PERTUSSIS,Pertussis (Whooping cough),695
+COUNTRIES,NGA,Nigeria,2023,DIPHTHERIA,Diphtheria,64
+COUNTRIES,NGA,Nigeria,2023,TB,Tuberculosis,0
+COUNTRIES,NGA,Nigeria,2023,HEPB,Hepatitis B,127
+COUNTRIES,BRA,Brazil,2010,MEASLES,Measles,254
+COUNTRIES,BRA,Brazil,2010,POLIO,Poliomyelitis,644
+COUNTRIES,BRA,Brazil,2010,PERTUSSIS,Pertussis (Whooping cough),382
+COUNTRIES,BRA,Brazil,2010,DIPHTHERIA,Diphtheria,1594
+COUNTRIES,BRA,Brazil,2010,TB,Tuberculosis,0
+COUNTRIES,BRA,Brazil,2010,HEPB,Hepatitis B,552
+COUNTRIES,BRA,Brazil,2011,MEASLES,Measles,530
+COUNTRIES,BRA,Brazil,2011,POLIO,Poliomyelitis,735
+COUNTRIES,BRA,Brazil,2011,PERTUSSIS,Pertussis (Whooping cough),179
+COUNTRIES,BRA,Brazil,2011,DIPHTHERIA,Diphtheria,259
+COUNTRIES,BRA,Brazil,2011,TB,Tuberculosis,761
+COUNTRIES,BRA,Brazil,2011,HEPB,Hepatitis B,293
+COUNTRIES,BRA,Brazil,2012,MEASLES,Measles,13
+COUNTRIES,BRA,Brazil,2012,POLIO,Poliomyelitis,40
+COUNTRIES,BRA,Brazil,2012,PERTUSSIS,Pertussis (Whooping cough),261
+COUNTRIES,BRA,Brazil,2012,DIPHTHERIA,Diphtheria,357
+COUNTRIES,BRA,Brazil,2012,TB,Tuberculosis,210
+COUNTRIES,BRA,Brazil,2012,HEPB,Hepatitis B,430
+COUNTRIES,BRA,Brazil,2013,MEASLES,Measles,37
+COUNTRIES,BRA,Brazil,2013,POLIO,Poliomyelitis,725
+COUNTRIES,BRA,Brazil,2013,PERTUSSIS,Pertussis (Whooping cough),984
+COUNTRIES,BRA,Brazil,2013,DIPHTHERIA,Diphtheria,560
+COUNTRIES,BRA,Brazil,2013,TB,Tuberculosis,926
+COUNTRIES,BRA,Brazil,2013,HEPB,Hepatitis B,417
+COUNTRIES,BRA,Brazil,2014,MEASLES,Measles,1531
+COUNTRIES,BRA,Brazil,2014,POLIO,Poliomyelitis,594
+COUNTRIES,BRA,Brazil,2014,PERTUSSIS,Pertussis (Whooping cough),1252
+COUNTRIES,BRA,Brazil,2014,DIPHTHERIA,Diphtheria,333
+COUNTRIES,BRA,Brazil,2014,TB,Tuberculosis,0
+COUNTRIES,BRA,Brazil,2014,HEPB,Hepatitis B,602
+COUNTRIES,BRA,Brazil,2015,MEASLES,Measles,507
+COUNTRIES,BRA,Brazil,2015,POLIO,Poliomyelitis,336
+COUNTRIES,BRA,Brazil,2015,PERTUSSIS,Pertussis (Whooping cough),309
+COUNTRIES,BRA,Brazil,2015,DIPHTHERIA,Diphtheria,94
+COUNTRIES,BRA,Brazil,2015,TB,Tuberculosis,413
+COUNTRIES,BRA,Brazil,2015,HEPB,Hepatitis B,30
+COUNTRIES,BRA,Brazil,2016,MEASLES,Measles,11
+COUNTRIES,BRA,Brazil,2016,POLIO,Poliomyelitis,393
+COUNTRIES,BRA,Brazil,2016,PERTUSSIS,Pertussis (Whooping cough),60
+COUNTRIES,BRA,Brazil,2016,DIPHTHERIA,Diphtheria,200
+COUNTRIES,BRA,Brazil,2016,TB,Tuberculosis,259
+COUNTRIES,BRA,Brazil,2016,HEPB,Hepatitis B,30
+COUNTRIES,BRA,Brazil,2017,MEASLES,Measles,0
+COUNTRIES,BRA,Brazil,2017,POLIO,Poliomyelitis,508
+COUNTRIES,BRA,Brazil,2017,PERTUSSIS,Pertussis (Whooping cough),365
+COUNTRIES,BRA,Brazil,2017,DIPHTHERIA,Diphtheria,1062
+COUNTRIES,BRA,Brazil,2017,TB,Tuberculosis,452
+COUNTRIES,BRA,Brazil,2017,HEPB,Hepatitis B,84
+COUNTRIES,BRA,Brazil,2018,MEASLES,Measles,27
+COUNTRIES,BRA,Brazil,2018,POLIO,Poliomyelitis,176
+COUNTRIES,BRA,Brazil,2018,PERTUSSIS,Pertussis (Whooping cough),79
+COUNTRIES,BRA,Brazil,2018,DIPHTHERIA,Diphtheria,382
+COUNTRIES,BRA,Brazil,2018,TB,Tuberculosis,602
+COUNTRIES,BRA,Brazil,2018,HEPB,Hepatitis B,0
+COUNTRIES,BRA,Brazil,2019,MEASLES,Measles,136
+COUNTRIES,BRA,Brazil,2019,POLIO,Poliomyelitis,514
+COUNTRIES,BRA,Brazil,2019,PERTUSSIS,Pertussis (Whooping cough),197
+COUNTRIES,BRA,Brazil,2019,DIPHTHERIA,Diphtheria,97
+COUNTRIES,BRA,Brazil,2019,TB,Tuberculosis,54
+COUNTRIES,BRA,Brazil,2019,HEPB,Hepatitis B,54
+COUNTRIES,BRA,Brazil,2020,MEASLES,Measles,214
+COUNTRIES,BRA,Brazil,2020,POLIO,Poliomyelitis,784
+COUNTRIES,BRA,Brazil,2020,PERTUSSIS,Pertussis (Whooping cough),122
+COUNTRIES,BRA,Brazil,2020,DIPHTHERIA,Diphtheria,177
+COUNTRIES,BRA,Brazil,2020,TB,Tuberculosis,669
+COUNTRIES,BRA,Brazil,2020,HEPB,Hepatitis B,350
+COUNTRIES,BRA,Brazil,2021,MEASLES,Measles,776
+COUNTRIES,BRA,Brazil,2021,POLIO,Poliomyelitis,113
+COUNTRIES,BRA,Brazil,2021,PERTUSSIS,Pertussis (Whooping cough),176
+COUNTRIES,BRA,Brazil,2021,DIPHTHERIA,Diphtheria,101
+COUNTRIES,BRA,Brazil,2021,TB,Tuberculosis,657
+COUNTRIES,BRA,Brazil,2021,HEPB,Hepatitis B,202
+COUNTRIES,BRA,Brazil,2022,MEASLES,Measles,472
+COUNTRIES,BRA,Brazil,2022,POLIO,Poliomyelitis,204
+COUNTRIES,BRA,Brazil,2022,PERTUSSIS,Pertussis (Whooping cough),272
+COUNTRIES,BRA,Brazil,2022,DIPHTHERIA,Diphtheria,30
+COUNTRIES,BRA,Brazil,2022,TB,Tuberculosis,1038
+COUNTRIES,BRA,Brazil,2022,HEPB,Hepatitis B,0
+COUNTRIES,BRA,Brazil,2023,MEASLES,Measles,6
+COUNTRIES,BRA,Brazil,2023,POLIO,Poliomyelitis,551
+COUNTRIES,BRA,Brazil,2023,PERTUSSIS,Pertussis (Whooping cough),233
+COUNTRIES,BRA,Brazil,2023,DIPHTHERIA,Diphtheria,0
+COUNTRIES,BRA,Brazil,2023,TB,Tuberculosis,393
+COUNTRIES,BRA,Brazil,2023,HEPB,Hepatitis B,163
+COUNTRIES,PAK,Pakistan,2010,MEASLES,Measles,1066
+COUNTRIES,PAK,Pakistan,2010,POLIO,Poliomyelitis,2180
+COUNTRIES,PAK,Pakistan,2010,PERTUSSIS,Pertussis (Whooping cough),2572
+COUNTRIES,PAK,Pakistan,2010,DIPHTHERIA,Diphtheria,374
+COUNTRIES,PAK,Pakistan,2010,TB,Tuberculosis,913
+COUNTRIES,PAK,Pakistan,2010,HEPB,Hepatitis B,957
+COUNTRIES,PAK,Pakistan,2011,MEASLES,Measles,1189
+COUNTRIES,PAK,Pakistan,2011,POLIO,Poliomyelitis,637
+COUNTRIES,PAK,Pakistan,2011,PERTUSSIS,Pertussis (Whooping cough),2219
+COUNTRIES,PAK,Pakistan,2011,DIPHTHERIA,Diphtheria,1646
+COUNTRIES,PAK,Pakistan,2011,TB,Tuberculosis,1000
+COUNTRIES,PAK,Pakistan,2011,HEPB,Hepatitis B,2293
+COUNTRIES,PAK,Pakistan,2012,MEASLES,Measles,1751
+COUNTRIES,PAK,Pakistan,2012,POLIO,Poliomyelitis,676
+COUNTRIES,PAK,Pakistan,2012,PERTUSSIS,Pertussis (Whooping cough),2479
+COUNTRIES,PAK,Pakistan,2012,DIPHTHERIA,Diphtheria,1280
+COUNTRIES,PAK,Pakistan,2012,TB,Tuberculosis,49
+COUNTRIES,PAK,Pakistan,2012,HEPB,Hepatitis B,1342
+COUNTRIES,PAK,Pakistan,2013,MEASLES,Measles,370
+COUNTRIES,PAK,Pakistan,2013,POLIO,Poliomyelitis,0
+COUNTRIES,PAK,Pakistan,2013,PERTUSSIS,Pertussis (Whooping cough),130
+COUNTRIES,PAK,Pakistan,2013,DIPHTHERIA,Diphtheria,2469
+COUNTRIES,PAK,Pakistan,2013,TB,Tuberculosis,977
+COUNTRIES,PAK,Pakistan,2013,HEPB,Hepatitis B,1374
+COUNTRIES,PAK,Pakistan,2014,MEASLES,Measles,1567
+COUNTRIES,PAK,Pakistan,2014,POLIO,Poliomyelitis,1010
+COUNTRIES,PAK,Pakistan,2014,PERTUSSIS,Pertussis (Whooping cough),1150
+COUNTRIES,PAK,Pakistan,2014,DIPHTHERIA,Diphtheria,206
+COUNTRIES,PAK,Pakistan,2014,TB,Tuberculosis,1758
+COUNTRIES,PAK,Pakistan,2014,HEPB,Hepatitis B,1311
+COUNTRIES,PAK,Pakistan,2015,MEASLES,Measles,1262
+COUNTRIES,PAK,Pakistan,2015,POLIO,Poliomyelitis,2683
+COUNTRIES,PAK,Pakistan,2015,PERTUSSIS,Pertussis (Whooping cough),135
+COUNTRIES,PAK,Pakistan,2015,DIPHTHERIA,Diphtheria,1888
+COUNTRIES,PAK,Pakistan,2015,TB,Tuberculosis,709
+COUNTRIES,PAK,Pakistan,2015,HEPB,Hepatitis B,2145
+COUNTRIES,PAK,Pakistan,2016,MEASLES,Measles,495
+COUNTRIES,PAK,Pakistan,2016,POLIO,Poliomyelitis,1491
+COUNTRIES,PAK,Pakistan,2016,PERTUSSIS,Pertussis (Whooping cough),540
+COUNTRIES,PAK,Pakistan,2016,DIPHTHERIA,Diphtheria,1232
+COUNTRIES,PAK,Pakistan,2016,TB,Tuberculosis,9335
+COUNTRIES,PAK,Pakistan,2016,HEPB,Hepatitis B,362
+COUNTRIES,PAK,Pakistan,2017,MEASLES,Measles,1334
+COUNTRIES,PAK,Pakistan,2017,POLIO,Poliomyelitis,1741
+COUNTRIES,PAK,Pakistan,2017,PERTUSSIS,Pertussis (Whooping cough),2168
+COUNTRIES,PAK,Pakistan,2017,DIPHTHERIA,Diphtheria,484
+COUNTRIES,PAK,Pakistan,2017,TB,Tuberculosis,2270
+COUNTRIES,PAK,Pakistan,2017,HEPB,Hepatitis B,1538
+COUNTRIES,PAK,Pakistan,2018,MEASLES,Measles,64
+COUNTRIES,PAK,Pakistan,2018,POLIO,Poliomyelitis,1334
+COUNTRIES,PAK,Pakistan,2018,PERTUSSIS,Pertussis (Whooping cough),1072
+COUNTRIES,PAK,Pakistan,2018,DIPHTHERIA,Diphtheria,1336
+COUNTRIES,PAK,Pakistan,2018,TB,Tuberculosis,1806
+COUNTRIES,PAK,Pakistan,2018,HEPB,Hepatitis B,361
+COUNTRIES,PAK,Pakistan,2019,MEASLES,Measles,568
+COUNTRIES,PAK,Pakistan,2019,POLIO,Poliomyelitis,799
+COUNTRIES,PAK,Pakistan,2019,PERTUSSIS,Pertussis (Whooping cough),982
+COUNTRIES,PAK,Pakistan,2019,DIPHTHERIA,Diphtheria,1140
+COUNTRIES,PAK,Pakistan,2019,TB,Tuberculosis,345
+COUNTRIES,PAK,Pakistan,2019,HEPB,Hepatitis B,79
+COUNTRIES,PAK,Pakistan,2020,MEASLES,Measles,1473
+COUNTRIES,PAK,Pakistan,2020,POLIO,Poliomyelitis,805
+COUNTRIES,PAK,Pakistan,2020,PERTUSSIS,Pertussis (Whooping cough),1556
+COUNTRIES,PAK,Pakistan,2020,DIPHTHERIA,Diphtheria,1654
+COUNTRIES,PAK,Pakistan,2020,TB,Tuberculosis,0
+COUNTRIES,PAK,Pakistan,2020,HEPB,Hepatitis B,0
+COUNTRIES,PAK,Pakistan,2021,MEASLES,Measles,244
+COUNTRIES,PAK,Pakistan,2021,POLIO,Poliomyelitis,0
+COUNTRIES,PAK,Pakistan,2021,PERTUSSIS,Pertussis (Whooping cough),1159
+COUNTRIES,PAK,Pakistan,2021,DIPHTHERIA,Diphtheria,1262
+COUNTRIES,PAK,Pakistan,2021,TB,Tuberculosis,1289
+COUNTRIES,PAK,Pakistan,2021,HEPB,Hepatitis B,240
+COUNTRIES,PAK,Pakistan,2022,MEASLES,Measles,2266
+COUNTRIES,PAK,Pakistan,2022,POLIO,Poliomyelitis,539
+COUNTRIES,PAK,Pakistan,2022,PERTUSSIS,Pertussis (Whooping cough),1314
+COUNTRIES,PAK,Pakistan,2022,DIPHTHERIA,Diphtheria,881
+COUNTRIES,PAK,Pakistan,2022,TB,Tuberculosis,3042
+COUNTRIES,PAK,Pakistan,2022,HEPB,Hepatitis B,634
+COUNTRIES,PAK,Pakistan,2023,MEASLES,Measles,2304
+COUNTRIES,PAK,Pakistan,2023,POLIO,Poliomyelitis,1924
+COUNTRIES,PAK,Pakistan,2023,PERTUSSIS,Pertussis (Whooping cough),840
+COUNTRIES,PAK,Pakistan,2023,DIPHTHERIA,Diphtheria,2441
+COUNTRIES,PAK,Pakistan,2023,TB,Tuberculosis,471
+COUNTRIES,PAK,Pakistan,2023,HEPB,Hepatitis B,444
+COUNTRIES,ETH,Ethiopia,2010,MEASLES,Measles,239
+COUNTRIES,ETH,Ethiopia,2010,POLIO,Poliomyelitis,533
+COUNTRIES,ETH,Ethiopia,2010,PERTUSSIS,Pertussis (Whooping cough),0
+COUNTRIES,ETH,Ethiopia,2010,DIPHTHERIA,Diphtheria,0
+COUNTRIES,ETH,Ethiopia,2010,TB,Tuberculosis,392
+COUNTRIES,ETH,Ethiopia,2010,HEPB,Hepatitis B,253
+COUNTRIES,ETH,Ethiopia,2011,MEASLES,Measles,135
+COUNTRIES,ETH,Ethiopia,2011,POLIO,Poliomyelitis,188
+COUNTRIES,ETH,Ethiopia,2011,PERTUSSIS,Pertussis (Whooping cough),217
+COUNTRIES,ETH,Ethiopia,2011,DIPHTHERIA,Diphtheria,184
+COUNTRIES,ETH,Ethiopia,2011,TB,Tuberculosis,26
+COUNTRIES,ETH,Ethiopia,2011,HEPB,Hepatitis B,0
+COUNTRIES,ETH,Ethiopia,2012,MEASLES,Measles,73
+COUNTRIES,ETH,Ethiopia,2012,POLIO,Poliomyelitis,0
+COUNTRIES,ETH,Ethiopia,2012,PERTUSSIS,Pertussis (Whooping cough),613
+COUNTRIES,ETH,Ethiopia,2012,DIPHTHERIA,Diphtheria,199
+COUNTRIES,ETH,Ethiopia,2012,TB,Tuberculosis,184
+COUNTRIES,ETH,Ethiopia,2012,HEPB,Hepatitis B,0
+COUNTRIES,ETH,Ethiopia,2013,MEASLES,Measles,0
+COUNTRIES,ETH,Ethiopia,2013,POLIO,Poliomyelitis,139
+COUNTRIES,ETH,Ethiopia,2013,PERTUSSIS,Pertussis (Whooping cough),174
+COUNTRIES,ETH,Ethiopia,2013,DIPHTHERIA,Diphtheria,0
+COUNTRIES,ETH,Ethiopia,2013,TB,Tuberculosis,31
+COUNTRIES,ETH,Ethiopia,2013,HEPB,Hepatitis B,117
+COUNTRIES,ETH,Ethiopia,2014,MEASLES,Measles,0
+COUNTRIES,ETH,Ethiopia,2014,POLIO,Poliomyelitis,8
+COUNTRIES,ETH,Ethiopia,2014,PERTUSSIS,Pertussis (Whooping cough),0
+COUNTRIES,ETH,Ethiopia,2014,DIPHTHERIA,Diphtheria,0
+COUNTRIES,ETH,Ethiopia,2014,TB,Tuberculosis,0
+COUNTRIES,ETH,Ethiopia,2014,HEPB,Hepatitis B,173
+COUNTRIES,ETH,Ethiopia,2015,MEASLES,Measles,0
+COUNTRIES,ETH,Ethiopia,2015,POLIO,Poliomyelitis,26
+COUNTRIES,ETH,Ethiopia,2015,PERTUSSIS,Pertussis (Whooping cough),71
+COUNTRIES,ETH,Ethiopia,2015,DIPHTHERIA,Diphtheria,0
+COUNTRIES,ETH,Ethiopia,2015,TB,Tuberculosis,0
+COUNTRIES,ETH,Ethiopia,2015,HEPB,Hepatitis B,0
+COUNTRIES,ETH,Ethiopia,2016,MEASLES,Measles,531
+COUNTRIES,ETH,Ethiopia,2016,POLIO,Poliomyelitis,0
+COUNTRIES,ETH,Ethiopia,2016,PERTUSSIS,Pertussis (Whooping cough),37
+COUNTRIES,ETH,Ethiopia,2016,DIPHTHERIA,Diphtheria,0
+COUNTRIES,ETH,Ethiopia,2016,TB,Tuberculosis,115
+COUNTRIES,ETH,Ethiopia,2016,HEPB,Hepatitis B,0
+COUNTRIES,ETH,Ethiopia,2017,MEASLES,Measles,0
+COUNTRIES,ETH,Ethiopia,2017,POLIO,Poliomyelitis,0
+COUNTRIES,ETH,Ethiopia,2017,PERTUSSIS,Pertussis (Whooping cough),364
+COUNTRIES,ETH,Ethiopia,2017,DIPHTHERIA,Diphtheria,51
+COUNTRIES,ETH,Ethiopia,2017,TB,Tuberculosis,0
+COUNTRIES,ETH,Ethiopia,2017,HEPB,Hepatitis B,250
+COUNTRIES,ETH,Ethiopia,2018,MEASLES,Measles,413
+COUNTRIES,ETH,Ethiopia,2018,POLIO,Poliomyelitis,0
+COUNTRIES,ETH,Ethiopia,2018,PERTUSSIS,Pertussis (Whooping cough),341
+COUNTRIES,ETH,Ethiopia,2018,DIPHTHERIA,Diphtheria,276
+COUNTRIES,ETH,Ethiopia,2018,TB,Tuberculosis,128
+COUNTRIES,ETH,Ethiopia,2018,HEPB,Hepatitis B,0
+COUNTRIES,ETH,Ethiopia,2019,MEASLES,Measles,0
+COUNTRIES,ETH,Ethiopia,2019,POLIO,Poliomyelitis,239
+COUNTRIES,ETH,Ethiopia,2019,PERTUSSIS,Pertussis (Whooping cough),0
+COUNTRIES,ETH,Ethiopia,2019,DIPHTHERIA,Diphtheria,181
+COUNTRIES,ETH,Ethiopia,2019,TB,Tuberculosis,59
+COUNTRIES,ETH,Ethiopia,2019,HEPB,Hepatitis B,0
+COUNTRIES,ETH,Ethiopia,2020,MEASLES,Measles,210
+COUNTRIES,ETH,Ethiopia,2020,POLIO,Poliomyelitis,253
+COUNTRIES,ETH,Ethiopia,2020,PERTUSSIS,Pertussis (Whooping cough),10
+COUNTRIES,ETH,Ethiopia,2020,DIPHTHERIA,Diphtheria,253
+COUNTRIES,ETH,Ethiopia,2020,TB,Tuberculosis,354
+COUNTRIES,ETH,Ethiopia,2020,HEPB,Hepatitis B,440
+COUNTRIES,ETH,Ethiopia,2021,MEASLES,Measles,0
+COUNTRIES,ETH,Ethiopia,2021,POLIO,Poliomyelitis,0
+COUNTRIES,ETH,Ethiopia,2021,PERTUSSIS,Pertussis (Whooping cough),260
+COUNTRIES,ETH,Ethiopia,2021,DIPHTHERIA,Diphtheria,0
+COUNTRIES,ETH,Ethiopia,2021,TB,Tuberculosis,0
+COUNTRIES,ETH,Ethiopia,2021,HEPB,Hepatitis B,11
+COUNTRIES,ETH,Ethiopia,2022,MEASLES,Measles,607
+COUNTRIES,ETH,Ethiopia,2022,POLIO,Poliomyelitis,0
+COUNTRIES,ETH,Ethiopia,2022,PERTUSSIS,Pertussis (Whooping cough),0
+COUNTRIES,ETH,Ethiopia,2022,DIPHTHERIA,Diphtheria,98
+COUNTRIES,ETH,Ethiopia,2022,TB,Tuberculosis,0
+COUNTRIES,ETH,Ethiopia,2022,HEPB,Hepatitis B,0
+COUNTRIES,ETH,Ethiopia,2023,MEASLES,Measles,0
+COUNTRIES,ETH,Ethiopia,2023,POLIO,Poliomyelitis,49
+COUNTRIES,ETH,Ethiopia,2023,PERTUSSIS,Pertussis (Whooping cough),73
+COUNTRIES,ETH,Ethiopia,2023,DIPHTHERIA,Diphtheria,160
+COUNTRIES,ETH,Ethiopia,2023,TB,Tuberculosis,125
+COUNTRIES,ETH,Ethiopia,2023,HEPB,Hepatitis B,273
+COUNTRIES,BGD,Bangladesh,2010,MEASLES,Measles,273
+COUNTRIES,BGD,Bangladesh,2010,POLIO,Poliomyelitis,147
+COUNTRIES,BGD,Bangladesh,2010,PERTUSSIS,Pertussis (Whooping cough),91
+COUNTRIES,BGD,Bangladesh,2010,DIPHTHERIA,Diphtheria,584
+COUNTRIES,BGD,Bangladesh,2010,TB,Tuberculosis,297
+COUNTRIES,BGD,Bangladesh,2010,HEPB,Hepatitis B,476
+COUNTRIES,BGD,Bangladesh,2011,MEASLES,Measles,352
+COUNTRIES,BGD,Bangladesh,2011,POLIO,Poliomyelitis,106
+COUNTRIES,BGD,Bangladesh,2011,PERTUSSIS,Pertussis (Whooping cough),524
+COUNTRIES,BGD,Bangladesh,2011,DIPHTHERIA,Diphtheria,581
+COUNTRIES,BGD,Bangladesh,2011,TB,Tuberculosis,507
+COUNTRIES,BGD,Bangladesh,2011,HEPB,Hepatitis B,857
+COUNTRIES,BGD,Bangladesh,2012,MEASLES,Measles,0
+COUNTRIES,BGD,Bangladesh,2012,POLIO,Poliomyelitis,111
+COUNTRIES,BGD,Bangladesh,2012,PERTUSSIS,Pertussis (Whooping cough),87
+COUNTRIES,BGD,Bangladesh,2012,DIPHTHERIA,Diphtheria,503
+COUNTRIES,BGD,Bangladesh,2012,TB,Tuberculosis,127
+COUNTRIES,BGD,Bangladesh,2012,HEPB,Hepatitis B,105
+COUNTRIES,BGD,Bangladesh,2013,MEASLES,Measles,1260
+COUNTRIES,BGD,Bangladesh,2013,POLIO,Poliomyelitis,151
+COUNTRIES,BGD,Bangladesh,2013,PERTUSSIS,Pertussis (Whooping cough),450
+COUNTRIES,BGD,Bangladesh,2013,DIPHTHERIA,Diphtheria,278
+COUNTRIES,BGD,Bangladesh,2013,TB,Tuberculosis,390
+COUNTRIES,BGD,Bangladesh,2013,HEPB,Hepatitis B,169
+COUNTRIES,BGD,Bangladesh,2014,MEASLES,Measles,132
+COUNTRIES,BGD,Bangladesh,2014,POLIO,Poliomyelitis,126
+COUNTRIES,BGD,Bangladesh,2014,PERTUSSIS,Pertussis (Whooping cough),302
+COUNTRIES,BGD,Bangladesh,2014,DIPHTHERIA,Diphtheria,18
+COUNTRIES,BGD,Bangladesh,2014,TB,Tuberculosis,1054
+COUNTRIES,BGD,Bangladesh,2014,HEPB,Hepatitis B,306
+COUNTRIES,BGD,Bangladesh,2015,MEASLES,Measles,199
+COUNTRIES,BGD,Bangladesh,2015,POLIO,Poliomyelitis,62
+COUNTRIES,BGD,Bangladesh,2015,PERTUSSIS,Pertussis (Whooping cough),7
+COUNTRIES,BGD,Bangladesh,2015,DIPHTHERIA,Diphtheria,217
+COUNTRIES,BGD,Bangladesh,2015,TB,Tuberculosis,324
+COUNTRIES,BGD,Bangladesh,2015,HEPB,Hepatitis B,61
+COUNTRIES,BGD,Bangladesh,2016,MEASLES,Measles,358
+COUNTRIES,BGD,Bangladesh,2016,POLIO,Poliomyelitis,567
+COUNTRIES,BGD,Bangladesh,2016,PERTUSSIS,Pertussis (Whooping cough),184
+COUNTRIES,BGD,Bangladesh,2016,DIPHTHERIA,Diphtheria,0
+COUNTRIES,BGD,Bangladesh,2016,TB,Tuberculosis,514
+COUNTRIES,BGD,Bangladesh,2016,HEPB,Hepatitis B,465
+COUNTRIES,BGD,Bangladesh,2017,MEASLES,Measles,1554
+COUNTRIES,BGD,Bangladesh,2017,POLIO,Poliomyelitis,372
+COUNTRIES,BGD,Bangladesh,2017,PERTUSSIS,Pertussis (Whooping cough),105
+COUNTRIES,BGD,Bangladesh,2017,DIPHTHERIA,Diphtheria,77
+COUNTRIES,BGD,Bangladesh,2017,TB,Tuberculosis,70
+COUNTRIES,BGD,Bangladesh,2017,HEPB,Hepatitis B,65
+COUNTRIES,BGD,Bangladesh,2018,MEASLES,Measles,672
+COUNTRIES,BGD,Bangladesh,2018,POLIO,Poliomyelitis,0
+COUNTRIES,BGD,Bangladesh,2018,PERTUSSIS,Pertussis (Whooping cough),165
+COUNTRIES,BGD,Bangladesh,2018,DIPHTHERIA,Diphtheria,351
+COUNTRIES,BGD,Bangladesh,2018,TB,Tuberculosis,194
+COUNTRIES,BGD,Bangladesh,2018,HEPB,Hepatitis B,315
+COUNTRIES,BGD,Bangladesh,2019,MEASLES,Measles,362
+COUNTRIES,BGD,Bangladesh,2019,POLIO,Poliomyelitis,1214
+COUNTRIES,BGD,Bangladesh,2019,PERTUSSIS,Pertussis (Whooping cough),1163
+COUNTRIES,BGD,Bangladesh,2019,DIPHTHERIA,Diphtheria,223
+COUNTRIES,BGD,Bangladesh,2019,TB,Tuberculosis,256
+COUNTRIES,BGD,Bangladesh,2019,HEPB,Hepatitis B,253
+COUNTRIES,BGD,Bangladesh,2020,MEASLES,Measles,354
+COUNTRIES,BGD,Bangladesh,2020,POLIO,Poliomyelitis,618
+COUNTRIES,BGD,Bangladesh,2020,PERTUSSIS,Pertussis (Whooping cough),0
+COUNTRIES,BGD,Bangladesh,2020,DIPHTHERIA,Diphtheria,359
+COUNTRIES,BGD,Bangladesh,2020,TB,Tuberculosis,12
+COUNTRIES,BGD,Bangladesh,2020,HEPB,Hepatitis B,403
+COUNTRIES,BGD,Bangladesh,2021,MEASLES,Measles,325
+COUNTRIES,BGD,Bangladesh,2021,POLIO,Poliomyelitis,272
+COUNTRIES,BGD,Bangladesh,2021,PERTUSSIS,Pertussis (Whooping cough),18
+COUNTRIES,BGD,Bangladesh,2021,DIPHTHERIA,Diphtheria,434
+COUNTRIES,BGD,Bangladesh,2021,TB,Tuberculosis,345
+COUNTRIES,BGD,Bangladesh,2021,HEPB,Hepatitis B,434
+COUNTRIES,BGD,Bangladesh,2022,MEASLES,Measles,333
+COUNTRIES,BGD,Bangladesh,2022,POLIO,Poliomyelitis,0
+COUNTRIES,BGD,Bangladesh,2022,PERTUSSIS,Pertussis (Whooping cough),0
+COUNTRIES,BGD,Bangladesh,2022,DIPHTHERIA,Diphtheria,298
+COUNTRIES,BGD,Bangladesh,2022,TB,Tuberculosis,24
+COUNTRIES,BGD,Bangladesh,2022,HEPB,Hepatitis B,142
+COUNTRIES,BGD,Bangladesh,2023,MEASLES,Measles,41
+COUNTRIES,BGD,Bangladesh,2023,POLIO,Poliomyelitis,0
+COUNTRIES,BGD,Bangladesh,2023,PERTUSSIS,Pertussis (Whooping cough),96
+COUNTRIES,BGD,Bangladesh,2023,DIPHTHERIA,Diphtheria,105
+COUNTRIES,BGD,Bangladesh,2023,TB,Tuberculosis,96
+COUNTRIES,BGD,Bangladesh,2023,HEPB,Hepatitis B,0
+COUNTRIES,GBR,United Kingdom,2010,MEASLES,Measles,0
+COUNTRIES,GBR,United Kingdom,2010,POLIO,Poliomyelitis,420
+COUNTRIES,GBR,United Kingdom,2010,PERTUSSIS,Pertussis (Whooping cough),631
+COUNTRIES,GBR,United Kingdom,2010,DIPHTHERIA,Diphtheria,589
+COUNTRIES,GBR,United Kingdom,2010,TB,Tuberculosis,55
+COUNTRIES,GBR,United Kingdom,2010,HEPB,Hepatitis B,891
+COUNTRIES,GBR,United Kingdom,2011,MEASLES,Measles,36
+COUNTRIES,GBR,United Kingdom,2011,POLIO,Poliomyelitis,620
+COUNTRIES,GBR,United Kingdom,2011,PERTUSSIS,Pertussis (Whooping cough),184
+COUNTRIES,GBR,United Kingdom,2011,DIPHTHERIA,Diphtheria,151
+COUNTRIES,GBR,United Kingdom,2011,TB,Tuberculosis,6
+COUNTRIES,GBR,United Kingdom,2011,HEPB,Hepatitis B,222
+COUNTRIES,GBR,United Kingdom,2012,MEASLES,Measles,88
+COUNTRIES,GBR,United Kingdom,2012,POLIO,Poliomyelitis,2
+COUNTRIES,GBR,United Kingdom,2012,PERTUSSIS,Pertussis (Whooping cough),128
+COUNTRIES,GBR,United Kingdom,2012,DIPHTHERIA,Diphtheria,36
+COUNTRIES,GBR,United Kingdom,2012,TB,Tuberculosis,184
+COUNTRIES,GBR,United Kingdom,2012,HEPB,Hepatitis B,0
+COUNTRIES,GBR,United Kingdom,2013,MEASLES,Measles,198
+COUNTRIES,GBR,United Kingdom,2013,POLIO,Poliomyelitis,149
+COUNTRIES,GBR,United Kingdom,2013,PERTUSSIS,Pertussis (Whooping cough),275
+COUNTRIES,GBR,United Kingdom,2013,DIPHTHERIA,Diphtheria,537
+COUNTRIES,GBR,United Kingdom,2013,TB,Tuberculosis,68
+COUNTRIES,GBR,United Kingdom,2013,HEPB,Hepatitis B,534
+COUNTRIES,GBR,United Kingdom,2014,MEASLES,Measles,261
+COUNTRIES,GBR,United Kingdom,2014,POLIO,Poliomyelitis,515
+COUNTRIES,GBR,United Kingdom,2014,PERTUSSIS,Pertussis (Whooping cough),14
+COUNTRIES,GBR,United Kingdom,2014,DIPHTHERIA,Diphtheria,187
+COUNTRIES,GBR,United Kingdom,2014,TB,Tuberculosis,1030
+COUNTRIES,GBR,United Kingdom,2014,HEPB,Hepatitis B,277
+COUNTRIES,GBR,United Kingdom,2015,MEASLES,Measles,1440
+COUNTRIES,GBR,United Kingdom,2015,POLIO,Poliomyelitis,379
+COUNTRIES,GBR,United Kingdom,2015,PERTUSSIS,Pertussis (Whooping cough),636
+COUNTRIES,GBR,United Kingdom,2015,DIPHTHERIA,Diphtheria,4
+COUNTRIES,GBR,United Kingdom,2015,TB,Tuberculosis,390
+COUNTRIES,GBR,United Kingdom,2015,HEPB,Hepatitis B,0
+COUNTRIES,GBR,United Kingdom,2016,MEASLES,Measles,140
+COUNTRIES,GBR,United Kingdom,2016,POLIO,Poliomyelitis,842
+COUNTRIES,GBR,United Kingdom,2016,PERTUSSIS,Pertussis (Whooping cough),226
+COUNTRIES,GBR,United Kingdom,2016,DIPHTHERIA,Diphtheria,235
+COUNTRIES,GBR,United Kingdom,2016,TB,Tuberculosis,310
+COUNTRIES,GBR,United Kingdom,2016,HEPB,Hepatitis B,473
+COUNTRIES,GBR,United Kingdom,2017,MEASLES,Measles,30
+COUNTRIES,GBR,United Kingdom,2017,POLIO,Poliomyelitis,392
+COUNTRIES,GBR,United Kingdom,2017,PERTUSSIS,Pertussis (Whooping cough),0
+COUNTRIES,GBR,United Kingdom,2017,DIPHTHERIA,Diphtheria,339
+COUNTRIES,GBR,United Kingdom,2017,TB,Tuberculosis,37
+COUNTRIES,GBR,United Kingdom,2017,HEPB,Hepatitis B,58
+COUNTRIES,GBR,United Kingdom,2018,MEASLES,Measles,134
+COUNTRIES,GBR,United Kingdom,2018,POLIO,Poliomyelitis,315
+COUNTRIES,GBR,United Kingdom,2018,PERTUSSIS,Pertussis (Whooping cough),41
+COUNTRIES,GBR,United Kingdom,2018,DIPHTHERIA,Diphtheria,599
+COUNTRIES,GBR,United Kingdom,2018,TB,Tuberculosis,94
+COUNTRIES,GBR,United Kingdom,2018,HEPB,Hepatitis B,360
+COUNTRIES,GBR,United Kingdom,2019,MEASLES,Measles,738
+COUNTRIES,GBR,United Kingdom,2019,POLIO,Poliomyelitis,292
+COUNTRIES,GBR,United Kingdom,2019,PERTUSSIS,Pertussis (Whooping cough),549
+COUNTRIES,GBR,United Kingdom,2019,DIPHTHERIA,Diphtheria,444
+COUNTRIES,GBR,United Kingdom,2019,TB,Tuberculosis,273
+COUNTRIES,GBR,United Kingdom,2019,HEPB,Hepatitis B,927
+COUNTRIES,GBR,United Kingdom,2020,MEASLES,Measles,3
+COUNTRIES,GBR,United Kingdom,2020,POLIO,Poliomyelitis,256
+COUNTRIES,GBR,United Kingdom,2020,PERTUSSIS,Pertussis (Whooping cough),374
+COUNTRIES,GBR,United Kingdom,2020,DIPHTHERIA,Diphtheria,186
+COUNTRIES,GBR,United Kingdom,2020,TB,Tuberculosis,131
+COUNTRIES,GBR,United Kingdom,2020,HEPB,Hepatitis B,332
+COUNTRIES,GBR,United Kingdom,2021,MEASLES,Measles,278
+COUNTRIES,GBR,United Kingdom,2021,POLIO,Poliomyelitis,110
+COUNTRIES,GBR,United Kingdom,2021,PERTUSSIS,Pertussis (Whooping cough),74
+COUNTRIES,GBR,United Kingdom,2021,DIPHTHERIA,Diphtheria,2777
+COUNTRIES,GBR,United Kingdom,2021,TB,Tuberculosis,95
+COUNTRIES,GBR,United Kingdom,2021,HEPB,Hepatitis B,55
+COUNTRIES,GBR,United Kingdom,2022,MEASLES,Measles,325
+COUNTRIES,GBR,United Kingdom,2022,POLIO,Poliomyelitis,159
+COUNTRIES,GBR,United Kingdom,2022,PERTUSSIS,Pertussis (Whooping cough),861
+COUNTRIES,GBR,United Kingdom,2022,DIPHTHERIA,Diphtheria,277
+COUNTRIES,GBR,United Kingdom,2022,TB,Tuberculosis,274
+COUNTRIES,GBR,United Kingdom,2022,HEPB,Hepatitis B,46
+COUNTRIES,GBR,United Kingdom,2023,MEASLES,Measles,55
+COUNTRIES,GBR,United Kingdom,2023,POLIO,Poliomyelitis,157
+COUNTRIES,GBR,United Kingdom,2023,PERTUSSIS,Pertussis (Whooping cough),55
+COUNTRIES,GBR,United Kingdom,2023,DIPHTHERIA,Diphtheria,313
+COUNTRIES,GBR,United Kingdom,2023,TB,Tuberculosis,63
+COUNTRIES,GBR,United Kingdom,2023,HEPB,Hepatitis B,322
+COUNTRIES,DEU,Germany,2010,MEASLES,Measles,474
+COUNTRIES,DEU,Germany,2010,POLIO,Poliomyelitis,0
+COUNTRIES,DEU,Germany,2010,PERTUSSIS,Pertussis (Whooping cough),1214
+COUNTRIES,DEU,Germany,2010,DIPHTHERIA,Diphtheria,77
+COUNTRIES,DEU,Germany,2010,TB,Tuberculosis,1721
+COUNTRIES,DEU,Germany,2010,HEPB,Hepatitis B,378
+COUNTRIES,DEU,Germany,2011,MEASLES,Measles,1298
+COUNTRIES,DEU,Germany,2011,POLIO,Poliomyelitis,1125
+COUNTRIES,DEU,Germany,2011,PERTUSSIS,Pertussis (Whooping cough),2169
+COUNTRIES,DEU,Germany,2011,DIPHTHERIA,Diphtheria,930
+COUNTRIES,DEU,Germany,2011,TB,Tuberculosis,1562
+COUNTRIES,DEU,Germany,2011,HEPB,Hepatitis B,722
+COUNTRIES,DEU,Germany,2012,MEASLES,Measles,663
+COUNTRIES,DEU,Germany,2012,POLIO,Poliomyelitis,466
+COUNTRIES,DEU,Germany,2012,PERTUSSIS,Pertussis (Whooping cough),2051
+COUNTRIES,DEU,Germany,2012,DIPHTHERIA,Diphtheria,516
+COUNTRIES,DEU,Germany,2012,TB,Tuberculosis,114
+COUNTRIES,DEU,Germany,2012,HEPB,Hepatitis B,2562
+COUNTRIES,DEU,Germany,2013,MEASLES,Measles,818
+COUNTRIES,DEU,Germany,2013,POLIO,Poliomyelitis,1109
+COUNTRIES,DEU,Germany,2013,PERTUSSIS,Pertussis (Whooping cough),1987
+COUNTRIES,DEU,Germany,2013,DIPHTHERIA,Diphtheria,1026
+COUNTRIES,DEU,Germany,2013,TB,Tuberculosis,1713
+COUNTRIES,DEU,Germany,2013,HEPB,Hepatitis B,353
+COUNTRIES,DEU,Germany,2014,MEASLES,Measles,1735
+COUNTRIES,DEU,Germany,2014,POLIO,Poliomyelitis,3133
+COUNTRIES,DEU,Germany,2014,PERTUSSIS,Pertussis (Whooping cough),301
+COUNTRIES,DEU,Germany,2014,DIPHTHERIA,Diphtheria,0
+COUNTRIES,DEU,Germany,2014,TB,Tuberculosis,365
+COUNTRIES,DEU,Germany,2014,HEPB,Hepatitis B,254
+COUNTRIES,DEU,Germany,2015,MEASLES,Measles,236
+COUNTRIES,DEU,Germany,2015,POLIO,Poliomyelitis,7056
+COUNTRIES,DEU,Germany,2015,PERTUSSIS,Pertussis (Whooping cough),1485
+COUNTRIES,DEU,Germany,2015,DIPHTHERIA,Diphtheria,295
+COUNTRIES,DEU,Germany,2015,TB,Tuberculosis,1102
+COUNTRIES,DEU,Germany,2015,HEPB,Hepatitis B,813
+COUNTRIES,DEU,Germany,2016,MEASLES,Measles,1359
+COUNTRIES,DEU,Germany,2016,POLIO,Poliomyelitis,2308
+COUNTRIES,DEU,Germany,2016,PERTUSSIS,Pertussis (Whooping cough),914
+COUNTRIES,DEU,Germany,2016,DIPHTHERIA,Diphtheria,1555
+COUNTRIES,DEU,Germany,2016,TB,Tuberculosis,1125
+COUNTRIES,DEU,Germany,2016,HEPB,Hepatitis B,629
+COUNTRIES,DEU,Germany,2017,MEASLES,Measles,43
+COUNTRIES,DEU,Germany,2017,POLIO,Poliomyelitis,3687
+COUNTRIES,DEU,Germany,2017,PERTUSSIS,Pertussis (Whooping cough),435
+COUNTRIES,DEU,Germany,2017,DIPHTHERIA,Diphtheria,90
+COUNTRIES,DEU,Germany,2017,TB,Tuberculosis,2392
+COUNTRIES,DEU,Germany,2017,HEPB,Hepatitis B,2032
+COUNTRIES,DEU,Germany,2018,MEASLES,Measles,758
+COUNTRIES,DEU,Germany,2018,POLIO,Poliomyelitis,1076
+COUNTRIES,DEU,Germany,2018,PERTUSSIS,Pertussis (Whooping cough),1405
+COUNTRIES,DEU,Germany,2018,DIPHTHERIA,Diphtheria,2477
+COUNTRIES,DEU,Germany,2018,TB,Tuberculosis,1086
+COUNTRIES,DEU,Germany,2018,HEPB,Hepatitis B,247
+COUNTRIES,DEU,Germany,2019,MEASLES,Measles,497
+COUNTRIES,DEU,Germany,2019,POLIO,Poliomyelitis,356
+COUNTRIES,DEU,Germany,2019,PERTUSSIS,Pertussis (Whooping cough),917
+COUNTRIES,DEU,Germany,2019,DIPHTHERIA,Diphtheria,2085
+COUNTRIES,DEU,Germany,2019,TB,Tuberculosis,74
+COUNTRIES,DEU,Germany,2019,HEPB,Hepatitis B,856
+COUNTRIES,DEU,Germany,2020,MEASLES,Measles,799
+COUNTRIES,DEU,Germany,2020,POLIO,Poliomyelitis,1123
+COUNTRIES,DEU,Germany,2020,PERTUSSIS,Pertussis (Whooping cough),584
+COUNTRIES,DEU,Germany,2020,DIPHTHERIA,Diphtheria,1648
+COUNTRIES,DEU,Germany,2020,TB,Tuberculosis,1891
+COUNTRIES,DEU,Germany,2020,HEPB,Hepatitis B,791
+COUNTRIES,DEU,Germany,2021,MEASLES,Measles,356
+COUNTRIES,DEU,Germany,2021,POLIO,Poliomyelitis,156
+COUNTRIES,DEU,Germany,2021,PERTUSSIS,Pertussis (Whooping cough),41
+COUNTRIES,DEU,Germany,2021,DIPHTHERIA,Diphtheria,427
+COUNTRIES,DEU,Germany,2021,TB,Tuberculosis,1459
+COUNTRIES,DEU,Germany,2021,HEPB,Hepatitis B,1684
+COUNTRIES,DEU,Germany,2022,MEASLES,Measles,640
+COUNTRIES,DEU,Germany,2022,POLIO,Poliomyelitis,1008
+COUNTRIES,DEU,Germany,2022,PERTUSSIS,Pertussis (Whooping cough),11901
+COUNTRIES,DEU,Germany,2022,DIPHTHERIA,Diphtheria,783
+COUNTRIES,DEU,Germany,2022,TB,Tuberculosis,1790
+COUNTRIES,DEU,Germany,2022,HEPB,Hepatitis B,1747
+COUNTRIES,DEU,Germany,2023,MEASLES,Measles,355
+COUNTRIES,DEU,Germany,2023,POLIO,Poliomyelitis,4524
+COUNTRIES,DEU,Germany,2023,PERTUSSIS,Pertussis (Whooping cough),107
+COUNTRIES,DEU,Germany,2023,DIPHTHERIA,Diphtheria,1380
+COUNTRIES,DEU,Germany,2023,TB,Tuberculosis,2633
+COUNTRIES,DEU,Germany,2023,HEPB,Hepatitis B,38
+COUNTRIES,CHN,China,2010,MEASLES,Measles,1579
+COUNTRIES,CHN,China,2010,POLIO,Poliomyelitis,448
+COUNTRIES,CHN,China,2010,PERTUSSIS,Pertussis (Whooping cough),150
+COUNTRIES,CHN,China,2010,DIPHTHERIA,Diphtheria,28
+COUNTRIES,CHN,China,2010,TB,Tuberculosis,2224
+COUNTRIES,CHN,China,2010,HEPB,Hepatitis B,1777
+COUNTRIES,CHN,China,2011,MEASLES,Measles,1007
+COUNTRIES,CHN,China,2011,POLIO,Poliomyelitis,946
+COUNTRIES,CHN,China,2011,PERTUSSIS,Pertussis (Whooping cough),113
+COUNTRIES,CHN,China,2011,DIPHTHERIA,Diphtheria,209
+COUNTRIES,CHN,China,2011,TB,Tuberculosis,127
+COUNTRIES,CHN,China,2011,HEPB,Hepatitis B,667
+COUNTRIES,CHN,China,2012,MEASLES,Measles,1128
+COUNTRIES,CHN,China,2012,POLIO,Poliomyelitis,434
+COUNTRIES,CHN,China,2012,PERTUSSIS,Pertussis (Whooping cough),409
+COUNTRIES,CHN,China,2012,DIPHTHERIA,Diphtheria,629
+COUNTRIES,CHN,China,2012,TB,Tuberculosis,148
+COUNTRIES,CHN,China,2012,HEPB,Hepatitis B,903
+COUNTRIES,CHN,China,2013,MEASLES,Measles,923
+COUNTRIES,CHN,China,2013,POLIO,Poliomyelitis,482
+COUNTRIES,CHN,China,2013,PERTUSSIS,Pertussis (Whooping cough),726
+COUNTRIES,CHN,China,2013,DIPHTHERIA,Diphtheria,532
+COUNTRIES,CHN,China,2013,TB,Tuberculosis,650
+COUNTRIES,CHN,China,2013,HEPB,Hepatitis B,630
+COUNTRIES,CHN,China,2014,MEASLES,Measles,131
+COUNTRIES,CHN,China,2014,POLIO,Poliomyelitis,412
+COUNTRIES,CHN,China,2014,PERTUSSIS,Pertussis (Whooping cough),569
+COUNTRIES,CHN,China,2014,DIPHTHERIA,Diphtheria,220
+COUNTRIES,CHN,China,2014,TB,Tuberculosis,3704
+COUNTRIES,CHN,China,2014,HEPB,Hepatitis B,202
+COUNTRIES,CHN,China,2015,MEASLES,Measles,2323
+COUNTRIES,CHN,China,2015,POLIO,Poliomyelitis,517
+COUNTRIES,CHN,China,2015,PERTUSSIS,Pertussis (Whooping cough),186
+COUNTRIES,CHN,China,2015,DIPHTHERIA,Diphtheria,471
+COUNTRIES,CHN,China,2015,TB,Tuberculosis,595
+COUNTRIES,CHN,China,2015,HEPB,Hepatitis B,189
+COUNTRIES,CHN,China,2016,MEASLES,Measles,884
+COUNTRIES,CHN,China,2016,POLIO,Poliomyelitis,820
+COUNTRIES,CHN,China,2016,PERTUSSIS,Pertussis (Whooping cough),418
+COUNTRIES,CHN,China,2016,DIPHTHERIA,Diphtheria,1060
+COUNTRIES,CHN,China,2016,TB,Tuberculosis,497
+COUNTRIES,CHN,China,2016,HEPB,Hepatitis B,905
+COUNTRIES,CHN,China,2017,MEASLES,Measles,1221
+COUNTRIES,CHN,China,2017,POLIO,Poliomyelitis,566
+COUNTRIES,CHN,China,2017,PERTUSSIS,Pertussis (Whooping cough),837
+COUNTRIES,CHN,China,2017,DIPHTHERIA,Diphtheria,118
+COUNTRIES,CHN,China,2017,TB,Tuberculosis,1031
+COUNTRIES,CHN,China,2017,HEPB,Hepatitis B,0
+COUNTRIES,CHN,China,2018,MEASLES,Measles,1063
+COUNTRIES,CHN,China,2018,POLIO,Poliomyelitis,735
+COUNTRIES,CHN,China,2018,PERTUSSIS,Pertussis (Whooping cough),136
+COUNTRIES,CHN,China,2018,DIPHTHERIA,Diphtheria,826
+COUNTRIES,CHN,China,2018,TB,Tuberculosis,849
+COUNTRIES,CHN,China,2018,HEPB,Hepatitis B,380
+COUNTRIES,CHN,China,2019,MEASLES,Measles,500
+COUNTRIES,CHN,China,2019,POLIO,Poliomyelitis,109
+COUNTRIES,CHN,China,2019,PERTUSSIS,Pertussis (Whooping cough),98
+COUNTRIES,CHN,China,2019,DIPHTHERIA,Diphtheria,959
+COUNTRIES,CHN,China,2019,TB,Tuberculosis,1586
+COUNTRIES,CHN,China,2019,HEPB,Hepatitis B,733
+COUNTRIES,CHN,China,2020,MEASLES,Measles,1657
+COUNTRIES,CHN,China,2020,POLIO,Poliomyelitis,26
+COUNTRIES,CHN,China,2020,PERTUSSIS,Pertussis (Whooping cough),246
+COUNTRIES,CHN,China,2020,DIPHTHERIA,Diphtheria,3405
+COUNTRIES,CHN,China,2020,TB,Tuberculosis,798
+COUNTRIES,CHN,China,2020,HEPB,Hepatitis B,1536
+COUNTRIES,CHN,China,2021,MEASLES,Measles,326
+COUNTRIES,CHN,China,2021,POLIO,Poliomyelitis,275
+COUNTRIES,CHN,China,2021,PERTUSSIS,Pertussis (Whooping cough),886
+COUNTRIES,CHN,China,2021,DIPHTHERIA,Diphtheria,850
+COUNTRIES,CHN,China,2021,TB,Tuberculosis,34
+COUNTRIES,CHN,China,2021,HEPB,Hepatitis B,225
+COUNTRIES,CHN,China,2022,MEASLES,Measles,889
+COUNTRIES,CHN,China,2022,POLIO,Poliomyelitis,710
+COUNTRIES,CHN,China,2022,PERTUSSIS,Pertussis (Whooping cough),761
+COUNTRIES,CHN,China,2022,DIPHTHERIA,Diphtheria,915
+COUNTRIES,CHN,China,2022,TB,Tuberculosis,607
+COUNTRIES,CHN,China,2022,HEPB,Hepatitis B,237
+COUNTRIES,CHN,China,2023,MEASLES,Measles,192
+COUNTRIES,CHN,China,2023,POLIO,Poliomyelitis,656
+COUNTRIES,CHN,China,2023,PERTUSSIS,Pertussis (Whooping cough),227
+COUNTRIES,CHN,China,2023,DIPHTHERIA,Diphtheria,430
+COUNTRIES,CHN,China,2023,TB,Tuberculosis,90
+COUNTRIES,CHN,China,2023,HEPB,Hepatitis B,1357
+COUNTRIES,ZAF,South Africa,2010,MEASLES,Measles,2404
+COUNTRIES,ZAF,South Africa,2010,POLIO,Poliomyelitis,1548
+COUNTRIES,ZAF,South Africa,2010,PERTUSSIS,Pertussis (Whooping cough),1128
+COUNTRIES,ZAF,South Africa,2010,DIPHTHERIA,Diphtheria,626
+COUNTRIES,ZAF,South Africa,2010,TB,Tuberculosis,2200
+COUNTRIES,ZAF,South Africa,2010,HEPB,Hepatitis B,675
+COUNTRIES,ZAF,South Africa,2011,MEASLES,Measles,4431
+COUNTRIES,ZAF,South Africa,2011,POLIO,Poliomyelitis,482
+COUNTRIES,ZAF,South Africa,2011,PERTUSSIS,Pertussis (Whooping cough),1359
+COUNTRIES,ZAF,South Africa,2011,DIPHTHERIA,Diphtheria,1113
+COUNTRIES,ZAF,South Africa,2011,TB,Tuberculosis,1088
+COUNTRIES,ZAF,South Africa,2011,HEPB,Hepatitis B,884
+COUNTRIES,ZAF,South Africa,2012,MEASLES,Measles,498
+COUNTRIES,ZAF,South Africa,2012,POLIO,Poliomyelitis,0
+COUNTRIES,ZAF,South Africa,2012,PERTUSSIS,Pertussis (Whooping cough),1464
+COUNTRIES,ZAF,South Africa,2012,DIPHTHERIA,Diphtheria,539
+COUNTRIES,ZAF,South Africa,2012,TB,Tuberculosis,136
+COUNTRIES,ZAF,South Africa,2012,HEPB,Hepatitis B,5105
+COUNTRIES,ZAF,South Africa,2013,MEASLES,Measles,125
+COUNTRIES,ZAF,South Africa,2013,POLIO,Poliomyelitis,494
+COUNTRIES,ZAF,South Africa,2013,PERTUSSIS,Pertussis (Whooping cough),1495
+COUNTRIES,ZAF,South Africa,2013,DIPHTHERIA,Diphtheria,516
+COUNTRIES,ZAF,South Africa,2013,TB,Tuberculosis,137
+COUNTRIES,ZAF,South Africa,2013,HEPB,Hepatitis B,615
+COUNTRIES,ZAF,South Africa,2014,MEASLES,Measles,183
+COUNTRIES,ZAF,South Africa,2014,POLIO,Poliomyelitis,921
+COUNTRIES,ZAF,South Africa,2014,PERTUSSIS,Pertussis (Whooping cough),85
+COUNTRIES,ZAF,South Africa,2014,DIPHTHERIA,Diphtheria,604
+COUNTRIES,ZAF,South Africa,2014,TB,Tuberculosis,838
+COUNTRIES,ZAF,South Africa,2014,HEPB,Hepatitis B,540
+COUNTRIES,ZAF,South Africa,2015,MEASLES,Measles,1303
+COUNTRIES,ZAF,South Africa,2015,POLIO,Poliomyelitis,1695
+COUNTRIES,ZAF,South Africa,2015,PERTUSSIS,Pertussis (Whooping cough),1685
+COUNTRIES,ZAF,South Africa,2015,DIPHTHERIA,Diphtheria,681
+COUNTRIES,ZAF,South Africa,2015,TB,Tuberculosis,771
+COUNTRIES,ZAF,South Africa,2015,HEPB,Hepatitis B,619
+COUNTRIES,ZAF,South Africa,2016,MEASLES,Measles,397
+COUNTRIES,ZAF,South Africa,2016,POLIO,Poliomyelitis,1336
+COUNTRIES,ZAF,South Africa,2016,PERTUSSIS,Pertussis (Whooping cough),714
+COUNTRIES,ZAF,South Africa,2016,DIPHTHERIA,Diphtheria,295
+COUNTRIES,ZAF,South Africa,2016,TB,Tuberculosis,441
+COUNTRIES,ZAF,South Africa,2016,HEPB,Hepatitis B,676
+COUNTRIES,ZAF,South Africa,2017,MEASLES,Measles,264
+COUNTRIES,ZAF,South Africa,2017,POLIO,Poliomyelitis,1828
+COUNTRIES,ZAF,South Africa,2017,PERTUSSIS,Pertussis (Whooping cough),1650
+COUNTRIES,ZAF,South Africa,2017,DIPHTHERIA,Diphtheria,131
+COUNTRIES,ZAF,South Africa,2017,TB,Tuberculosis,2187
+COUNTRIES,ZAF,South Africa,2017,HEPB,Hepatitis B,1228
+COUNTRIES,ZAF,South Africa,2018,MEASLES,Measles,646
+COUNTRIES,ZAF,South Africa,2018,POLIO,Poliomyelitis,392
+COUNTRIES,ZAF,South Africa,2018,PERTUSSIS,Pertussis (Whooping cough),6616
+COUNTRIES,ZAF,South Africa,2018,DIPHTHERIA,Diphtheria,808
+COUNTRIES,ZAF,South Africa,2018,TB,Tuberculosis,495
+COUNTRIES,ZAF,South Africa,2018,HEPB,Hepatitis B,1463
+COUNTRIES,ZAF,South Africa,2019,MEASLES,Measles,960
+COUNTRIES,ZAF,South Africa,2019,POLIO,Poliomyelitis,346
+COUNTRIES,ZAF,South Africa,2019,PERTUSSIS,Pertussis (Whooping cough),1075
+COUNTRIES,ZAF,South Africa,2019,DIPHTHERIA,Diphtheria,293
+COUNTRIES,ZAF,South Africa,2019,TB,Tuberculosis,0
+COUNTRIES,ZAF,South Africa,2019,HEPB,Hepatitis B,1132
+COUNTRIES,ZAF,South Africa,2020,MEASLES,Measles,1085
+COUNTRIES,ZAF,South Africa,2020,POLIO,Poliomyelitis,24
+COUNTRIES,ZAF,South Africa,2020,PERTUSSIS,Pertussis (Whooping cough),26
+COUNTRIES,ZAF,South Africa,2020,DIPHTHERIA,Diphtheria,525
+COUNTRIES,ZAF,South Africa,2020,TB,Tuberculosis,972
+COUNTRIES,ZAF,South Africa,2020,HEPB,Hepatitis B,560
+COUNTRIES,ZAF,South Africa,2021,MEASLES,Measles,577
+COUNTRIES,ZAF,South Africa,2021,POLIO,Poliomyelitis,1632
+COUNTRIES,ZAF,South Africa,2021,PERTUSSIS,Pertussis (Whooping cough),332
+COUNTRIES,ZAF,South Africa,2021,DIPHTHERIA,Diphtheria,130
+COUNTRIES,ZAF,South Africa,2021,TB,Tuberculosis,592
+COUNTRIES,ZAF,South Africa,2021,HEPB,Hepatitis B,1297
+COUNTRIES,ZAF,South Africa,2022,MEASLES,Measles,213
+COUNTRIES,ZAF,South Africa,2022,POLIO,Poliomyelitis,371
+COUNTRIES,ZAF,South Africa,2022,PERTUSSIS,Pertussis (Whooping cough),196
+COUNTRIES,ZAF,South Africa,2022,DIPHTHERIA,Diphtheria,1053
+COUNTRIES,ZAF,South Africa,2022,TB,Tuberculosis,383
+COUNTRIES,ZAF,South Africa,2022,HEPB,Hepatitis B,1492
+COUNTRIES,ZAF,South Africa,2023,MEASLES,Measles,209
+COUNTRIES,ZAF,South Africa,2023,POLIO,Poliomyelitis,1257
+COUNTRIES,ZAF,South Africa,2023,PERTUSSIS,Pertussis (Whooping cough),283
+COUNTRIES,ZAF,South Africa,2023,DIPHTHERIA,Diphtheria,140
+COUNTRIES,ZAF,South Africa,2023,TB,Tuberculosis,396
+COUNTRIES,ZAF,South Africa,2023,HEPB,Hepatitis B,1435
+COUNTRIES,MEX,Mexico,2010,MEASLES,Measles,46
+COUNTRIES,MEX,Mexico,2010,POLIO,Poliomyelitis,11
+COUNTRIES,MEX,Mexico,2010,PERTUSSIS,Pertussis (Whooping cough),35
+COUNTRIES,MEX,Mexico,2010,DIPHTHERIA,Diphtheria,15
+COUNTRIES,MEX,Mexico,2010,TB,Tuberculosis,0
+COUNTRIES,MEX,Mexico,2010,HEPB,Hepatitis B,199
+COUNTRIES,MEX,Mexico,2011,MEASLES,Measles,0
+COUNTRIES,MEX,Mexico,2011,POLIO,Poliomyelitis,0
+COUNTRIES,MEX,Mexico,2011,PERTUSSIS,Pertussis (Whooping cough),14
+COUNTRIES,MEX,Mexico,2011,DIPHTHERIA,Diphtheria,59
+COUNTRIES,MEX,Mexico,2011,TB,Tuberculosis,8
+COUNTRIES,MEX,Mexico,2011,HEPB,Hepatitis B,79
+COUNTRIES,MEX,Mexico,2012,MEASLES,Measles,0
+COUNTRIES,MEX,Mexico,2012,POLIO,Poliomyelitis,0
+COUNTRIES,MEX,Mexico,2012,PERTUSSIS,Pertussis (Whooping cough),0
+COUNTRIES,MEX,Mexico,2012,DIPHTHERIA,Diphtheria,67
+COUNTRIES,MEX,Mexico,2012,TB,Tuberculosis,0
+COUNTRIES,MEX,Mexico,2012,HEPB,Hepatitis B,302
+COUNTRIES,MEX,Mexico,2013,MEASLES,Measles,117
+COUNTRIES,MEX,Mexico,2013,POLIO,Poliomyelitis,1507
+COUNTRIES,MEX,Mexico,2013,PERTUSSIS,Pertussis (Whooping cough),89
+COUNTRIES,MEX,Mexico,2013,DIPHTHERIA,Diphtheria,124
+COUNTRIES,MEX,Mexico,2013,TB,Tuberculosis,64
+COUNTRIES,MEX,Mexico,2013,HEPB,Hepatitis B,299
+COUNTRIES,MEX,Mexico,2014,MEASLES,Measles,220
+COUNTRIES,MEX,Mexico,2014,POLIO,Poliomyelitis,125
+COUNTRIES,MEX,Mexico,2014,PERTUSSIS,Pertussis (Whooping cough),162
+COUNTRIES,MEX,Mexico,2014,DIPHTHERIA,Diphtheria,130
+COUNTRIES,MEX,Mexico,2014,TB,Tuberculosis,94
+COUNTRIES,MEX,Mexico,2014,HEPB,Hepatitis B,114
+COUNTRIES,MEX,Mexico,2015,MEASLES,Measles,209
+COUNTRIES,MEX,Mexico,2015,POLIO,Poliomyelitis,327
+COUNTRIES,MEX,Mexico,2015,PERTUSSIS,Pertussis (Whooping cough),67
+COUNTRIES,MEX,Mexico,2015,DIPHTHERIA,Diphtheria,114
+COUNTRIES,MEX,Mexico,2015,TB,Tuberculosis,117
+COUNTRIES,MEX,Mexico,2015,HEPB,Hepatitis B,0
+COUNTRIES,MEX,Mexico,2016,MEASLES,Measles,212
+COUNTRIES,MEX,Mexico,2016,POLIO,Poliomyelitis,1987
+COUNTRIES,MEX,Mexico,2016,PERTUSSIS,Pertussis (Whooping cough),484
+COUNTRIES,MEX,Mexico,2016,DIPHTHERIA,Diphtheria,39
+COUNTRIES,MEX,Mexico,2016,TB,Tuberculosis,27
+COUNTRIES,MEX,Mexico,2016,HEPB,Hepatitis B,219
+COUNTRIES,MEX,Mexico,2017,MEASLES,Measles,0
+COUNTRIES,MEX,Mexico,2017,POLIO,Poliomyelitis,676
+COUNTRIES,MEX,Mexico,2017,PERTUSSIS,Pertussis (Whooping cough),0
+COUNTRIES,MEX,Mexico,2017,DIPHTHERIA,Diphtheria,269
+COUNTRIES,MEX,Mexico,2017,TB,Tuberculosis,517
+COUNTRIES,MEX,Mexico,2017,HEPB,Hepatitis B,2
+COUNTRIES,MEX,Mexico,2018,MEASLES,Measles,330
+COUNTRIES,MEX,Mexico,2018,POLIO,Poliomyelitis,194
+COUNTRIES,MEX,Mexico,2018,PERTUSSIS,Pertussis (Whooping cough),0
+COUNTRIES,MEX,Mexico,2018,DIPHTHERIA,Diphtheria,11
+COUNTRIES,MEX,Mexico,2018,TB,Tuberculosis,141
+COUNTRIES,MEX,Mexico,2018,HEPB,Hepatitis B,0
+COUNTRIES,MEX,Mexico,2019,MEASLES,Measles,0
+COUNTRIES,MEX,Mexico,2019,POLIO,Poliomyelitis,67
+COUNTRIES,MEX,Mexico,2019,PERTUSSIS,Pertussis (Whooping cough),0
+COUNTRIES,MEX,Mexico,2019,DIPHTHERIA,Diphtheria,0
+COUNTRIES,MEX,Mexico,2019,TB,Tuberculosis,476
+COUNTRIES,MEX,Mexico,2019,HEPB,Hepatitis B,140
+COUNTRIES,MEX,Mexico,2020,MEASLES,Measles,0
+COUNTRIES,MEX,Mexico,2020,POLIO,Poliomyelitis,210
+COUNTRIES,MEX,Mexico,2020,PERTUSSIS,Pertussis (Whooping cough),282
+COUNTRIES,MEX,Mexico,2020,DIPHTHERIA,Diphtheria,1
+COUNTRIES,MEX,Mexico,2020,TB,Tuberculosis,74
+COUNTRIES,MEX,Mexico,2020,HEPB,Hepatitis B,81
+COUNTRIES,MEX,Mexico,2021,MEASLES,Measles,0
+COUNTRIES,MEX,Mexico,2021,POLIO,Poliomyelitis,0
+COUNTRIES,MEX,Mexico,2021,PERTUSSIS,Pertussis (Whooping cough),0
+COUNTRIES,MEX,Mexico,2021,DIPHTHERIA,Diphtheria,40
+COUNTRIES,MEX,Mexico,2021,TB,Tuberculosis,0
+COUNTRIES,MEX,Mexico,2021,HEPB,Hepatitis B,4
+COUNTRIES,MEX,Mexico,2022,MEASLES,Measles,0
+COUNTRIES,MEX,Mexico,2022,POLIO,Poliomyelitis,0
+COUNTRIES,MEX,Mexico,2022,PERTUSSIS,Pertussis (Whooping cough),0
+COUNTRIES,MEX,Mexico,2022,DIPHTHERIA,Diphtheria,17
+COUNTRIES,MEX,Mexico,2022,TB,Tuberculosis,474
+COUNTRIES,MEX,Mexico,2022,HEPB,Hepatitis B,0
+COUNTRIES,MEX,Mexico,2023,MEASLES,Measles,0
+COUNTRIES,MEX,Mexico,2023,POLIO,Poliomyelitis,29
+COUNTRIES,MEX,Mexico,2023,PERTUSSIS,Pertussis (Whooping cough),26
+COUNTRIES,MEX,Mexico,2023,DIPHTHERIA,Diphtheria,0
+COUNTRIES,MEX,Mexico,2023,TB,Tuberculosis,336
+COUNTRIES,MEX,Mexico,2023,HEPB,Hepatitis B,0
+COUNTRIES,IDN,Indonesia,2010,MEASLES,Measles,217
+COUNTRIES,IDN,Indonesia,2010,POLIO,Poliomyelitis,1152
+COUNTRIES,IDN,Indonesia,2010,PERTUSSIS,Pertussis (Whooping cough),119
+COUNTRIES,IDN,Indonesia,2010,DIPHTHERIA,Diphtheria,569
+COUNTRIES,IDN,Indonesia,2010,TB,Tuberculosis,616
+COUNTRIES,IDN,Indonesia,2010,HEPB,Hepatitis B,895
+COUNTRIES,IDN,Indonesia,2011,MEASLES,Measles,321
+COUNTRIES,IDN,Indonesia,2011,POLIO,Poliomyelitis,992
+COUNTRIES,IDN,Indonesia,2011,PERTUSSIS,Pertussis (Whooping cough),800
+COUNTRIES,IDN,Indonesia,2011,DIPHTHERIA,Diphtheria,537
+COUNTRIES,IDN,Indonesia,2011,TB,Tuberculosis,654
+COUNTRIES,IDN,Indonesia,2011,HEPB,Hepatitis B,287
+COUNTRIES,IDN,Indonesia,2012,MEASLES,Measles,1068
+COUNTRIES,IDN,Indonesia,2012,POLIO,Poliomyelitis,1067
+COUNTRIES,IDN,Indonesia,2012,PERTUSSIS,Pertussis (Whooping cough),720
+COUNTRIES,IDN,Indonesia,2012,DIPHTHERIA,Diphtheria,386
+COUNTRIES,IDN,Indonesia,2012,TB,Tuberculosis,1125
+COUNTRIES,IDN,Indonesia,2012,HEPB,Hepatitis B,42
+COUNTRIES,IDN,Indonesia,2013,MEASLES,Measles,526
+COUNTRIES,IDN,Indonesia,2013,POLIO,Poliomyelitis,696
+COUNTRIES,IDN,Indonesia,2013,PERTUSSIS,Pertussis (Whooping cough),427
+COUNTRIES,IDN,Indonesia,2013,DIPHTHERIA,Diphtheria,928
+COUNTRIES,IDN,Indonesia,2013,TB,Tuberculosis,112
+COUNTRIES,IDN,Indonesia,2013,HEPB,Hepatitis B,296
+COUNTRIES,IDN,Indonesia,2014,MEASLES,Measles,585
+COUNTRIES,IDN,Indonesia,2014,POLIO,Poliomyelitis,96
+COUNTRIES,IDN,Indonesia,2014,PERTUSSIS,Pertussis (Whooping cough),428
+COUNTRIES,IDN,Indonesia,2014,DIPHTHERIA,Diphtheria,250
+COUNTRIES,IDN,Indonesia,2014,TB,Tuberculosis,1213
+COUNTRIES,IDN,Indonesia,2014,HEPB,Hepatitis B,717
+COUNTRIES,IDN,Indonesia,2015,MEASLES,Measles,524
+COUNTRIES,IDN,Indonesia,2015,POLIO,Poliomyelitis,230
+COUNTRIES,IDN,Indonesia,2015,PERTUSSIS,Pertussis (Whooping cough),820
+COUNTRIES,IDN,Indonesia,2015,DIPHTHERIA,Diphtheria,462
+COUNTRIES,IDN,Indonesia,2015,TB,Tuberculosis,1583
+COUNTRIES,IDN,Indonesia,2015,HEPB,Hepatitis B,773
+COUNTRIES,IDN,Indonesia,2016,MEASLES,Measles,3351
+COUNTRIES,IDN,Indonesia,2016,POLIO,Poliomyelitis,194
+COUNTRIES,IDN,Indonesia,2016,PERTUSSIS,Pertussis (Whooping cough),166
+COUNTRIES,IDN,Indonesia,2016,DIPHTHERIA,Diphtheria,359
+COUNTRIES,IDN,Indonesia,2016,TB,Tuberculosis,884
+COUNTRIES,IDN,Indonesia,2016,HEPB,Hepatitis B,479
+COUNTRIES,IDN,Indonesia,2017,MEASLES,Measles,1253
+COUNTRIES,IDN,Indonesia,2017,POLIO,Poliomyelitis,1104
+COUNTRIES,IDN,Indonesia,2017,PERTUSSIS,Pertussis (Whooping cough),172
+COUNTRIES,IDN,Indonesia,2017,DIPHTHERIA,Diphtheria,462
+COUNTRIES,IDN,Indonesia,2017,TB,Tuberculosis,432
+COUNTRIES,IDN,Indonesia,2017,HEPB,Hepatitis B,1029
+COUNTRIES,IDN,Indonesia,2018,MEASLES,Measles,456
+COUNTRIES,IDN,Indonesia,2018,POLIO,Poliomyelitis,500
+COUNTRIES,IDN,Indonesia,2018,PERTUSSIS,Pertussis (Whooping cough),1007
+COUNTRIES,IDN,Indonesia,2018,DIPHTHERIA,Diphtheria,950
+COUNTRIES,IDN,Indonesia,2018,TB,Tuberculosis,424
+COUNTRIES,IDN,Indonesia,2018,HEPB,Hepatitis B,399
+COUNTRIES,IDN,Indonesia,2019,MEASLES,Measles,0
+COUNTRIES,IDN,Indonesia,2019,POLIO,Poliomyelitis,103
+COUNTRIES,IDN,Indonesia,2019,PERTUSSIS,Pertussis (Whooping cough),286
+COUNTRIES,IDN,Indonesia,2019,DIPHTHERIA,Diphtheria,129
+COUNTRIES,IDN,Indonesia,2019,TB,Tuberculosis,77
+COUNTRIES,IDN,Indonesia,2019,HEPB,Hepatitis B,0
+COUNTRIES,IDN,Indonesia,2020,MEASLES,Measles,1206
+COUNTRIES,IDN,Indonesia,2020,POLIO,Poliomyelitis,0
+COUNTRIES,IDN,Indonesia,2020,PERTUSSIS,Pertussis (Whooping cough),602
+COUNTRIES,IDN,Indonesia,2020,DIPHTHERIA,Diphtheria,448
+COUNTRIES,IDN,Indonesia,2020,TB,Tuberculosis,187
+COUNTRIES,IDN,Indonesia,2020,HEPB,Hepatitis B,570
+COUNTRIES,IDN,Indonesia,2021,MEASLES,Measles,47
+COUNTRIES,IDN,Indonesia,2021,POLIO,Poliomyelitis,224
+COUNTRIES,IDN,Indonesia,2021,PERTUSSIS,Pertussis (Whooping cough),19
+COUNTRIES,IDN,Indonesia,2021,DIPHTHERIA,Diphtheria,279
+COUNTRIES,IDN,Indonesia,2021,TB,Tuberculosis,550
+COUNTRIES,IDN,Indonesia,2021,HEPB,Hepatitis B,1298
+COUNTRIES,IDN,Indonesia,2022,MEASLES,Measles,237
+COUNTRIES,IDN,Indonesia,2022,POLIO,Poliomyelitis,783
+COUNTRIES,IDN,Indonesia,2022,PERTUSSIS,Pertussis (Whooping cough),582
+COUNTRIES,IDN,Indonesia,2022,DIPHTHERIA,Diphtheria,23
+COUNTRIES,IDN,Indonesia,2022,TB,Tuberculosis,278
+COUNTRIES,IDN,Indonesia,2022,HEPB,Hepatitis B,109
+COUNTRIES,IDN,Indonesia,2023,MEASLES,Measles,198
+COUNTRIES,IDN,Indonesia,2023,POLIO,Poliomyelitis,1414
+COUNTRIES,IDN,Indonesia,2023,PERTUSSIS,Pertussis (Whooping cough),724
+COUNTRIES,IDN,Indonesia,2023,DIPHTHERIA,Diphtheria,330
+COUNTRIES,IDN,Indonesia,2023,TB,Tuberculosis,152
+COUNTRIES,IDN,Indonesia,2023,HEPB,Hepatitis B,411
+COUNTRIES,EGY,Egypt,2010,MEASLES,Measles,265
+COUNTRIES,EGY,Egypt,2010,POLIO,Poliomyelitis,760
+COUNTRIES,EGY,Egypt,2010,PERTUSSIS,Pertussis (Whooping cough),372
+COUNTRIES,EGY,Egypt,2010,DIPHTHERIA,Diphtheria,43
+COUNTRIES,EGY,Egypt,2010,TB,Tuberculosis,399
+COUNTRIES,EGY,Egypt,2010,HEPB,Hepatitis B,64
+COUNTRIES,EGY,Egypt,2011,MEASLES,Measles,396
+COUNTRIES,EGY,Egypt,2011,POLIO,Poliomyelitis,688
+COUNTRIES,EGY,Egypt,2011,PERTUSSIS,Pertussis (Whooping cough),253
+COUNTRIES,EGY,Egypt,2011,DIPHTHERIA,Diphtheria,0
+COUNTRIES,EGY,Egypt,2011,TB,Tuberculosis,442
+COUNTRIES,EGY,Egypt,2011,HEPB,Hepatitis B,47
+COUNTRIES,EGY,Egypt,2012,MEASLES,Measles,276
+COUNTRIES,EGY,Egypt,2012,POLIO,Poliomyelitis,265
+COUNTRIES,EGY,Egypt,2012,PERTUSSIS,Pertussis (Whooping cough),454
+COUNTRIES,EGY,Egypt,2012,DIPHTHERIA,Diphtheria,423
+COUNTRIES,EGY,Egypt,2012,TB,Tuberculosis,3
+COUNTRIES,EGY,Egypt,2012,HEPB,Hepatitis B,226
+COUNTRIES,EGY,Egypt,2013,MEASLES,Measles,0
+COUNTRIES,EGY,Egypt,2013,POLIO,Poliomyelitis,74
+COUNTRIES,EGY,Egypt,2013,PERTUSSIS,Pertussis (Whooping cough),23
+COUNTRIES,EGY,Egypt,2013,DIPHTHERIA,Diphtheria,883
+COUNTRIES,EGY,Egypt,2013,TB,Tuberculosis,461
+COUNTRIES,EGY,Egypt,2013,HEPB,Hepatitis B,289
+COUNTRIES,EGY,Egypt,2014,MEASLES,Measles,96
+COUNTRIES,EGY,Egypt,2014,POLIO,Poliomyelitis,0
+COUNTRIES,EGY,Egypt,2014,PERTUSSIS,Pertussis (Whooping cough),154
+COUNTRIES,EGY,Egypt,2014,DIPHTHERIA,Diphtheria,716
+COUNTRIES,EGY,Egypt,2014,TB,Tuberculosis,576
+COUNTRIES,EGY,Egypt,2014,HEPB,Hepatitis B,310
+COUNTRIES,EGY,Egypt,2015,MEASLES,Measles,0
+COUNTRIES,EGY,Egypt,2015,POLIO,Poliomyelitis,386
+COUNTRIES,EGY,Egypt,2015,PERTUSSIS,Pertussis (Whooping cough),32
+COUNTRIES,EGY,Egypt,2015,DIPHTHERIA,Diphtheria,128
+COUNTRIES,EGY,Egypt,2015,TB,Tuberculosis,0
+COUNTRIES,EGY,Egypt,2015,HEPB,Hepatitis B,0
+COUNTRIES,EGY,Egypt,2016,MEASLES,Measles,108
+COUNTRIES,EGY,Egypt,2016,POLIO,Poliomyelitis,39
+COUNTRIES,EGY,Egypt,2016,PERTUSSIS,Pertussis (Whooping cough),42
+COUNTRIES,EGY,Egypt,2016,DIPHTHERIA,Diphtheria,59
+COUNTRIES,EGY,Egypt,2016,TB,Tuberculosis,741
+COUNTRIES,EGY,Egypt,2016,HEPB,Hepatitis B,0
+COUNTRIES,EGY,Egypt,2017,MEASLES,Measles,784
+COUNTRIES,EGY,Egypt,2017,POLIO,Poliomyelitis,37
+COUNTRIES,EGY,Egypt,2017,PERTUSSIS,Pertussis (Whooping cough),613
+COUNTRIES,EGY,Egypt,2017,DIPHTHERIA,Diphtheria,347
+COUNTRIES,EGY,Egypt,2017,TB,Tuberculosis,36
+COUNTRIES,EGY,Egypt,2017,HEPB,Hepatitis B,162
+COUNTRIES,EGY,Egypt,2018,MEASLES,Measles,149
+COUNTRIES,EGY,Egypt,2018,POLIO,Poliomyelitis,623
+COUNTRIES,EGY,Egypt,2018,PERTUSSIS,Pertussis (Whooping cough),300
+COUNTRIES,EGY,Egypt,2018,DIPHTHERIA,Diphtheria,316
+COUNTRIES,EGY,Egypt,2018,TB,Tuberculosis,427
+COUNTRIES,EGY,Egypt,2018,HEPB,Hepatitis B,25
+COUNTRIES,EGY,Egypt,2019,MEASLES,Measles,610
+COUNTRIES,EGY,Egypt,2019,POLIO,Poliomyelitis,0
+COUNTRIES,EGY,Egypt,2019,PERTUSSIS,Pertussis (Whooping cough),61
+COUNTRIES,EGY,Egypt,2019,DIPHTHERIA,Diphtheria,0
+COUNTRIES,EGY,Egypt,2019,TB,Tuberculosis,0
+COUNTRIES,EGY,Egypt,2019,HEPB,Hepatitis B,180
+COUNTRIES,EGY,Egypt,2020,MEASLES,Measles,824
+COUNTRIES,EGY,Egypt,2020,POLIO,Poliomyelitis,0
+COUNTRIES,EGY,Egypt,2020,PERTUSSIS,Pertussis (Whooping cough),0
+COUNTRIES,EGY,Egypt,2020,DIPHTHERIA,Diphtheria,217
+COUNTRIES,EGY,Egypt,2020,TB,Tuberculosis,47
+COUNTRIES,EGY,Egypt,2020,HEPB,Hepatitis B,0
+COUNTRIES,EGY,Egypt,2021,MEASLES,Measles,350
+COUNTRIES,EGY,Egypt,2021,POLIO,Poliomyelitis,40
+COUNTRIES,EGY,Egypt,2021,PERTUSSIS,Pertussis (Whooping cough),564
+COUNTRIES,EGY,Egypt,2021,DIPHTHERIA,Diphtheria,280
+COUNTRIES,EGY,Egypt,2021,TB,Tuberculosis,327
+COUNTRIES,EGY,Egypt,2021,HEPB,Hepatitis B,195
+COUNTRIES,EGY,Egypt,2022,MEASLES,Measles,316
+COUNTRIES,EGY,Egypt,2022,POLIO,Poliomyelitis,63
+COUNTRIES,EGY,Egypt,2022,PERTUSSIS,Pertussis (Whooping cough),418
+COUNTRIES,EGY,Egypt,2022,DIPHTHERIA,Diphtheria,655
+COUNTRIES,EGY,Egypt,2022,TB,Tuberculosis,362
+COUNTRIES,EGY,Egypt,2022,HEPB,Hepatitis B,0
+COUNTRIES,EGY,Egypt,2023,MEASLES,Measles,134
+COUNTRIES,EGY,Egypt,2023,POLIO,Poliomyelitis,487
+COUNTRIES,EGY,Egypt,2023,PERTUSSIS,Pertussis (Whooping cough),360
+COUNTRIES,EGY,Egypt,2023,DIPHTHERIA,Diphtheria,1147
+COUNTRIES,EGY,Egypt,2023,TB,Tuberculosis,20
+COUNTRIES,EGY,Egypt,2023,HEPB,Hepatitis B,214
+COUNTRIES,AUS,Australia,2010,MEASLES,Measles,200
+COUNTRIES,AUS,Australia,2010,POLIO,Poliomyelitis,150
+COUNTRIES,AUS,Australia,2010,PERTUSSIS,Pertussis (Whooping cough),69
+COUNTRIES,AUS,Australia,2010,DIPHTHERIA,Diphtheria,428
+COUNTRIES,AUS,Australia,2010,TB,Tuberculosis,1047
+COUNTRIES,AUS,Australia,2010,HEPB,Hepatitis B,50
+COUNTRIES,AUS,Australia,2011,MEASLES,Measles,108
+COUNTRIES,AUS,Australia,2011,POLIO,Poliomyelitis,890
+COUNTRIES,AUS,Australia,2011,PERTUSSIS,Pertussis (Whooping cough),695
+COUNTRIES,AUS,Australia,2011,DIPHTHERIA,Diphtheria,537
+COUNTRIES,AUS,Australia,2011,TB,Tuberculosis,55
+COUNTRIES,AUS,Australia,2011,HEPB,Hepatitis B,31
+COUNTRIES,AUS,Australia,2012,MEASLES,Measles,238
+COUNTRIES,AUS,Australia,2012,POLIO,Poliomyelitis,68
+COUNTRIES,AUS,Australia,2012,PERTUSSIS,Pertussis (Whooping cough),1061
+COUNTRIES,AUS,Australia,2012,DIPHTHERIA,Diphtheria,150
+COUNTRIES,AUS,Australia,2012,TB,Tuberculosis,122
+COUNTRIES,AUS,Australia,2012,HEPB,Hepatitis B,33
+COUNTRIES,AUS,Australia,2013,MEASLES,Measles,1301
+COUNTRIES,AUS,Australia,2013,POLIO,Poliomyelitis,1304
+COUNTRIES,AUS,Australia,2013,PERTUSSIS,Pertussis (Whooping cough),1038
+COUNTRIES,AUS,Australia,2013,DIPHTHERIA,Diphtheria,360
+COUNTRIES,AUS,Australia,2013,TB,Tuberculosis,1156
+COUNTRIES,AUS,Australia,2013,HEPB,Hepatitis B,1657
+COUNTRIES,AUS,Australia,2014,MEASLES,Measles,460
+COUNTRIES,AUS,Australia,2014,POLIO,Poliomyelitis,569
+COUNTRIES,AUS,Australia,2014,PERTUSSIS,Pertussis (Whooping cough),403
+COUNTRIES,AUS,Australia,2014,DIPHTHERIA,Diphtheria,1249
+COUNTRIES,AUS,Australia,2014,TB,Tuberculosis,1053
+COUNTRIES,AUS,Australia,2014,HEPB,Hepatitis B,0
+COUNTRIES,AUS,Australia,2015,MEASLES,Measles,125
+COUNTRIES,AUS,Australia,2015,POLIO,Poliomyelitis,597
+COUNTRIES,AUS,Australia,2015,PERTUSSIS,Pertussis (Whooping cough),718
+COUNTRIES,AUS,Australia,2015,DIPHTHERIA,Diphtheria,850
+COUNTRIES,AUS,Australia,2015,TB,Tuberculosis,1550
+COUNTRIES,AUS,Australia,2015,HEPB,Hepatitis B,253
+COUNTRIES,AUS,Australia,2016,MEASLES,Measles,295
+COUNTRIES,AUS,Australia,2016,POLIO,Poliomyelitis,535
+COUNTRIES,AUS,Australia,2016,PERTUSSIS,Pertussis (Whooping cough),381
+COUNTRIES,AUS,Australia,2016,DIPHTHERIA,Diphtheria,359
+COUNTRIES,AUS,Australia,2016,TB,Tuberculosis,900
+COUNTRIES,AUS,Australia,2016,HEPB,Hepatitis B,631
+COUNTRIES,AUS,Australia,2017,MEASLES,Measles,1026
+COUNTRIES,AUS,Australia,2017,POLIO,Poliomyelitis,114
+COUNTRIES,AUS,Australia,2017,PERTUSSIS,Pertussis (Whooping cough),702
+COUNTRIES,AUS,Australia,2017,DIPHTHERIA,Diphtheria,558
+COUNTRIES,AUS,Australia,2017,TB,Tuberculosis,1059
+COUNTRIES,AUS,Australia,2017,HEPB,Hepatitis B,755
+COUNTRIES,AUS,Australia,2018,MEASLES,Measles,443
+COUNTRIES,AUS,Australia,2018,POLIO,Poliomyelitis,409
+COUNTRIES,AUS,Australia,2018,PERTUSSIS,Pertussis (Whooping cough),1942
+COUNTRIES,AUS,Australia,2018,DIPHTHERIA,Diphtheria,357
+COUNTRIES,AUS,Australia,2018,TB,Tuberculosis,151
+COUNTRIES,AUS,Australia,2018,HEPB,Hepatitis B,983
+COUNTRIES,AUS,Australia,2019,MEASLES,Measles,492
+COUNTRIES,AUS,Australia,2019,POLIO,Poliomyelitis,1496
+COUNTRIES,AUS,Australia,2019,PERTUSSIS,Pertussis (Whooping cough),337
+COUNTRIES,AUS,Australia,2019,DIPHTHERIA,Diphtheria,135
+COUNTRIES,AUS,Australia,2019,TB,Tuberculosis,411
+COUNTRIES,AUS,Australia,2019,HEPB,Hepatitis B,522
+COUNTRIES,AUS,Australia,2020,MEASLES,Measles,587
+COUNTRIES,AUS,Australia,2020,POLIO,Poliomyelitis,497
+COUNTRIES,AUS,Australia,2020,PERTUSSIS,Pertussis (Whooping cough),912
+COUNTRIES,AUS,Australia,2020,DIPHTHERIA,Diphtheria,844
+COUNTRIES,AUS,Australia,2020,TB,Tuberculosis,486
+COUNTRIES,AUS,Australia,2020,HEPB,Hepatitis B,1082
+COUNTRIES,AUS,Australia,2021,MEASLES,Measles,702
+COUNTRIES,AUS,Australia,2021,POLIO,Poliomyelitis,405
+COUNTRIES,AUS,Australia,2021,PERTUSSIS,Pertussis (Whooping cough),609
+COUNTRIES,AUS,Australia,2021,DIPHTHERIA,Diphtheria,936
+COUNTRIES,AUS,Australia,2021,TB,Tuberculosis,519
+COUNTRIES,AUS,Australia,2021,HEPB,Hepatitis B,1682
+COUNTRIES,AUS,Australia,2022,MEASLES,Measles,147
+COUNTRIES,AUS,Australia,2022,POLIO,Poliomyelitis,1413
+COUNTRIES,AUS,Australia,2022,PERTUSSIS,Pertussis (Whooping cough),1385
+COUNTRIES,AUS,Australia,2022,DIPHTHERIA,Diphtheria,252
+COUNTRIES,AUS,Australia,2022,TB,Tuberculosis,106
+COUNTRIES,AUS,Australia,2022,HEPB,Hepatitis B,225
+COUNTRIES,AUS,Australia,2023,MEASLES,Measles,1096
+COUNTRIES,AUS,Australia,2023,POLIO,Poliomyelitis,265
+COUNTRIES,AUS,Australia,2023,PERTUSSIS,Pertussis (Whooping cough),1410
+COUNTRIES,AUS,Australia,2023,DIPHTHERIA,Diphtheria,1789
+COUNTRIES,AUS,Australia,2023,TB,Tuberculosis,243
+COUNTRIES,AUS,Australia,2023,HEPB,Hepatitis B,673

@@ -1,0 +1,936 @@
+ISO_3_Code,Country_Name,Who_Region,Year,Vaccine_code,Vaccine_description,Schedule_rounds,Target_pop,Target_pop_description,Geoarea,Age_administered,Source_comment
+IND,India,SEARO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+IND,India,SEARO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),2,INFANT,Infants under 1 year,NATIONAL,16 months,Reported via national immunization program
+IND,India,SEARO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,0 months,
+IND,India,SEARO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,
+IND,India,SEARO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,13 months,Reported via national immunization program
+IND,India,SEARO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+IND,India,SEARO,2018,MCV1,Measles-containing vaccine - 1st dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,
+IND,India,SEARO,2018,MCV1,Measles-containing vaccine - 1st dose,2,INFANT,Infants under 1 year,NATIONAL,5 months,Reported via national immunization program
+IND,India,SEARO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),1,CHILD,Children 1-5 years,NATIONAL,7 months,
+IND,India,SEARO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),2,PREGNANT,Pregnant women,NATIONAL,N/A,
+IND,India,SEARO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),3,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+IND,India,SEARO,2018,POL3,Polio - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+IND,India,SEARO,2018,HEPB3,Hepatitis B - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,10 months,Reported via national immunization program
+IND,India,SEARO,2018,HEPB3,Hepatitis B - 3rd dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+IND,India,SEARO,2018,HEPB3,Hepatitis B - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,14 months,
+IND,India,SEARO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+IND,India,SEARO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+IND,India,SEARO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+IND,India,SEARO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,INFANT,Infants under 1 year,NATIONAL,16 months,Reported via national immunization program
+IND,India,SEARO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,
+IND,India,SEARO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,ELDERLY,Adults 65+,NATIONAL,N/A,
+IND,India,SEARO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,1 months,
+IND,India,SEARO,2020,MCV1,Measles-containing vaccine - 1st dose,1,INFANT,Infants under 1 year,NATIONAL,16 months,Reported via national immunization program
+IND,India,SEARO,2020,MCV1,Measles-containing vaccine - 1st dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+IND,India,SEARO,2020,MCV1,Measles-containing vaccine - 1st dose,3,CHILD,Children 1-5 years,NATIONAL,11 months,Reported via national immunization program
+IND,India,SEARO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+IND,India,SEARO,2020,POL3,Polio - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+IND,India,SEARO,2020,POL3,Polio - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,14 months,Reported via national immunization program
+IND,India,SEARO,2020,POL3,Polio - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,3 months,
+IND,India,SEARO,2020,HEPB3,Hepatitis B - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+IND,India,SEARO,2020,HEPB3,Hepatitis B - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,
+IND,India,SEARO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,5 months,Reported via national immunization program
+IND,India,SEARO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),1,CHILD,Children 1-5 years,NATIONAL,15 months,Reported via national immunization program
+IND,India,SEARO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),2,CHILD,Children 1-5 years,NATIONAL,5 months,Reported via national immunization program
+IND,India,SEARO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+IND,India,SEARO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,
+IND,India,SEARO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+IND,India,SEARO,2022,MCV1,Measles-containing vaccine - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+IND,India,SEARO,2022,MCV1,Measles-containing vaccine - 1st dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+IND,India,SEARO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),1,INFANT,Infants under 1 year,NATIONAL,14 months,Reported via national immunization program
+IND,India,SEARO,2022,POL3,Polio - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,6 months,
+IND,India,SEARO,2022,HEPB3,Hepatitis B - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+IND,India,SEARO,2022,HEPB3,Hepatitis B - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,4 months,
+IND,India,SEARO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+IND,India,SEARO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+IND,India,SEARO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+IND,India,SEARO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+IND,India,SEARO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),3,PREGNANT,Pregnant women,NATIONAL,N/A,
+IND,India,SEARO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,
+IND,India,SEARO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+IND,India,SEARO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,
+IND,India,SEARO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,3 months,Reported via national immunization program
+IND,India,SEARO,2023,MCV1,Measles-containing vaccine - 1st dose,1,INFANT,Infants under 1 year,NATIONAL,12 months,
+IND,India,SEARO,2023,MCV1,Measles-containing vaccine - 1st dose,2,INFANT,Infants under 1 year,NATIONAL,8 months,
+IND,India,SEARO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),1,PREGNANT,Pregnant women,NATIONAL,N/A,
+IND,India,SEARO,2023,POL3,Polio - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,16 months,
+IND,India,SEARO,2023,POL3,Polio - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+IND,India,SEARO,2023,HEPB3,Hepatitis B - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,11 months,
+IND,India,SEARO,2023,HEPB3,Hepatitis B - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,1 months,Reported via national immunization program
+IND,India,SEARO,2023,HEPB3,Hepatitis B - 3rd dose,3,ELDERLY,Adults 65+,NATIONAL,N/A,
+IND,India,SEARO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+USA,United States of America,AMRO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+USA,United States of America,AMRO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),2,INFANT,Infants under 1 year,NATIONAL,9 months,Reported via national immunization program
+USA,United States of America,AMRO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),3,INFANT,Infants under 1 year,NATIONAL,6 months,Reported via national immunization program
+USA,United States of America,AMRO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+USA,United States of America,AMRO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+USA,United States of America,AMRO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+USA,United States of America,AMRO,2018,MCV1,Measles-containing vaccine - 1st dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+USA,United States of America,AMRO,2018,MCV1,Measles-containing vaccine - 1st dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+USA,United States of America,AMRO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),1,CHILD,Children 1-5 years,NATIONAL,15 months,Reported via national immunization program
+USA,United States of America,AMRO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),2,CHILD,Children 1-5 years,NATIONAL,12 months,Reported via national immunization program
+USA,United States of America,AMRO,2018,POL3,Polio - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,1 months,Reported via national immunization program
+USA,United States of America,AMRO,2018,HEPB3,Hepatitis B - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+USA,United States of America,AMRO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,0 months,
+USA,United States of America,AMRO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),1,INFANT,Infants under 1 year,NATIONAL,15 months,
+USA,United States of America,AMRO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),2,INFANT,Infants under 1 year,NATIONAL,7 months,Reported via national immunization program
+USA,United States of America,AMRO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),3,INFANT,Infants under 1 year,NATIONAL,6 months,Reported via national immunization program
+USA,United States of America,AMRO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,14 months,
+USA,United States of America,AMRO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,14 months,Reported via national immunization program
+USA,United States of America,AMRO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,8 months,
+USA,United States of America,AMRO,2020,MCV1,Measles-containing vaccine - 1st dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+USA,United States of America,AMRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),1,CHILD,Children 1-5 years,NATIONAL,5 months,
+USA,United States of America,AMRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),2,PREGNANT,Pregnant women,NATIONAL,N/A,
+USA,United States of America,AMRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),3,INFANT,Infants under 1 year,NATIONAL,13 months,
+USA,United States of America,AMRO,2020,POL3,Polio - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,12 months,Reported via national immunization program
+USA,United States of America,AMRO,2020,POL3,Polio - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,
+USA,United States of America,AMRO,2020,POL3,Polio - 3rd dose,3,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+USA,United States of America,AMRO,2020,HEPB3,Hepatitis B - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,10 months,Reported via national immunization program
+USA,United States of America,AMRO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+USA,United States of America,AMRO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,17 months,Reported via national immunization program
+USA,United States of America,AMRO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),1,INFANT,Infants under 1 year,NATIONAL,14 months,
+USA,United States of America,AMRO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),2,CHILD,Children 1-5 years,NATIONAL,15 months,Reported via national immunization program
+USA,United States of America,AMRO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,INFANT,Infants under 1 year,NATIONAL,6 months,
+USA,United States of America,AMRO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,INFANT,Infants under 1 year,NATIONAL,9 months,Reported via national immunization program
+USA,United States of America,AMRO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,3 months,Reported via national immunization program
+USA,United States of America,AMRO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+USA,United States of America,AMRO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,11 months,Reported via national immunization program
+USA,United States of America,AMRO,2022,MCV1,Measles-containing vaccine - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,9 months,
+USA,United States of America,AMRO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+USA,United States of America,AMRO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+USA,United States of America,AMRO,2022,POL3,Polio - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+USA,United States of America,AMRO,2022,POL3,Polio - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,2 months,Reported via national immunization program
+USA,United States of America,AMRO,2022,HEPB3,Hepatitis B - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,7 months,
+USA,United States of America,AMRO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,14 months,Reported via national immunization program
+USA,United States of America,AMRO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+USA,United States of America,AMRO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,5 months,
+USA,United States of America,AMRO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),1,INFANT,Infants under 1 year,NATIONAL,15 months,Reported via national immunization program
+USA,United States of America,AMRO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+USA,United States of America,AMRO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+USA,United States of America,AMRO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+USA,United States of America,AMRO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,
+USA,United States of America,AMRO,2023,MCV1,Measles-containing vaccine - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,15 months,Reported via national immunization program
+USA,United States of America,AMRO,2023,MCV1,Measles-containing vaccine - 1st dose,2,INFANT,Infants under 1 year,NATIONAL,9 months,Reported via national immunization program
+USA,United States of America,AMRO,2023,MCV1,Measles-containing vaccine - 1st dose,3,INFANT,Infants under 1 year,NATIONAL,15 months,Reported via national immunization program
+USA,United States of America,AMRO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+USA,United States of America,AMRO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),2,INFANT,Infants under 1 year,NATIONAL,17 months,Reported via national immunization program
+USA,United States of America,AMRO,2023,POL3,Polio - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,8 months,Reported via national immunization program
+USA,United States of America,AMRO,2023,POL3,Polio - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,16 months,
+USA,United States of America,AMRO,2023,POL3,Polio - 3rd dose,3,ELDERLY,Adults 65+,NATIONAL,N/A,
+USA,United States of America,AMRO,2023,HEPB3,Hepatitis B - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,
+USA,United States of America,AMRO,2023,HEPB3,Hepatitis B - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,
+USA,United States of America,AMRO,2023,HEPB3,Hepatitis B - 3rd dose,3,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+USA,United States of America,AMRO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,17 months,
+NGA,Nigeria,AFRO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),1,CHILD,Children 1-5 years,NATIONAL,4 months,
+NGA,Nigeria,AFRO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,14 months,
+NGA,Nigeria,AFRO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2018,MCV1,Measles-containing vaccine - 1st dose,1,INFANT,Infants under 1 year,NATIONAL,7 months,Reported via national immunization program
+NGA,Nigeria,AFRO,2018,MCV1,Measles-containing vaccine - 1st dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2018,MCV1,Measles-containing vaccine - 1st dose,3,CHILD,Children 1-5 years,NATIONAL,12 months,
+NGA,Nigeria,AFRO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),1,INFANT,Infants under 1 year,NATIONAL,4 months,Reported via national immunization program
+NGA,Nigeria,AFRO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2018,POL3,Polio - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2018,POL3,Polio - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,2 months,Reported via national immunization program
+NGA,Nigeria,AFRO,2018,POL3,Polio - 3rd dose,3,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2018,HEPB3,Hepatitis B - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,1 months,Reported via national immunization program
+NGA,Nigeria,AFRO,2018,HEPB3,Hepatitis B - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,12 months,Reported via national immunization program
+NGA,Nigeria,AFRO,2018,HEPB3,Hepatitis B - 3rd dose,3,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,17 months,Reported via national immunization program
+NGA,Nigeria,AFRO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,6 months,Reported via national immunization program
+NGA,Nigeria,AFRO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),1,CHILD,Children 1-5 years,NATIONAL,11 months,Reported via national immunization program
+NGA,Nigeria,AFRO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,CHILD,Children 1-5 years,NATIONAL,14 months,Reported via national immunization program
+NGA,Nigeria,AFRO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,CHILD,Children 1-5 years,NATIONAL,9 months,
+NGA,Nigeria,AFRO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2020,MCV1,Measles-containing vaccine - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2020,POL3,Polio - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,
+NGA,Nigeria,AFRO,2020,POL3,Polio - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,
+NGA,Nigeria,AFRO,2020,POL3,Polio - 3rd dose,3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+NGA,Nigeria,AFRO,2020,HEPB3,Hepatitis B - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,
+NGA,Nigeria,AFRO,2020,HEPB3,Hepatitis B - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2020,HEPB3,Hepatitis B - 3rd dose,3,ELDERLY,Adults 65+,NATIONAL,N/A,
+NGA,Nigeria,AFRO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,11 months,Reported via national immunization program
+NGA,Nigeria,AFRO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,3,ELDERLY,Adults 65+,NATIONAL,N/A,
+NGA,Nigeria,AFRO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),2,INFANT,Infants under 1 year,NATIONAL,8 months,Reported via national immunization program
+NGA,Nigeria,AFRO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),3,INFANT,Infants under 1 year,NATIONAL,5 months,Reported via national immunization program
+NGA,Nigeria,AFRO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,
+NGA,Nigeria,AFRO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2022,MCV1,Measles-containing vaccine - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,1 months,Reported via national immunization program
+NGA,Nigeria,AFRO,2022,MCV1,Measles-containing vaccine - 1st dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,
+NGA,Nigeria,AFRO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2022,POL3,Polio - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,8 months,
+NGA,Nigeria,AFRO,2022,POL3,Polio - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,
+NGA,Nigeria,AFRO,2022,POL3,Polio - 3rd dose,3,INFANT,Infants under 1 year,NATIONAL,4 months,Reported via national immunization program
+NGA,Nigeria,AFRO,2022,HEPB3,Hepatitis B - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,1 months,Reported via national immunization program
+NGA,Nigeria,AFRO,2022,HEPB3,Hepatitis B - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,0 months,
+NGA,Nigeria,AFRO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,4 months,Reported via national immunization program
+NGA,Nigeria,AFRO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),2,INFANT,Infants under 1 year,NATIONAL,9 months,
+NGA,Nigeria,AFRO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,INFANT,Infants under 1 year,NATIONAL,3 months,Reported via national immunization program
+NGA,Nigeria,AFRO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,
+NGA,Nigeria,AFRO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,CHILD,Children 1-5 years,NATIONAL,10 months,Reported via national immunization program
+NGA,Nigeria,AFRO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,
+NGA,Nigeria,AFRO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,3,INFANT,Infants under 1 year,NATIONAL,9 months,Reported via national immunization program
+NGA,Nigeria,AFRO,2023,MCV1,Measles-containing vaccine - 1st dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),1,CHILD,Children 1-5 years,NATIONAL,13 months,Reported via national immunization program
+NGA,Nigeria,AFRO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2023,POL3,Polio - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+NGA,Nigeria,AFRO,2023,HEPB3,Hepatitis B - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,
+NGA,Nigeria,AFRO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,5 months,Reported via national immunization program
+BRA,Brazil,AMRO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,INFANT,Infants under 1 year,NATIONAL,1 months,
+BRA,Brazil,AMRO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,INFANT,Infants under 1 year,NATIONAL,2 months,Reported via national immunization program
+BRA,Brazil,AMRO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,INFANT,Infants under 1 year,NATIONAL,2 months,
+BRA,Brazil,AMRO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2018,MCV1,Measles-containing vaccine - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,7 months,Reported via national immunization program
+BRA,Brazil,AMRO,2018,MCV1,Measles-containing vaccine - 1st dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),1,INFANT,Infants under 1 year,NATIONAL,1 months,
+BRA,Brazil,AMRO,2018,POL3,Polio - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,2 months,
+BRA,Brazil,AMRO,2018,POL3,Polio - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,11 months,
+BRA,Brazil,AMRO,2018,POL3,Polio - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,1 months,Reported via national immunization program
+BRA,Brazil,AMRO,2018,HEPB3,Hepatitis B - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,5 months,
+BRA,Brazil,AMRO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+BRA,Brazil,AMRO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,13 months,
+BRA,Brazil,AMRO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+BRA,Brazil,AMRO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,4 months,Reported via national immunization program
+BRA,Brazil,AMRO,2020,MCV1,Measles-containing vaccine - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),1,INFANT,Infants under 1 year,NATIONAL,1 months,Reported via national immunization program
+BRA,Brazil,AMRO,2020,POL3,Polio - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,3 months,Reported via national immunization program
+BRA,Brazil,AMRO,2020,HEPB3,Hepatitis B - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,15 months,Reported via national immunization program
+BRA,Brazil,AMRO,2020,HEPB3,Hepatitis B - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2020,HEPB3,Hepatitis B - 3rd dose,3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+BRA,Brazil,AMRO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,INFANT,Infants under 1 year,NATIONAL,14 months,Reported via national immunization program
+BRA,Brazil,AMRO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,6 months,Reported via national immunization program
+BRA,Brazil,AMRO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2022,MCV1,Measles-containing vaccine - 1st dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2022,MCV1,Measles-containing vaccine - 1st dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),3,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2022,POL3,Polio - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2022,HEPB3,Hepatitis B - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+BRA,Brazil,AMRO,2022,HEPB3,Hepatitis B - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,
+BRA,Brazil,AMRO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+BRA,Brazil,AMRO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),2,INFANT,Infants under 1 year,NATIONAL,7 months,Reported via national immunization program
+BRA,Brazil,AMRO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+BRA,Brazil,AMRO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,5 months,Reported via national immunization program
+BRA,Brazil,AMRO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2023,MCV1,Measles-containing vaccine - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,15 months,Reported via national immunization program
+BRA,Brazil,AMRO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2023,POL3,Polio - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2023,POL3,Polio - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2023,POL3,Polio - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,10 months,
+BRA,Brazil,AMRO,2023,HEPB3,Hepatitis B - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,10 months,Reported via national immunization program
+BRA,Brazil,AMRO,2023,HEPB3,Hepatitis B - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,17 months,Reported via national immunization program
+BRA,Brazil,AMRO,2023,HEPB3,Hepatitis B - 3rd dose,3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+BRA,Brazil,AMRO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+PAK,Pakistan,EMRO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),2,CHILD,Children 1-5 years,NATIONAL,5 months,Reported via national immunization program
+PAK,Pakistan,EMRO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),3,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,5 months,
+PAK,Pakistan,EMRO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,CHILD,Children 1-5 years,NATIONAL,0 months,Reported via national immunization program
+PAK,Pakistan,EMRO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,5 months,Reported via national immunization program
+PAK,Pakistan,EMRO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2018,MCV1,Measles-containing vaccine - 1st dose,1,INFANT,Infants under 1 year,NATIONAL,0 months,Reported via national immunization program
+PAK,Pakistan,EMRO,2018,MCV1,Measles-containing vaccine - 1st dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+PAK,Pakistan,EMRO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),1,INFANT,Infants under 1 year,NATIONAL,8 months,Reported via national immunization program
+PAK,Pakistan,EMRO,2018,POL3,Polio - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,17 months,
+PAK,Pakistan,EMRO,2018,HEPB3,Hepatitis B - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2018,HEPB3,Hepatitis B - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,12 months,Reported via national immunization program
+PAK,Pakistan,EMRO,2018,HEPB3,Hepatitis B - 3rd dose,3,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+PAK,Pakistan,EMRO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,17 months,Reported via national immunization program
+PAK,Pakistan,EMRO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),1,CHILD,Children 1-5 years,NATIONAL,0 months,
+PAK,Pakistan,EMRO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),3,INFANT,Infants under 1 year,NATIONAL,6 months,Reported via national immunization program
+PAK,Pakistan,EMRO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+PAK,Pakistan,EMRO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,
+PAK,Pakistan,EMRO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2020,MCV1,Measles-containing vaccine - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,13 months,Reported via national immunization program
+PAK,Pakistan,EMRO,2020,MCV1,Measles-containing vaccine - 1st dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),1,INFANT,Infants under 1 year,NATIONAL,9 months,Reported via national immunization program
+PAK,Pakistan,EMRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),3,INFANT,Infants under 1 year,NATIONAL,0 months,Reported via national immunization program
+PAK,Pakistan,EMRO,2020,POL3,Polio - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+PAK,Pakistan,EMRO,2020,POL3,Polio - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2020,POL3,Polio - 3rd dose,3,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2020,HEPB3,Hepatitis B - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,4 months,Reported via national immunization program
+PAK,Pakistan,EMRO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+PAK,Pakistan,EMRO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,
+PAK,Pakistan,EMRO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),1,INFANT,Infants under 1 year,NATIONAL,10 months,Reported via national immunization program
+PAK,Pakistan,EMRO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,15 months,Reported via national immunization program
+PAK,Pakistan,EMRO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2022,MCV1,Measles-containing vaccine - 1st dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+PAK,Pakistan,EMRO,2022,MCV1,Measles-containing vaccine - 1st dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2022,MCV1,Measles-containing vaccine - 1st dose,3,INFANT,Infants under 1 year,NATIONAL,6 months,
+PAK,Pakistan,EMRO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2022,POL3,Polio - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,9 months,
+PAK,Pakistan,EMRO,2022,POL3,Polio - 3rd dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+PAK,Pakistan,EMRO,2022,POL3,Polio - 3rd dose,3,INFANT,Infants under 1 year,NATIONAL,2 months,Reported via national immunization program
+PAK,Pakistan,EMRO,2022,HEPB3,Hepatitis B - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,12 months,
+PAK,Pakistan,EMRO,2022,HEPB3,Hepatitis B - 3rd dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2022,HEPB3,Hepatitis B - 3rd dose,3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,
+PAK,Pakistan,EMRO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2023,MCV1,Measles-containing vaccine - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2023,MCV1,Measles-containing vaccine - 1st dose,2,CHILD,Children 1-5 years,NATIONAL,11 months,Reported via national immunization program
+PAK,Pakistan,EMRO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),2,PREGNANT,Pregnant women,NATIONAL,N/A,
+PAK,Pakistan,EMRO,2023,POL3,Polio - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2023,HEPB3,Hepatitis B - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2023,HEPB3,Hepatitis B - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+PAK,Pakistan,EMRO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,0 months,Reported via national immunization program
+PAK,Pakistan,EMRO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,1 months,Reported via national immunization program
+ETH,Ethiopia,AFRO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),1,PREGNANT,Pregnant women,NATIONAL,N/A,
+ETH,Ethiopia,AFRO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),2,CHILD,Children 1-5 years,NATIONAL,10 months,Reported via national immunization program
+ETH,Ethiopia,AFRO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2018,MCV1,Measles-containing vaccine - 1st dose,1,INFANT,Infants under 1 year,NATIONAL,9 months,Reported via national immunization program
+ETH,Ethiopia,AFRO,2018,MCV1,Measles-containing vaccine - 1st dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2018,MCV1,Measles-containing vaccine - 1st dose,3,CHILD,Children 1-5 years,NATIONAL,5 months,Reported via national immunization program
+ETH,Ethiopia,AFRO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2018,POL3,Polio - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2018,POL3,Polio - 3rd dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2018,HEPB3,Hepatitis B - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2018,HEPB3,Hepatitis B - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2018,HEPB3,Hepatitis B - 3rd dose,3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+ETH,Ethiopia,AFRO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,7 months,Reported via national immunization program
+ETH,Ethiopia,AFRO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),2,INFANT,Infants under 1 year,NATIONAL,15 months,Reported via national immunization program
+ETH,Ethiopia,AFRO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,ELDERLY,Adults 65+,NATIONAL,N/A,
+ETH,Ethiopia,AFRO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,6 months,
+ETH,Ethiopia,AFRO,2020,MCV1,Measles-containing vaccine - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,16 months,
+ETH,Ethiopia,AFRO,2020,MCV1,Measles-containing vaccine - 1st dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2020,MCV1,Measles-containing vaccine - 1st dose,3,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+ETH,Ethiopia,AFRO,2020,POL3,Polio - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,14 months,Reported via national immunization program
+ETH,Ethiopia,AFRO,2020,POL3,Polio - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,5 months,
+ETH,Ethiopia,AFRO,2020,POL3,Polio - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,7 months,
+ETH,Ethiopia,AFRO,2020,HEPB3,Hepatitis B - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,
+ETH,Ethiopia,AFRO,2020,HEPB3,Hepatitis B - 3rd dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2020,HEPB3,Hepatitis B - 3rd dose,3,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+ETH,Ethiopia,AFRO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,14 months,Reported via national immunization program
+ETH,Ethiopia,AFRO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,17 months,Reported via national immunization program
+ETH,Ethiopia,AFRO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),1,INFANT,Infants under 1 year,NATIONAL,2 months,Reported via national immunization program
+ETH,Ethiopia,AFRO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),2,ELDERLY,Adults 65+,NATIONAL,N/A,
+ETH,Ethiopia,AFRO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,
+ETH,Ethiopia,AFRO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2022,MCV1,Measles-containing vaccine - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,13 months,
+ETH,Ethiopia,AFRO,2022,MCV1,Measles-containing vaccine - 1st dose,2,CHILD,Children 1-5 years,NATIONAL,14 months,
+ETH,Ethiopia,AFRO,2022,MCV1,Measles-containing vaccine - 1st dose,3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2022,POL3,Polio - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,
+ETH,Ethiopia,AFRO,2022,HEPB3,Hepatitis B - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,15 months,Reported via national immunization program
+ETH,Ethiopia,AFRO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,3,INFANT,Infants under 1 year,NATIONAL,16 months,Reported via national immunization program
+ETH,Ethiopia,AFRO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,
+ETH,Ethiopia,AFRO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,CHILD,Children 1-5 years,NATIONAL,8 months,Reported via national immunization program
+ETH,Ethiopia,AFRO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,CHILD,Children 1-5 years,NATIONAL,13 months,
+ETH,Ethiopia,AFRO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,12 months,Reported via national immunization program
+ETH,Ethiopia,AFRO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,10 months,Reported via national immunization program
+ETH,Ethiopia,AFRO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,9 months,Reported via national immunization program
+ETH,Ethiopia,AFRO,2023,MCV1,Measles-containing vaccine - 1st dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2023,MCV1,Measles-containing vaccine - 1st dose,2,INFANT,Infants under 1 year,NATIONAL,7 months,Reported via national immunization program
+ETH,Ethiopia,AFRO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),1,CHILD,Children 1-5 years,NATIONAL,15 months,Reported via national immunization program
+ETH,Ethiopia,AFRO,2023,POL3,Polio - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2023,POL3,Polio - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2023,HEPB3,Hepatitis B - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+ETH,Ethiopia,AFRO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),2,ELDERLY,Adults 65+,NATIONAL,N/A,
+BGD,Bangladesh,SEARO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),3,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,INFANT,Infants under 1 year,NATIONAL,0 months,Reported via national immunization program
+BGD,Bangladesh,SEARO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,CHILD,Children 1-5 years,NATIONAL,15 months,Reported via national immunization program
+BGD,Bangladesh,SEARO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,1 months,Reported via national immunization program
+BGD,Bangladesh,SEARO,2018,MCV1,Measles-containing vaccine - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,4 months,
+BGD,Bangladesh,SEARO,2018,MCV1,Measles-containing vaccine - 1st dose,2,INFANT,Infants under 1 year,NATIONAL,6 months,
+BGD,Bangladesh,SEARO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),1,CHILD,Children 1-5 years,NATIONAL,13 months,Reported via national immunization program
+BGD,Bangladesh,SEARO,2018,POL3,Polio - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2018,POL3,Polio - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,17 months,Reported via national immunization program
+BGD,Bangladesh,SEARO,2018,HEPB3,Hepatitis B - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+BGD,Bangladesh,SEARO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,12 months,Reported via national immunization program
+BGD,Bangladesh,SEARO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,12 months,Reported via national immunization program
+BGD,Bangladesh,SEARO,2020,MCV1,Measles-containing vaccine - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2020,MCV1,Measles-containing vaccine - 1st dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,
+BGD,Bangladesh,SEARO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),1,INFANT,Infants under 1 year,NATIONAL,6 months,
+BGD,Bangladesh,SEARO,2020,POL3,Polio - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,8 months,Reported via national immunization program
+BGD,Bangladesh,SEARO,2020,POL3,Polio - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,16 months,Reported via national immunization program
+BGD,Bangladesh,SEARO,2020,HEPB3,Hepatitis B - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,11 months,Reported via national immunization program
+BGD,Bangladesh,SEARO,2020,HEPB3,Hepatitis B - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,0 months,Reported via national immunization program
+BGD,Bangladesh,SEARO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+BGD,Bangladesh,SEARO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),2,CHILD,Children 1-5 years,NATIONAL,10 months,Reported via national immunization program
+BGD,Bangladesh,SEARO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,INFANT,Infants under 1 year,NATIONAL,5 months,Reported via national immunization program
+BGD,Bangladesh,SEARO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,CHILD,Children 1-5 years,NATIONAL,2 months,Reported via national immunization program
+BGD,Bangladesh,SEARO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,7 months,Reported via national immunization program
+BGD,Bangladesh,SEARO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,1 months,Reported via national immunization program
+BGD,Bangladesh,SEARO,2022,MCV1,Measles-containing vaccine - 1st dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),1,CHILD,Children 1-5 years,NATIONAL,4 months,Reported via national immunization program
+BGD,Bangladesh,SEARO,2022,POL3,Polio - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,4 months,Reported via national immunization program
+BGD,Bangladesh,SEARO,2022,HEPB3,Hepatitis B - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,11 months,Reported via national immunization program
+BGD,Bangladesh,SEARO,2022,HEPB3,Hepatitis B - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,16 months,
+BGD,Bangladesh,SEARO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),2,CHILD,Children 1-5 years,NATIONAL,15 months,Reported via national immunization program
+BGD,Bangladesh,SEARO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,4 months,Reported via national immunization program
+BGD,Bangladesh,SEARO,2023,MCV1,Measles-containing vaccine - 1st dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+BGD,Bangladesh,SEARO,2023,MCV1,Measles-containing vaccine - 1st dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2023,POL3,Polio - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2023,HEPB3,Hepatitis B - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,
+BGD,Bangladesh,SEARO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+BGD,Bangladesh,SEARO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,INFANT,Infants under 1 year,NATIONAL,8 months,Reported via national immunization program
+GBR,United Kingdom,EURO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2018,MCV1,Measles-containing vaccine - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),1,CHILD,Children 1-5 years,NATIONAL,9 months,Reported via national immunization program
+GBR,United Kingdom,EURO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),2,CHILD,Children 1-5 years,NATIONAL,15 months,
+GBR,United Kingdom,EURO,2018,POL3,Polio - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2018,POL3,Polio - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2018,POL3,Polio - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,15 months,Reported via national immunization program
+GBR,United Kingdom,EURO,2018,HEPB3,Hepatitis B - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,
+GBR,United Kingdom,EURO,2018,HEPB3,Hepatitis B - 3rd dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,9 months,Reported via national immunization program
+GBR,United Kingdom,EURO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),1,CHILD,Children 1-5 years,NATIONAL,7 months,Reported via national immunization program
+GBR,United Kingdom,EURO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,
+GBR,United Kingdom,EURO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,INFANT,Infants under 1 year,NATIONAL,14 months,Reported via national immunization program
+GBR,United Kingdom,EURO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,13 months,
+GBR,United Kingdom,EURO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,5 months,Reported via national immunization program
+GBR,United Kingdom,EURO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,10 months,Reported via national immunization program
+GBR,United Kingdom,EURO,2020,MCV1,Measles-containing vaccine - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2020,MCV1,Measles-containing vaccine - 1st dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),1,INFANT,Infants under 1 year,NATIONAL,2 months,Reported via national immunization program
+GBR,United Kingdom,EURO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),2,INFANT,Infants under 1 year,NATIONAL,17 months,
+GBR,United Kingdom,EURO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),3,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2020,POL3,Polio - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,
+GBR,United Kingdom,EURO,2020,HEPB3,Hepatitis B - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2020,HEPB3,Hepatitis B - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,5 months,Reported via national immunization program
+GBR,United Kingdom,EURO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,11 months,Reported via national immunization program
+GBR,United Kingdom,EURO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),1,INFANT,Infants under 1 year,NATIONAL,6 months,Reported via national immunization program
+GBR,United Kingdom,EURO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),3,CHILD,Children 1-5 years,NATIONAL,17 months,Reported via national immunization program
+GBR,United Kingdom,EURO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,
+GBR,United Kingdom,EURO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,6 months,Reported via national immunization program
+GBR,United Kingdom,EURO,2022,MCV1,Measles-containing vaccine - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,7 months,
+GBR,United Kingdom,EURO,2022,MCV1,Measles-containing vaccine - 1st dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,
+GBR,United Kingdom,EURO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2022,POL3,Polio - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,
+GBR,United Kingdom,EURO,2022,POL3,Polio - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,3 months,Reported via national immunization program
+GBR,United Kingdom,EURO,2022,HEPB3,Hepatitis B - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,10 months,Reported via national immunization program
+GBR,United Kingdom,EURO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+GBR,United Kingdom,EURO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,17 months,
+GBR,United Kingdom,EURO,2023,MCV1,Measles-containing vaccine - 1st dose,1,INFANT,Infants under 1 year,NATIONAL,16 months,Reported via national immunization program
+GBR,United Kingdom,EURO,2023,MCV1,Measles-containing vaccine - 1st dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2023,MCV1,Measles-containing vaccine - 1st dose,3,INFANT,Infants under 1 year,NATIONAL,12 months,Reported via national immunization program
+GBR,United Kingdom,EURO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+GBR,United Kingdom,EURO,2023,POL3,Polio - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,7 months,Reported via national immunization program
+GBR,United Kingdom,EURO,2023,POL3,Polio - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2023,POL3,Polio - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,15 months,Reported via national immunization program
+GBR,United Kingdom,EURO,2023,HEPB3,Hepatitis B - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+GBR,United Kingdom,EURO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,17 months,Reported via national immunization program
+GBR,United Kingdom,EURO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,3,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),2,INFANT,Infants under 1 year,NATIONAL,12 months,Reported via national immunization program
+DEU,Germany,EURO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+DEU,Germany,EURO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,
+DEU,Germany,EURO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,8 months,Reported via national immunization program
+DEU,Germany,EURO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,7 months,Reported via national immunization program
+DEU,Germany,EURO,2018,MCV1,Measles-containing vaccine - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,10 months,Reported via national immunization program
+DEU,Germany,EURO,2018,MCV1,Measles-containing vaccine - 1st dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2018,MCV1,Measles-containing vaccine - 1st dose,3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+DEU,Germany,EURO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),1,CHILD,Children 1-5 years,NATIONAL,14 months,Reported via national immunization program
+DEU,Germany,EURO,2018,POL3,Polio - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2018,HEPB3,Hepatitis B - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,11 months,
+DEU,Germany,EURO,2018,HEPB3,Hepatitis B - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,16 months,Reported via national immunization program
+DEU,Germany,EURO,2018,HEPB3,Hepatitis B - 3rd dose,3,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),1,PREGNANT,Pregnant women,NATIONAL,N/A,
+DEU,Germany,EURO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),2,INFANT,Infants under 1 year,NATIONAL,4 months,Reported via national immunization program
+DEU,Germany,EURO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,
+DEU,Germany,EURO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,CHILD,Children 1-5 years,NATIONAL,12 months,Reported via national immunization program
+DEU,Germany,EURO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2020,MCV1,Measles-containing vaccine - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,6 months,Reported via national immunization program
+DEU,Germany,EURO,2020,MCV1,Measles-containing vaccine - 1st dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2020,MCV1,Measles-containing vaccine - 1st dose,3,PREGNANT,Pregnant women,NATIONAL,N/A,
+DEU,Germany,EURO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),1,ELDERLY,Adults 65+,NATIONAL,N/A,
+DEU,Germany,EURO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),3,CHILD,Children 1-5 years,NATIONAL,15 months,
+DEU,Germany,EURO,2020,POL3,Polio - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,
+DEU,Germany,EURO,2020,HEPB3,Hepatitis B - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,2 months,Reported via national immunization program
+DEU,Germany,EURO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,11 months,Reported via national immunization program
+DEU,Germany,EURO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,INFANT,Infants under 1 year,NATIONAL,16 months,Reported via national immunization program
+DEU,Germany,EURO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,ELDERLY,Adults 65+,NATIONAL,N/A,
+DEU,Germany,EURO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2022,MCV1,Measles-containing vaccine - 1st dose,1,INFANT,Infants under 1 year,NATIONAL,1 months,Reported via national immunization program
+DEU,Germany,EURO,2022,MCV1,Measles-containing vaccine - 1st dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,
+DEU,Germany,EURO,2022,MCV1,Measles-containing vaccine - 1st dose,3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+DEU,Germany,EURO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),1,CHILD,Children 1-5 years,NATIONAL,8 months,
+DEU,Germany,EURO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),3,INFANT,Infants under 1 year,NATIONAL,6 months,
+DEU,Germany,EURO,2022,POL3,Polio - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2022,POL3,Polio - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2022,HEPB3,Hepatitis B - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2022,HEPB3,Hepatitis B - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2022,HEPB3,Hepatitis B - 3rd dose,3,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,3 months,Reported via national immunization program
+DEU,Germany,EURO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,14 months,Reported via national immunization program
+DEU,Germany,EURO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),1,INFANT,Infants under 1 year,NATIONAL,16 months,Reported via national immunization program
+DEU,Germany,EURO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,
+DEU,Germany,EURO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,PREGNANT,Pregnant women,NATIONAL,N/A,
+DEU,Germany,EURO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2023,MCV1,Measles-containing vaccine - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2023,MCV1,Measles-containing vaccine - 1st dose,2,INFANT,Infants under 1 year,NATIONAL,12 months,Reported via national immunization program
+DEU,Germany,EURO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),2,ELDERLY,Adults 65+,NATIONAL,N/A,
+DEU,Germany,EURO,2023,POL3,Polio - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,
+DEU,Germany,EURO,2023,POL3,Polio - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2023,HEPB3,Hepatitis B - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,2 months,
+DEU,Germany,EURO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+DEU,Germany,EURO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,16 months,Reported via national immunization program
+DEU,Germany,EURO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,3,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,INFANT,Infants under 1 year,NATIONAL,6 months,
+CHN,China,WPRO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,INFANT,Infants under 1 year,NATIONAL,1 months,Reported via national immunization program
+CHN,China,WPRO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,17 months,Reported via national immunization program
+CHN,China,WPRO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,3,PREGNANT,Pregnant women,NATIONAL,N/A,
+CHN,China,WPRO,2018,MCV1,Measles-containing vaccine - 1st dose,1,INFANT,Infants under 1 year,NATIONAL,16 months,Reported via national immunization program
+CHN,China,WPRO,2018,MCV1,Measles-containing vaccine - 1st dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),2,CHILD,Children 1-5 years,NATIONAL,12 months,
+CHN,China,WPRO,2018,POL3,Polio - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2018,HEPB3,Hepatitis B - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2018,HEPB3,Hepatitis B - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,8 months,Reported via national immunization program
+CHN,China,WPRO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,14 months,Reported via national immunization program
+CHN,China,WPRO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,3,INFANT,Infants under 1 year,NATIONAL,16 months,Reported via national immunization program
+CHN,China,WPRO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),1,CHILD,Children 1-5 years,NATIONAL,3 months,Reported via national immunization program
+CHN,China,WPRO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),2,INFANT,Infants under 1 year,NATIONAL,2 months,
+CHN,China,WPRO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,11 months,Reported via national immunization program
+CHN,China,WPRO,2020,MCV1,Measles-containing vaccine - 1st dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2020,MCV1,Measles-containing vaccine - 1st dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2020,MCV1,Measles-containing vaccine - 1st dose,3,INFANT,Infants under 1 year,NATIONAL,7 months,
+CHN,China,WPRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),1,PREGNANT,Pregnant women,NATIONAL,N/A,
+CHN,China,WPRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),2,CHILD,Children 1-5 years,NATIONAL,16 months,Reported via national immunization program
+CHN,China,WPRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2020,POL3,Polio - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2020,POL3,Polio - 3rd dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2020,POL3,Polio - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,16 months,
+CHN,China,WPRO,2020,HEPB3,Hepatitis B - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2020,HEPB3,Hepatitis B - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,15 months,Reported via national immunization program
+CHN,China,WPRO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,
+CHN,China,WPRO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,7 months,Reported via national immunization program
+CHN,China,WPRO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,3,INFANT,Infants under 1 year,NATIONAL,1 months,Reported via national immunization program
+CHN,China,WPRO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+CHN,China,WPRO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),3,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,15 months,
+CHN,China,WPRO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,CHILD,Children 1-5 years,NATIONAL,9 months,Reported via national immunization program
+CHN,China,WPRO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,
+CHN,China,WPRO,2022,MCV1,Measles-containing vaccine - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),2,ELDERLY,Adults 65+,NATIONAL,N/A,
+CHN,China,WPRO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2022,POL3,Polio - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,4 months,Reported via national immunization program
+CHN,China,WPRO,2022,POL3,Polio - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,16 months,
+CHN,China,WPRO,2022,HEPB3,Hepatitis B - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2022,HEPB3,Hepatitis B - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,
+CHN,China,WPRO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,3,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),1,CHILD,Children 1-5 years,NATIONAL,17 months,Reported via national immunization program
+CHN,China,WPRO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),2,INFANT,Infants under 1 year,NATIONAL,11 months,Reported via national immunization program
+CHN,China,WPRO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,CHILD,Children 1-5 years,NATIONAL,11 months,
+CHN,China,WPRO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2023,MCV1,Measles-containing vaccine - 1st dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),1,INFANT,Infants under 1 year,NATIONAL,17 months,Reported via national immunization program
+CHN,China,WPRO,2023,POL3,Polio - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+CHN,China,WPRO,2023,POL3,Polio - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,3 months,
+CHN,China,WPRO,2023,HEPB3,Hepatitis B - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,4 months,Reported via national immunization program
+CHN,China,WPRO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,5 months,Reported via national immunization program
+ZAF,South Africa,AFRO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,17 months,Reported via national immunization program
+ZAF,South Africa,AFRO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,
+ZAF,South Africa,AFRO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,3,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2018,MCV1,Measles-containing vaccine - 1st dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+ZAF,South Africa,AFRO,2018,MCV1,Measles-containing vaccine - 1st dose,2,CHILD,Children 1-5 years,NATIONAL,1 months,
+ZAF,South Africa,AFRO,2018,MCV1,Measles-containing vaccine - 1st dose,3,ELDERLY,Adults 65+,NATIONAL,N/A,
+ZAF,South Africa,AFRO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),1,INFANT,Infants under 1 year,NATIONAL,7 months,Reported via national immunization program
+ZAF,South Africa,AFRO,2018,POL3,Polio - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2018,POL3,Polio - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2018,HEPB3,Hepatitis B - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,1 months,Reported via national immunization program
+ZAF,South Africa,AFRO,2020,MCV1,Measles-containing vaccine - 1st dose,1,INFANT,Infants under 1 year,NATIONAL,17 months,Reported via national immunization program
+ZAF,South Africa,AFRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),1,CHILD,Children 1-5 years,NATIONAL,3 months,Reported via national immunization program
+ZAF,South Africa,AFRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),2,CHILD,Children 1-5 years,NATIONAL,2 months,Reported via national immunization program
+ZAF,South Africa,AFRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),3,CHILD,Children 1-5 years,NATIONAL,15 months,
+ZAF,South Africa,AFRO,2020,POL3,Polio - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2020,HEPB3,Hepatitis B - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,5 months,Reported via national immunization program
+ZAF,South Africa,AFRO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),1,INFANT,Infants under 1 year,NATIONAL,5 months,Reported via national immunization program
+ZAF,South Africa,AFRO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,16 months,
+ZAF,South Africa,AFRO,2022,MCV1,Measles-containing vaccine - 1st dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,
+ZAF,South Africa,AFRO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),1,CHILD,Children 1-5 years,NATIONAL,10 months,Reported via national immunization program
+ZAF,South Africa,AFRO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),3,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2022,POL3,Polio - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,16 months,Reported via national immunization program
+ZAF,South Africa,AFRO,2022,POL3,Polio - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,
+ZAF,South Africa,AFRO,2022,POL3,Polio - 3rd dose,3,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2022,HEPB3,Hepatitis B - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2022,HEPB3,Hepatitis B - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,
+ZAF,South Africa,AFRO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+ZAF,South Africa,AFRO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2023,MCV1,Measles-containing vaccine - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,13 months,Reported via national immunization program
+ZAF,South Africa,AFRO,2023,MCV1,Measles-containing vaccine - 1st dose,2,INFANT,Infants under 1 year,NATIONAL,3 months,Reported via national immunization program
+ZAF,South Africa,AFRO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),2,PREGNANT,Pregnant women,NATIONAL,N/A,
+ZAF,South Africa,AFRO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+ZAF,South Africa,AFRO,2023,POL3,Polio - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2023,POL3,Polio - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2023,POL3,Polio - 3rd dose,3,INFANT,Infants under 1 year,NATIONAL,16 months,Reported via national immunization program
+ZAF,South Africa,AFRO,2023,HEPB3,Hepatitis B - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,5 months,Reported via national immunization program
+ZAF,South Africa,AFRO,2023,HEPB3,Hepatitis B - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2023,HEPB3,Hepatitis B - 3rd dose,3,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+ZAF,South Africa,AFRO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,
+ZAF,South Africa,AFRO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,16 months,
+MEX,Mexico,AMRO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,INFANT,Infants under 1 year,NATIONAL,15 months,
+MEX,Mexico,AMRO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,2 months,Reported via national immunization program
+MEX,Mexico,AMRO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2018,MCV1,Measles-containing vaccine - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),1,CHILD,Children 1-5 years,NATIONAL,8 months,Reported via national immunization program
+MEX,Mexico,AMRO,2018,POL3,Polio - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+MEX,Mexico,AMRO,2018,HEPB3,Hepatitis B - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+MEX,Mexico,AMRO,2018,HEPB3,Hepatitis B - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,
+MEX,Mexico,AMRO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,3 months,Reported via national immunization program
+MEX,Mexico,AMRO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,3,INFANT,Infants under 1 year,NATIONAL,5 months,Reported via national immunization program
+MEX,Mexico,AMRO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),1,CHILD,Children 1-5 years,NATIONAL,1 months,Reported via national immunization program
+MEX,Mexico,AMRO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+MEX,Mexico,AMRO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,15 months,Reported via national immunization program
+MEX,Mexico,AMRO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,1 months,Reported via national immunization program
+MEX,Mexico,AMRO,2020,MCV1,Measles-containing vaccine - 1st dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+MEX,Mexico,AMRO,2020,MCV1,Measles-containing vaccine - 1st dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2020,MCV1,Measles-containing vaccine - 1st dose,3,CHILD,Children 1-5 years,NATIONAL,3 months,Reported via national immunization program
+MEX,Mexico,AMRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),1,PREGNANT,Pregnant women,NATIONAL,N/A,
+MEX,Mexico,AMRO,2020,POL3,Polio - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2020,POL3,Polio - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,9 months,Reported via national immunization program
+MEX,Mexico,AMRO,2020,HEPB3,Hepatitis B - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,10 months,
+MEX,Mexico,AMRO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,5 months,
+MEX,Mexico,AMRO,2022,MCV1,Measles-containing vaccine - 1st dose,1,INFANT,Infants under 1 year,NATIONAL,11 months,
+MEX,Mexico,AMRO,2022,MCV1,Measles-containing vaccine - 1st dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2022,MCV1,Measles-containing vaccine - 1st dose,3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+MEX,Mexico,AMRO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),1,CHILD,Children 1-5 years,NATIONAL,9 months,
+MEX,Mexico,AMRO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),3,ELDERLY,Adults 65+,NATIONAL,N/A,
+MEX,Mexico,AMRO,2022,POL3,Polio - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2022,POL3,Polio - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,
+MEX,Mexico,AMRO,2022,HEPB3,Hepatitis B - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2022,HEPB3,Hepatitis B - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,13 months,
+MEX,Mexico,AMRO,2022,HEPB3,Hepatitis B - 3rd dose,3,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,12 months,
+MEX,Mexico,AMRO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,10 months,Reported via national immunization program
+MEX,Mexico,AMRO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,8 months,Reported via national immunization program
+MEX,Mexico,AMRO,2023,MCV1,Measles-containing vaccine - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,
+MEX,Mexico,AMRO,2023,MCV1,Measles-containing vaccine - 1st dose,2,INFANT,Infants under 1 year,NATIONAL,4 months,Reported via national immunization program
+MEX,Mexico,AMRO,2023,MCV1,Measles-containing vaccine - 1st dose,3,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+MEX,Mexico,AMRO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2023,POL3,Polio - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2023,HEPB3,Hepatitis B - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,10 months,
+MEX,Mexico,AMRO,2023,HEPB3,Hepatitis B - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+MEX,Mexico,AMRO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+IDN,Indonesia,SEARO,2018,MCV1,Measles-containing vaccine - 1st dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,
+IDN,Indonesia,SEARO,2018,MCV1,Measles-containing vaccine - 1st dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),1,CHILD,Children 1-5 years,NATIONAL,5 months,
+IDN,Indonesia,SEARO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2018,POL3,Polio - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2018,POL3,Polio - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,
+IDN,Indonesia,SEARO,2018,POL3,Polio - 3rd dose,3,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2018,HEPB3,Hepatitis B - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2018,HEPB3,Hepatitis B - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,8 months,Reported via national immunization program
+IDN,Indonesia,SEARO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,
+IDN,Indonesia,SEARO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,
+IDN,Indonesia,SEARO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,12 months,
+IDN,Indonesia,SEARO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,3,INFANT,Infants under 1 year,NATIONAL,1 months,Reported via national immunization program
+IDN,Indonesia,SEARO,2020,MCV1,Measles-containing vaccine - 1st dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),1,INFANT,Infants under 1 year,NATIONAL,14 months,
+IDN,Indonesia,SEARO,2020,POL3,Polio - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,
+IDN,Indonesia,SEARO,2020,POL3,Polio - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2020,HEPB3,Hepatitis B - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,3 months,Reported via national immunization program
+IDN,Indonesia,SEARO,2020,HEPB3,Hepatitis B - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,9 months,Reported via national immunization program
+IDN,Indonesia,SEARO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,9 months,Reported via national immunization program
+IDN,Indonesia,SEARO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,3,INFANT,Infants under 1 year,NATIONAL,10 months,Reported via national immunization program
+IDN,Indonesia,SEARO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),1,CHILD,Children 1-5 years,NATIONAL,8 months,Reported via national immunization program
+IDN,Indonesia,SEARO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),2,ELDERLY,Adults 65+,NATIONAL,N/A,
+IDN,Indonesia,SEARO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,7 months,Reported via national immunization program
+IDN,Indonesia,SEARO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,7 months,Reported via national immunization program
+IDN,Indonesia,SEARO,2022,MCV1,Measles-containing vaccine - 1st dose,1,INFANT,Infants under 1 year,NATIONAL,10 months,Reported via national immunization program
+IDN,Indonesia,SEARO,2022,MCV1,Measles-containing vaccine - 1st dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,
+IDN,Indonesia,SEARO,2022,MCV1,Measles-containing vaccine - 1st dose,3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+IDN,Indonesia,SEARO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),2,CHILD,Children 1-5 years,NATIONAL,11 months,
+IDN,Indonesia,SEARO,2022,POL3,Polio - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,13 months,Reported via national immunization program
+IDN,Indonesia,SEARO,2022,HEPB3,Hepatitis B - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,
+IDN,Indonesia,SEARO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ELDERLY,Adults 65+,NATIONAL,N/A,
+IDN,Indonesia,SEARO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,INFANT,Infants under 1 year,NATIONAL,3 months,
+IDN,Indonesia,SEARO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+IDN,Indonesia,SEARO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,12 months,Reported via national immunization program
+IDN,Indonesia,SEARO,2023,MCV1,Measles-containing vaccine - 1st dose,1,INFANT,Infants under 1 year,NATIONAL,10 months,
+IDN,Indonesia,SEARO,2023,MCV1,Measles-containing vaccine - 1st dose,2,INFANT,Infants under 1 year,NATIONAL,10 months,
+IDN,Indonesia,SEARO,2023,MCV1,Measles-containing vaccine - 1st dose,3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),1,CHILD,Children 1-5 years,NATIONAL,12 months,Reported via national immunization program
+IDN,Indonesia,SEARO,2023,POL3,Polio - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2023,POL3,Polio - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2023,HEPB3,Hepatitis B - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+IDN,Indonesia,SEARO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+IDN,Indonesia,SEARO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,
+EGY,Egypt,EMRO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),1,CHILD,Children 1-5 years,NATIONAL,13 months,
+EGY,Egypt,EMRO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),2,INFANT,Infants under 1 year,NATIONAL,1 months,Reported via national immunization program
+EGY,Egypt,EMRO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,14 months,Reported via national immunization program
+EGY,Egypt,EMRO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,6 months,Reported via national immunization program
+EGY,Egypt,EMRO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2018,MCV1,Measles-containing vaccine - 1st dose,1,INFANT,Infants under 1 year,NATIONAL,1 months,
+EGY,Egypt,EMRO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),1,CHILD,Children 1-5 years,NATIONAL,10 months,Reported via national immunization program
+EGY,Egypt,EMRO,2018,POL3,Polio - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+EGY,Egypt,EMRO,2018,POL3,Polio - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2018,POL3,Polio - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,13 months,Reported via national immunization program
+EGY,Egypt,EMRO,2018,HEPB3,Hepatitis B - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,1 months,Reported via national immunization program
+EGY,Egypt,EMRO,2018,HEPB3,Hepatitis B - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,
+EGY,Egypt,EMRO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),1,INFANT,Infants under 1 year,NATIONAL,16 months,Reported via national immunization program
+EGY,Egypt,EMRO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),2,CHILD,Children 1-5 years,NATIONAL,2 months,Reported via national immunization program
+EGY,Egypt,EMRO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,
+EGY,Egypt,EMRO,2020,MCV1,Measles-containing vaccine - 1st dose,1,INFANT,Infants under 1 year,NATIONAL,0 months,Reported via national immunization program
+EGY,Egypt,EMRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+EGY,Egypt,EMRO,2020,POL3,Polio - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,
+EGY,Egypt,EMRO,2020,HEPB3,Hepatitis B - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,
+EGY,Egypt,EMRO,2020,HEPB3,Hepatitis B - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2020,HEPB3,Hepatitis B - 3rd dose,3,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,3 months,Reported via national immunization program
+EGY,Egypt,EMRO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,INFANT,Infants under 1 year,NATIONAL,4 months,Reported via national immunization program
+EGY,Egypt,EMRO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,
+EGY,Egypt,EMRO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,7 months,Reported via national immunization program
+EGY,Egypt,EMRO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2022,MCV1,Measles-containing vaccine - 1st dose,1,INFANT,Infants under 1 year,NATIONAL,5 months,Reported via national immunization program
+EGY,Egypt,EMRO,2022,MCV1,Measles-containing vaccine - 1st dose,2,INFANT,Infants under 1 year,NATIONAL,6 months,
+EGY,Egypt,EMRO,2022,MCV1,Measles-containing vaccine - 1st dose,3,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),1,PREGNANT,Pregnant women,NATIONAL,N/A,
+EGY,Egypt,EMRO,2022,POL3,Polio - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+EGY,Egypt,EMRO,2022,HEPB3,Hepatitis B - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,13 months,Reported via national immunization program
+EGY,Egypt,EMRO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,6 months,Reported via national immunization program
+EGY,Egypt,EMRO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,3,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),3,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,16 months,Reported via national immunization program
+EGY,Egypt,EMRO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,CHILD,Children 1-5 years,NATIONAL,0 months,Reported via national immunization program
+EGY,Egypt,EMRO,2023,MCV1,Measles-containing vaccine - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),3,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2023,POL3,Polio - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+EGY,Egypt,EMRO,2023,HEPB3,Hepatitis B - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,9 months,Reported via national immunization program
+EGY,Egypt,EMRO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,13 months,Reported via national immunization program
+AUS,Australia,WPRO,2018,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+AUS,Australia,WPRO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,13 months,Reported via national immunization program
+AUS,Australia,WPRO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,
+AUS,Australia,WPRO,2018,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,INFANT,Infants under 1 year,NATIONAL,5 months,Reported via national immunization program
+AUS,Australia,WPRO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+AUS,Australia,WPRO,2018,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2018,MCV1,Measles-containing vaccine - 1st dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2018,MCV2,Measles-containing vaccine - 2nd dose (booster),2,INFANT,Infants under 1 year,NATIONAL,8 months,Reported via national immunization program
+AUS,Australia,WPRO,2018,POL3,Polio - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2018,POL3,Polio - 3rd dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2018,POL3,Polio - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,15 months,
+AUS,Australia,WPRO,2018,HEPB3,Hepatitis B - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,16 months,Reported via national immunization program
+AUS,Australia,WPRO,2018,HEPB3,Hepatitis B - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2018,HEPB3,Hepatitis B - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,12 months,Reported via national immunization program
+AUS,Australia,WPRO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,
+AUS,Australia,WPRO,2018,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),1,CHILD,Children 1-5 years,NATIONAL,10 months,Reported via national immunization program
+AUS,Australia,WPRO,2020,BCG,Bacille Calmette-Guerin (Tuberculosis),2,ELDERLY,Adults 65+,NATIONAL,N/A,
+AUS,Australia,WPRO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2020,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,CHILD,Children 1-5 years,NATIONAL,3 months,Reported via national immunization program
+AUS,Australia,WPRO,2020,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2020,MCV1,Measles-containing vaccine - 1st dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),1,CHILD,Children 1-5 years,NATIONAL,14 months,
+AUS,Australia,WPRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),2,INFANT,Infants under 1 year,NATIONAL,9 months,Reported via national immunization program
+AUS,Australia,WPRO,2020,MCV2,Measles-containing vaccine - 2nd dose (booster),3,INFANT,Infants under 1 year,NATIONAL,16 months,
+AUS,Australia,WPRO,2020,POL3,Polio - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,4 months,Reported via national immunization program
+AUS,Australia,WPRO,2020,POL3,Polio - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2020,POL3,Polio - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,15 months,Reported via national immunization program
+AUS,Australia,WPRO,2020,HEPB3,Hepatitis B - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2020,HEPB3,Hepatitis B - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,14 months,Reported via national immunization program
+AUS,Australia,WPRO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,
+AUS,Australia,WPRO,2020,PCV3,Pneumococcal conjugate vaccine - 3rd dose,3,INFANT,Infants under 1 year,NATIONAL,9 months,Reported via national immunization program
+AUS,Australia,WPRO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),2,INFANT,Infants under 1 year,NATIONAL,3 months,Reported via national immunization program
+AUS,Australia,WPRO,2022,BCG,Bacille Calmette-Guerin (Tuberculosis),3,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,INFANT,Infants under 1 year,NATIONAL,17 months,
+AUS,Australia,WPRO,2022,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,15 months,Reported via national immunization program
+AUS,Australia,WPRO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2022,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,3,INFANT,Infants under 1 year,NATIONAL,10 months,Reported via national immunization program
+AUS,Australia,WPRO,2022,MCV1,Measles-containing vaccine - 1st dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,
+AUS,Australia,WPRO,2022,MCV1,Measles-containing vaccine - 1st dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2022,MCV1,Measles-containing vaccine - 1st dose,3,CHILD,Children 1-5 years,NATIONAL,17 months,Reported via national immunization program
+AUS,Australia,WPRO,2022,MCV2,Measles-containing vaccine - 2nd dose (booster),1,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2022,POL3,Polio - 3rd dose,1,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2022,HEPB3,Hepatitis B - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,3 months,Reported via national immunization program
+AUS,Australia,WPRO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,2 months,
+AUS,Australia,WPRO,2022,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2023,BCG,Bacille Calmette-Guerin (Tuberculosis),2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,1,PREGNANT,Pregnant women,NATIONAL,N/A,
+AUS,Australia,WPRO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2023,DTP1,Diphtheria/Tetanus/Pertussis - 1st dose,3,CHILD,Children 1-5 years,NATIONAL,7 months,Reported via national immunization program
+AUS,Australia,WPRO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,12 months,Reported via national immunization program
+AUS,Australia,WPRO,2023,DTP3,Diphtheria/Tetanus/Pertussis - 3rd dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2023,MCV1,Measles-containing vaccine - 1st dose,1,CHILD,Children 1-5 years,NATIONAL,15 months,Reported via national immunization program
+AUS,Australia,WPRO,2023,MCV1,Measles-containing vaccine - 1st dose,2,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,
+AUS,Australia,WPRO,2023,MCV1,Measles-containing vaccine - 1st dose,3,PREGNANT,Pregnant women,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),1,PREGNANT,Pregnant women,NATIONAL,N/A,
+AUS,Australia,WPRO,2023,MCV2,Measles-containing vaccine - 2nd dose (booster),2,ELDERLY,Adults 65+,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2023,POL3,Polio - 3rd dose,1,INFANT,Infants under 1 year,NATIONAL,13 months,Reported via national immunization program
+AUS,Australia,WPRO,2023,HEPB3,Hepatitis B - 3rd dose,1,CHILD,Children 1-5 years,NATIONAL,7 months,
+AUS,Australia,WPRO,2023,HEPB3,Hepatitis B - 3rd dose,2,INFANT,Infants under 1 year,NATIONAL,10 months,
+AUS,Australia,WPRO,2023,HEPB3,Hepatitis B - 3rd dose,3,CHILD,Children 1-5 years,NATIONAL,14 months,Reported via national immunization program
+AUS,Australia,WPRO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,1,ADOLESCENT,Adolescents 10-19 years,NATIONAL,N/A,Reported via national immunization program
+AUS,Australia,WPRO,2023,PCV3,Pneumococcal conjugate vaccine - 3rd dose,2,PREGNANT,Pregnant women,NATIONAL,N/A,
